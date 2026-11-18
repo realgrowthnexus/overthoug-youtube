@@ -1,68 +1,69 @@
-# New session prompt — US TikTok psychology channel (automated)
+# New session prompt: Overthought on TikTok (US, automated)
 
 Copy everything below the line into a new Claude Code session.
 
 ---
 
-You're helping me build and automate a **US-focused TikTok channel** about everyday psychology, drawn as stick-figure animation. It's a standalone project: it has its own ideas, scripts, tracking and pipeline. It's separate from my YouTube long-form channel, which shares the visual style and topic area but nothing else. In earlier sessions I lost all my files when the container reset, so **set up a GitHub repo for this project first and commit work as you go.**
+You're helping me build and automate a **US-focused TikTok channel called "Overthought"**: everyday psychology explained with stick-figure animation. My YouTube channel uses the same brand, and its style kit, logo and pipeline already exist in the GitHub repo **`realgrowthnexus/overthoug-youtube`**. The TikTok project keeps its **own ideas, scripts, tracking and automation**.
+
+## 0. Setup first
+1. **Attach the brand repo** `realgrowthnexus/overthoug-youtube` and read its `README.md`.
+   - Reuse `brand/`, `style/`, `pipeline/style.py`, `pipeline/gen_scenes.py`, `style/fonts/` and `scenes/`. Copy them; don't fork the style.
+2. **Store all TikTok work in its own repo** so nothing is lost when the container resets. Ask me for the repo name (I'll create it on GitHub), attach it, and commit as you go.
+3. **RunPod image generation:** the API key is saved as a network secret on my Default cloud environment, and the proxy injects it.
+   - If you get a 401, ask me for the key with the credential tool.
+   - Never ask me to paste it into chat.
 
 ## 1. Concept
 - **Format:** short "your brain does this" explainers. Each video covers one relatable brain glitch, names a real study on screen, and ends with a payoff or fix.
 - **Content split:**
   - **70% "Why you do that":** everyday glitches everyone recognises.
-  - **30% "Spot the trick":** how shops, apps and people use these glitches on you, framed as protecting yourself, never as "how to manipulate people".
-- **Accuracy rule:** every claim must trace to a real study or a well-established effect, cited on screen as "Researcher · Institution · Year". Flag effects that failed to replicate (for example, ego depletion and power posing) instead of presenting them as fact. Correct famous myths, such as the 38-witnesses story in the Kitty Genovese case.
+  - **30% "Spot the trick":** how shops, apps and people use these glitches on you, always framed as protecting yourself, never as "how to manipulate people".
+- **Accuracy is the brand.** Every claim must trace to a real study, shown on screen as `→ Researcher · Institution · Year`.
+  - Flag effects that failed to replicate (for example, ego depletion and power posing) instead of presenting them as fact.
+  - Correct famous myths, such as the "38 witnesses" in the Kitty Genovese case.
+  - Never round a stat into something false. "About 25% noticed" must not become "nobody noticed".
 - **Audience:** US, English, ages 16–34. Use US references: dollars, US stores, US school and work life.
-- **Channel name:** not chosen yet. Shortlist: Overthought (current favourite), Why You Did That, Mind Glitch, Brainfold, Inner Static, Skull Notes, Little Brain, The Mind Room, Thinkhole, Neuronly. Help me pick one and remind me to check handle availability on TikTok, Instagram and YouTube.
+- **Handle:** @overthought if it's free. I'll confirm what I got.
 
-## 2. Visual style (already approved, keep it consistent)
-- **Background:** near-black charcoal `#111111`, not pure `#000000`, so frames don't melt into dark-mode UI or band under compression. Add a subtle centre glow or vignette.
-- **Character:** a classic stick figure in thin white hand-drawn lines: circle head, single-line body, line arms and legs. Use **one fixed character design** across all videos. Open decision: plain white head, or a yellow head as the mascot.
-- **Accent:** electric yellow `#FFE000`, used only on the "glitch" element: a question mark, lightbulb, decoy price tag, key number or keyword.
-- **Captions:**
-  - Font: Inter ExtraBold, white with a black stroke.
-  - Exactly **one yellow keyword** per caption.
-  - Hook text at the top, punchline at the bottom.
-  - Keep captions out of TikTok's UI zones: right-side buttons, bottom caption and username area, top tabs. Safe area is about the central 1080×1420 of a 1080×1920 frame.
-- **Citation tag:** a small yellow rounded outline box with yellow text, for example `Radvansky · Univ. of Notre Dame · 2011`.
-- **Mood:** late-night inner voice, minimal and mostly empty space. A quick yellow or white flash marks the payoff beat.
-- **Never** let the image model draw text. All text is added in code (PIL or ffmpeg) so it's spelled right and looks the same every time.
+## 2. Approved visual style (already locked, don't redesign)
+| Element | Spec |
+|---|---|
+| Background | Charcoal `#111111` with a soft centre glow. Never pure black. Lift generated blacks to `#111` so there are no seams |
+| Character | Thin white hand-drawn stick figure, **never yellow** |
+| Accent | Yellow `#FFD60A`, only on the glitch element (a question mark, lightbulb, decoy tag, key number). **Add yellow in code**, not in the image prompt |
+| Body text | **Kalam Bold**, warm off-white `#F6F1E6`, soft blurred shadow (no hard outline), lines tilted 1–2° |
+| Keyword | **Caveat Brush** in yellow, about 1.2× size, with a wobbly hand-drawn yellow underline. **One keyword per frame** |
+| Source | Yellow margin note with a hand-drawn arrow: `→ Gilovich · Cornell · 2000` |
+| Logo | Stick figure with a tangled yellow scribble bursting from its head (`scenes/logo_a.jpg`) |
+| Corner tag | Lowercase handwritten "overthought" plus a small yellow scribble |
+| 9:16 layout | Hook at the top, scene in the middle (1080×1080 at y≈430), punchline and source at the bottom |
+| Mood | Late-night inner voice. Minimal, mostly empty space, quick yellow or white flash on the payoff |
 
-### Image generation (RunPod)
-- **Endpoint:** RunPod serverless Flux dev, `POST https://api.runpod.ai/v2/black-forest-labs-flux-1-dev/runsync`. The API key is saved as a network secret on my Default cloud environment and the proxy injects it. If calls return 401, ask me for the key with the credential tool.
-- **Request body:** `{"input":{"prompt":...,"num_inference_steps":28,"guidance":3.5,"seed":N}}`
-- **Response:** the image URL is in `output.result`.
-- **Size and cost:** output is always 1024×1024, whatever size you request. About $0.012 per image (the schnell endpoint is about $0.003, for drafts).
-- **Prompt prefix that works:**
-  `classic stick figure made of single thin white lines: circle head, one straight line body, two line arms, two line legs, on pure black background, flat minimal hand-drawn vector, glowing electric yellow accent, no shading, no text, no letters, ` + scene description
-- **Prompt rules:** say "the stick figure is pure white lines" explicitly, or the model sometimes turns the figure yellow. Keep seeds fixed per character for consistency. Consider a character reference or LoRA approach if drift stays a problem.
-- **Composing a 9:16 frame:**
-  - Upscale the square scene to 1080×1080 and paste it at y≈420 on a 1080×1920 canvas.
-  - Blend the edges with a Gaussian-blurred mask, and fill the canvas with the scene's corner colour so there are no visible seams.
-  - Captions go above and below the scene.
+**Ready-made assets** in the brand repo:
+- `brand/tiktok_profile_1080.png`: the TikTok profile picture.
+- `brand/logo_mark_transparent.png`: the logo on a transparent background.
+- `style/reference_frames/sh1–sh4.png`: approved 9:16 frames to match.
 
-### Animation (to build)
-These are still scenes turned into motion:
-- lines drawing on
-- the accent element popping or glowing
-- slow push-in or Ken Burns movement
-- word-by-word captions synced to the voiceover
-- the loop line at the end leading back into the hook
+**TikTok safe zones:** keep all text inside roughly the central 1080×1420 of the 1080×1920 frame, clear of the right-side buttons, the bottom caption and username area, and the top tabs. Adjust `short()` if needed.
 
-Tools: ffmpeg, Python, optionally Remotion or MoviePy. Propose the simplest pipeline that looks good.
+### Image generation lessons (RunPod Flux dev)
+- **Run it:** `python3 pipeline/gen_scenes.py NAME "scene description" [--seed N] [--yellow]`. It costs about $0.012 per image.
+- **Size:** output is always 1024×1024, whatever size you request.
+- **Colour:** the default prompt is monochrome white. If you ask the image model for yellow, it often turns the character yellow too. Use `--yellow` only for the scribble-cloud type of element, and add other accents with `style.scene(..., tint=[(x,y,r)], fill=[(x,y)])`.
+- **Never let the model draw text.** All text goes on in code, so it's spelled right and looks the same every time.
+- **Consistency:** keep seeds and prompt wording stable. Regenerate when the figure drifts.
 
 ## 3. TikTok-specific format
-- **Length:**
-  - Most videos: 30–60 seconds.
-  - Some 61–75 second versions: videos over 1 minute qualify for the Creator Rewards Program, which needs a US account aged 18+, 10k followers and 100k views in the last 30 days. Verify the current rules.
-- **Opening:** the first 1 second must show the payoff image plus a hook line. No intros, no logo stings.
-- **Voiceover:** natural US English text-to-speech, or my own voice. Pick a TTS engine and confirm the commercial-use licence. Keep one consistent voice.
-- **Ending:** a loop line that leads back to the first line.
-- **On-screen text** plus a caption with 3–5 hashtags (mix niche and broad, for example #psychology #brainfacts #didyouknow).
-- **Sound:** trending sounds can't be added through the API. Plan a low-volume original music bed, and note which videos I should repost manually with a trending sound.
-- **AI disclosure:** TikTok requires the AI-generated content label for realistic AI media. Check whether it applies to stylised stick-figure art and default to labelling.
+- **Length:** mostly 30–60 seconds. Make some versions over 1 minute, because longer videos qualify for the Creator Rewards Program, which needs a US account aged 18+, 10k followers and 100k views in the last 30 days. Verify the current rules.
+- **Opening:** the payoff image plus the hook line in the first second. No intros.
+- **Ending:** a loop line that leads back to the opening line.
+- **Voiceover:** a calm, warm, slightly amused US English voice, like a smart friend at 2 a.m. Choose a text-to-speech engine with a commercial licence and keep one consistent voice.
+- **Caption:** a short hook plus 3–5 hashtags, mixing niche and broad (for example #psychology #brainfacts #didyouknow).
+- **Sound:** trending sounds can't be added through the API. Use a low original music bed, and flag videos worth reposting manually with a trending sound.
+- **AI label:** check whether TikTok's AI-generated content label applies to stylised art. Default to using it.
 
-## 4. Idea bank (starting 30, build to 100+)
+## 4. Idea bank (start with these 30, build to 100+)
 **Why you do that**
 1. doorway effect
 2. cocktail party effect
@@ -97,46 +98,44 @@ Tools: ffmpeg, Python, optionally Remotion or MoviePy. Propose the simplest pipe
 29. red notification dots
 30. bystander effect, plus the Genovese myth
 
-**Three approved scripts to adapt:**
-- **Doorway effect.** Radvansky, Notre Dame, 2011: people forgot more after walking through a doorway than after walking the same distance in one room. Fix: walk back through the door. Loop line: "So next time you're standing there wondering why you came in…"
-- **Spotlight effect.** Gilovich et al., Cornell, 2000: students in an embarrassing T-shirt guessed about 50% of the room noticed; about 25% did. Loop line: "So that thing you did yesterday that you're still thinking about…"
-- **Decoy effect.** Dan Ariely's Economist subscription example: Web $59, Print $125, Print + Web $125. 84% chose the bundle with the decoy present; without it, most chose web-only. Loop line: "Now go back and look at that menu again…"
+**Also adapt:** the 7 glitches in `scripts/lf01_your_brain_lies.md` in the brand repo. That's the YouTube long-form script, with sources and a fact-check list.
 
 ## 5. Tracking
-Build a tracker. I'm open to a database, a sheet or a dashboard; suggest one. For each video it records:
-- **Plan:** idea, angle (why or trick), hook text, study source, script version
+Build a tracker and propose the format. For each video it records:
+- **Plan:** idea, angle (why or trick), hook text, source, script version
 - **Production:** status (idea → script → visuals → voice → edit → scheduled → posted), post date and time
 - **Results:** views, average watch time, % watched full, likes, comments, shares, saves, follows gained
 
-Weekly review:
+**Weekly review:**
 - Double down on topics and hook styles that beat the channel median for completion and shares.
 - Retire what doesn't work.
-- Test one variable at a time: hook wording, length, mascot head colour, music.
-
-Getting stats in: the TikTok Display or Research APIs where available, otherwise a CSV export or manual entry.
+- Test one variable at a time: hook wording, length, music.
 
 ## 6. Automation goal
-I want Claude to run as much of this as possible:
-1. Generate and rank ideas.
+I want you to run as much of this as possible:
+1. Rank ideas.
 2. Write scripts with sources.
 3. Generate scenes on RunPod.
-4. Produce the TTS voiceover.
-5. Animate and edit to MP4 (1080×1920, H.264, 30fps).
-6. Write captions and hashtags.
+4. Produce the voiceover.
+5. Animate and edit to MP4 (1080×1920, H.264, 30fps), with:
+   - lines drawing on
+   - the accent element popping
+   - a slow push-in
+   - word-by-word captions synced to the voice
+6. Write the caption and hashtags.
 7. Queue for posting.
 8. Pull stats and update the tracker.
 9. Write a weekly report.
 
 **Guardrails:**
-- **Posting:** TikTok's Content Posting API needs a registered developer app, and unaudited apps can only post privately. Plan the app registration and audit, or a draft-upload flow where I press publish. Don't use unofficial auto-posting bots or browser automation that breaks TikTok's terms; the account is the asset.
-- **Quality:** every video needs a real hook, story and source. Avoid mass-produced, repetitive content, because both TikTok and YouTube suppress or demonetize it.
-- **Approval:** keep a human checkpoint before anything goes public, at least for the first month.
+- **Posting:** use TikTok's official Content Posting API through a registered developer app. Until TikTok approves the app, it can only post privately, so use a draft-upload flow where I press publish. No unofficial bots or browser automation; the account is the asset.
+- **Quality:** every video needs a real hook, story and source. No mass-produced, repetitive content.
+- **Approval:** I approve every video before it goes public, at least for the first month.
+- **Ask first** before anything that posts publicly, spends more than a few dollars, or creates accounts.
 
 ## 7. First tasks this session
-1. Set up the GitHub repo and folder structure: ideas, scripts, assets, renders, tracker, pipeline.
-2. Help me pick the name, then make the profile picture, banner or cover, and bio in the approved style.
-3. Lock the character design: generate 4 variants and let me choose.
-4. Build the pipeline end to end for script #1 (doorway effect) and show me the finished MP4.
-5. Propose the tracker and a 30-day posting calendar (aim for 1–2 posts a day), then show me the plan for the next 10 videos.
-
-Ask me before anything that posts publicly, spends more than a few dollars, or creates accounts.
+1. Attach the brand repo, set up the TikTok repo and folder structure, and copy the shared style kit.
+2. Write the TikTok bio, about 80 characters. Suggested start: "why your brain does that. real studies, tiny stick figures."
+3. Adapt the frame composer to TikTok's safe zones.
+4. Build the pipeline end to end for the doorway-effect video and show me the finished MP4.
+5. Propose the tracker and a 30-day posting calendar (1–2 posts a day), then show me the plan for the next 10 videos.
