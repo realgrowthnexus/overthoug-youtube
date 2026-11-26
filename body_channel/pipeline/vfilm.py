@@ -58,6 +58,17 @@ def parse(path):
         p = [x.strip() for x in line.split("|")]
         if len(p) < 5: continue
         raw = "|".join(p[4:]); shots.append(dict(id=p[0], pic=p[1], tok=p[2].split(), cap=p[3], raw=raw, vo=re.sub(r"\s*\[S[\d, S]+\]", "", raw).strip()))
+    # "=id" pointing at a sprite-only shot ("-") reuses that shot's sprites, already on stage (no entrance)
+    byid = {sh["id"]: sh for sh in shots}
+    for sh in shots:
+        t = sh
+        while t["pic"].startswith("=") and t["pic"][1:] in byid: t = byid[t["pic"][1:]]
+        if t is not sh and t["pic"] == "-" and not any(x.startswith("spr:") for x in sh["tok"]):
+            for x in t["tok"]:
+                if x.startswith("spr:"):
+                    name, rest = x.split("@", 1); parts = rest.split(",")
+                    parts = (parts + ["none", "breathe"])[:5]; parts[3] = "none"
+                    sh["tok"].append(name + "@" + ",".join(parts))
     # vitals carry forward from shot to shot
     v = dict(hr="72", temp="36.8", t="0", s="OK", o2="98")
     for sh in shots:
