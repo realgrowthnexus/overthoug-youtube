@@ -1,0 +1,84 @@
+# EP04 — Why It Sucks to Be Born as a Roman Gladiator
+# Composite character, Roman Empire, 2nd century AD. Sources at the bottom.
+HERO: a muscular young man in a simple brown loincloth, leather belt and sandals
+# id | picture | tokens | caption | narration
+# ---- HOOK ----
+g01 | a gladiator with a bronze helmet, small round shield and short sword standing alone in a huge sandy arena, nervous | zoomin | | You're standing on hot sand in front of fifty thousand screaming people. Somewhere in that crowd, a man is deciding whether you live or die.
+g02 | a huge crowd of round-headed Romans in togas cheering in stone stands | | | Half the crowd paid to see you win. The other half paid to see you bleed.
+g03 | =g01 | hold | | And you didn't sign up for this. Well. Technically you signed something. We'll get to that.
+g04 | a simple drawing of the Roman Colosseum with blue sky | birds panl | Rome, 2nd century AD | Let's go back to how you got here.
+g04a | =g02 | hold | | And stick around till the end, because the hardest fight of your life isn't in the arena. It's what happens when you win.
+# ---- BORN ----
+g05 | a happy family of round-headed villagers in simple tunics in front of a small hut in a forest | | | You're born on the edge of the Roman Empire, in a small village the Romans would describe as, not Roman enough.
+g06 | Roman soldiers with red shields and helmets marching into a village, villagers running | walk | | Which is a problem, because one day the Romans decide your village needs to be a lot more Roman. Or a lot less existing.
+g07 | a line of sad captives with ropes tied around their wrists being led by a Roman soldier | walk | prisoner of war | You're captured. And in Rome, a prisoner of war becomes property. Most gladiators started exactly like this. Prisoners, slaves, and criminals.
+g08 | a slave market with a man standing on a wooden platform and rich Romans in togas inspecting him | | | At the slave market, a buyer looks you over. Not your face. Your shoulders. Your teeth. Your legs.
+g09 | a fat rich Roman man in a purple-striped toga counting coins and smiling | sparkle | the lanista | He's a lanista. A gladiator manager. Think football club owner, except the players are his property, and the club is a prison.
+# ---- THE OATH ----
+g10 | {hero} raising his right hand making a serious oath, a Roman official holding a scroll | zoomin | the oath | Then comes the oath. Gladiators swore to endure being burned, bound, beaten, and killed by the sword.
+g11 | =g10 | hold | | Some free men actually volunteered for this. Poor men, men in debt, men who wanted fame. They signed up willingly and took the exact same oath.
+g12 | =g09 | hold | | Which tells you something about how bad normal life could be.
+g12a | a Roman gladiator in chains breaking free and running with other men towards mountains | walk | Spartacus, 73 BC | And yes, sometimes gladiators fought back. More than a hundred years before you, a gladiator called Spartacus broke out of his school with about seventy others and started a war that terrified Rome. It ended very badly for them. Your lanista has heard the story. Your door has a very good lock.
+# ---- THE SCHOOL ----
+g13 | a Roman gladiator school courtyard surrounded by small cells, men training with wooden swords | panr | the ludus | Your new home is a ludus, a gladiator school. It's a training camp, a dormitory, and a jail, all in one.
+g14 | {hero} sleeping in a tiny bare stone cell with a straw mat | | | You get a tiny cell. No windows worth mentioning. Somewhere to sleep between beatings.
+g15 | {hero} hitting a big wooden post with a wooden sword, sweating | struggle | | Training starts immediately. Wooden swords. Wooden posts. Hours and hours of the same moves until your body does them without thinking.
+g16 | a tough old gladiator trainer with scars and a whip shouting | wag | | Your trainers are often veteran gladiators. Men who survived long enough to teach. They are not gentle.
+g17 | a row of different gladiators: one with a net and trident, one with big helmet and rectangular shield, one with small round shield and curved sword | sparkle | | You're assigned a fighting style. Each type had different armour and weapons, and they were matched against each other to make the fights interesting.
+g18 | =g17 | zoomin | | The net and trident guy. The heavy shield guy. The fast guy with almost no armour. It's basically choosing a character class, except the game is real.
+g18a | a Roman female gladiator with a sword and shield, determined | sparkle | | Fun fact. There were even a few female gladiators. Rare, controversial, and the Roman upper class found them shocking. Which, coming from people who watched men die for fun, is quite something.
+# ---- THE DIET ----
+g19 | a big wooden bowl of grey barley porridge with beans, steaming, a sad spoon | zoomin | barley men | And what do they feed you? Barley. And beans. And more barley. Gladiators were nicknamed hordearii. Barley men.
+g20 | a scientist in a lab coat examining a skull and bones with a magnifying glass | sparkle | Ephesus, 1993 | We actually have evidence for this. In nineteen ninety-three, archaeologists found a gladiator cemetery at Ephesus, in modern Turkey. Chemical tests on the bones showed they ate a mostly plant-based diet.
+g21 | {hero} holding a cup with grey drink and making a disgusted face | bob | | And the same tests suggest they drank a special recovery drink. Made of plant ash. Ancient sources say gladiators drank it to recover after training. You are the world's first sports drink customer, and it tastes like a fireplace.
+g22 | =g20 | hold | | The good news? Your bones were probably stronger for it. The bad news? Stronger bones are mostly useful for getting hit more times.
+# ---- THE DOCTOR ----
+g23 | a Roman doctor in a toga stitching a wound on a gladiator's arm with jars of medicine on a shelf | | | Here's something surprising. You get good medical care. Some of the best in the Roman world.
+g24 | =g23 | zoomin | Galen | The famous doctor Galen actually worked as a physician for gladiators early in his career. He later said it was where he learned the most about wounds.
+g25 | =g09 | wag | | Why so much care? Because you are expensive. A dead gladiator is money in the ground. Your owner doesn't love you. He loves his investment.
+g25a | =g13 | hold | 2 or 3 fights a year | And here's something most movies get wrong. Gladiators didn't fight every day. Many probably fought only two or three times a year. The rest of the time? Training. Waiting. Thinking about the next one.
+# ---- FIRST FIGHT ----
+g26 | a gladiator walking through a dark stone tunnel towards a bright light | walk zoomin | | And then, after months of training, it's your first fight.
+g26a | a long Roman banquet table full of food with gladiators eating while curious townspeople watch | zoomin | the last supper | The night before the games, gladiators were given a big public feast. People came to stare at you while you ate. Some men enjoyed it. Some couldn't touch the food. Some used it to say goodbye, and to make their wills.
+g26b | a painted Roman wall advertisement with simple gladiator drawings and numbers | panr | | All over town, the fights were advertised by painting notices on the walls. Your name might be on one. Like a concert poster. Except the band might die.
+g26c | =g02 | | | And the games run all day. In the morning, wild animal hunts. Around lunchtime, criminals were executed. And in the afternoon, the main event. You.
+g27 | =g02 | | | The crowd is huge. There's music. Yes, music. Horns and even a water organ played during the fights.
+g28 | two gladiators fighting each other in an arena, one with a net and trident and one with a big shield | | | You fight. It's fast. It's exhausting. And everyone around you is shouting advice they would never follow themselves.
+g29 | a referee in a white tunic holding a long stick standing between two gladiators | wag | the referee | And there's a referee. Gladiator fights had rules, and a referee with a stick to enforce them.
+g30 | =g01 | hold | | Now, the big question. Did every fight end in death? No. Gladiators were too expensive for that.
+g31 | a scroll with Roman numbers and a small chart | | maybe 1 in 10 | Historians estimate that in the early empire, something like one fight in ten ended with a death. Later, it got worse.
+g32 | a Roman emperor in a box with a laurel wreath holding his hand out, thumb sideways | zoomin | | If you lose but fought well, the crowd can ask for mercy, and the man paying for the games decides. Thumbs up, thumbs down? Historians aren't actually sure which gesture meant what.
+g33 | =g32 | hold | | So your life depends on a hand signal that nobody, even today, can fully explain.
+g33a | =g28 | hold | | And if mercy is refused? A defeated gladiator was expected to accept the final blow with courage. No begging. No running. The crowd wanted the death to look brave. Even your ending is part of the show.
+# ---- FAME ----
+g34 | a stone wall with simple scratched drawings of gladiators and hearts | sparkle | Pompeii | But if you win? You become famous. In Pompeii, someone scratched graffiti about a gladiator named Celadus, saying he made the girls sigh.
+g35 | {hero} flexing muscles while fans in togas cheer and throw flowers | bob | | You have fans. Rich women. Kids who play gladiators in the street. Your face, sort of, on cheap little lamps and souvenirs.
+g36 | a small glass bottle with a label, a Roman lady dabbing it on her face | sparkle | | Some sources even say the sweat and oil scraped off gladiators' skin was sold as a beauty product. You are, possibly, a skincare brand.
+g37 | =g14 | zoomin | | And yet, after every fight, you go back to the same tiny cell. Famous, adored, and still somebody's property.
+g37a | a Roman emperor wearing gladiator armour and a crown, posing proudly with a wooden sword | wag | Emperor Commodus | Gladiators were so famous that one emperor, Commodus, actually fought in the arena himself. Of course, his opponents were not exactly allowed to win. Imagine being told to lose to your boss, but in a way where you don't die.
+# ---- THE ODDS ----
+g38 | =g20 | hold | | Back to that cemetery at Ephesus. The skeletons tell us how this usually ends.
+g39 | a skull with a few small round holes in it, sitting on a table under a lamp | zoomin | | Many of the gladiators buried there died in their twenties. One skull had three holes in it. The exact spacing of a trident.
+g40 | =g23 | | | And many of their bones show old wounds that had healed. Proof that they were patched up, sent back out, and patched up again. Until one day they weren't.
+g40a | a simple Roman gravestone with carved words and a small carved helmet, flowers in front of it | | | Some gladiators even had gravestones paid for by their wives or friends. Short messages. A name, an age, the number of fights. A whole life written in a few lines of stone.
+# ---- FREEDOM ----
+g41 | {hero} older with scars receiving a simple wooden sword from a Roman official, crowd cheering | sparkle zoomin | the rudis | But you're one of the lucky ones. After years of wins, you receive a wooden sword. It's called the rudis. It means you're free. You'll never have to fight again.
+g42 | {hero} walking out of a city gate alone carrying a wooden sword, looking around confused | walk | | You walk out into the world. You're thirty-ish, covered in scars, and the only thing you've ever been good at is fighting in front of a crowd.
+g43 | =g42 | hold | | No job. No family. No skills anyone will pay for.
+g44 | =g26 | zoomin | | And so, like some freed gladiators really did, you go back. Same arena. Same sand. Except now you're doing it for money.
+g44a | =g16 | | | Or maybe, if you're lucky, you become a trainer. You spend the rest of your life teaching scared young men the exact moves that kept you alive. And watching some of them not come back.
+# ---- OUTRO ----
+g45 | =g07 | | | So that's your life. Captured. Sold. Fed barley, trained like an animal, cheered like a celebrity, and stitched up like an investment.
+g46 | =g41 | | | You finally won your freedom, and found out the world outside the arena had no place for you.
+g47 | a plague doctor, a chimney sweep boy and an executioner waving together | endcard static | | Thanks for living it with us. Which life should we live next? Tell us in the comments. And subscribe, so you don't miss your next past life.
+# ---- SOURCES ----
+# [S1] Wikipedia "Gladiator": origins (POWs, slaves, criminals, volunteers/auctorati), oath (uri, vinciri, verberari, ferroque necari),
+#      ludus, lanista, gladiator types, referee (summa rudis), music incl. water organ, missio and the unclear thumb gesture,
+#      mortality estimates (Ville: ~1 in 9 in 1st c. AD, worse later), rudis, freed gladiators returning, Pompeii graffiti (Celadus),
+#      strigil scrapings sold. https://en.wikipedia.org/wiki/Gladiator
+# [S2] Lösch et al. 2014, PLOS ONE (Ephesus cemetery found 1993; plant-based diet; Sr/Ca suggests plant-ash drink).
+#      https://pmc.ncbi.nlm.nih.gov/articles/PMC4198250 ; NPR: https://www.npr.org/blogs/thesalt/2014/10/27/357903336/
+# [S3] Kanz & Grossschmidt 2006 (Ephesus skeletons: young age at death, healed wounds, trident wound). Archaeology magazine:
+#      https://archive.archaeology.org/0811/abstracts/gladiator.html
+# [S4] Galen as physician to gladiators at Pergamon (c. AD 157). https://en.wikipedia.org/wiki/Galen
+# Fact-check: "fifty thousand" is the usual Colosseum capacity estimate (50-80k) — keep as a rough figure.

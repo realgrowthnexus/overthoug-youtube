@@ -1,0 +1,83 @@
+# EP02 — Why It Sucks to Be Born as a Medieval Executioner
+# Based on the documented life of Frantz Schmidt (c.1554-1634), executioner of Nuremberg. Sources at the bottom.
+HERO: a young man with a red tunic, dark grey trousers and brown boots
+# id | picture | tokens | caption | narration
+# ---- HOOK ----
+e01 | {hero} standing nervously holding a long heavy sword with both hands, sweat drops | zoomin | 19 years old | You are nineteen years old, and in about one minute, you have to kill a man in front of the entire town.
+e02 | a large crowd of round-headed medieval townspeople staring and pointing angrily | | | Five hundred people came to watch. Half of them will cheer for you. The other half will never touch your hand again.
+e03 | =e01 | hold | | And the worst part? You never chose this job. Your father got it by accident. And now it's yours forever.
+e04 | a simple medieval German town with timber houses and a church tower | birds panl | Germany, 1554 | Let's go back to how you got here. Technically this is the fifteen hundreds, not the Middle Ages. But nobody ever got sued for saying medieval.
+e04a | =e02 | hold | | And don't worry. This is not one of those made up stories. The man you're about to become was real. He kept a diary. We'll get to that.
+# ---- BORN ----
+e05 | a medieval father with a bow and a mother holding a small baby, happy, in front of a small cottage | | | You're born around fifteen fifty-four, in the town of Hof, in Bavaria. Your dad is a normal guy. He works in the woods.
+e06 | a proud medieval prince with a crown and a big fur cloak pointing angrily | wag | | Then one day, a prince shows up who needs three prisoners hanged. And the town has no executioner.
+e06a | =e06 | zoomin | Margrave Albrecht Alcibiades | His name is Margrave Albrecht Alcibiades. Yes, that's a real name. He is famous mostly for starting wars, and he's not the kind of man you say no to.
+e07 | a crowd of medieval people all pointing at one confused man in the middle | zoomin | | So the prince looks at the crowd, picks a random man, and orders him to do it. That man is your dad.
+e08 | =e07 | hold | | Say no, and maybe it's your neck in the rope. So your dad says yes.
+e09 | a sad medieval man sitting alone on a bench while other people walk away from him | | "dishonourable" | And just like that, your whole family is ruined. In this world, the executioner is officially dishonourable. Not a bad person. Something worse. Unclean.
+e09a | a medieval executioner's house standing alone outside the town walls, townspeople looking at it suspiciously | panr | | Executioners in German lands were often expected to live apart, at the edge of town. People avoided touching them. Some even believed that just touching an executioner could make you dishonourable too.
+e09b | =e09a | zoomin | | Think about that. You can catch shame like a cold. And your family is now patient zero.
+# ---- OUTCAST ----
+e10 | a medieval boy in a red tunic standing alone while other children play together far away | walk | | You grow up as the executioner's kid. Other children are told not to play with you.
+e11 | inside a medieval church with wooden pews, one empty separate bench at the very back | zoomin | | At church, your family sits apart.
+e12 | a medieval tavern with people drinking, one separate three-legged stool alone in a corner | | | At the tavern, executioners often had their own seat or their own cup, so nobody would accidentally drink after them.
+e13 | a medieval guild master in a fancy hat shaking his head and blocking a door | wag | | You can't join a guild. You can't become a baker, a carpenter, or anything respectable. There is exactly one career open to you.
+e14 | =e09 | hold | | Your dad's. Forever. And then your kids' too.
+e14a | two medieval families meeting at a wedding, both fathers holding swords, awkward smiles | | | Even marriage is a problem. Who marries an executioner's kid? Usually, another executioner's kid. Whole family dynasties of hangmen marrying each other, because nobody else would.
+# ---- TRAINING ----
+e15 | a medieval father and teenage son practising sword swings on a pumpkin, the son concentrating | bob | Training | So your dad trains you. You practice your sword swing on animals and pumpkins, because the real exam is a human being.
+e16 | an open book with a skeleton and medical diagrams, a candle | sparkle | | You also learn something surprising. Anatomy. Bones, joints, muscles. An executioner has to know exactly how a body works.
+e17 | a medieval torture rack in a stone dungeon, simple and not graphic | hold | | Partly to execute people quickly. And partly, let's be honest, because the job also includes torture. Here's the official interrogation room. Moving on.
+e17a | a medieval man in a red tunic dragging a dead horse on a rope, holding his nose | walk | the side jobs | And then there are the side jobs. In many towns, the executioner also had to deal with the jobs nobody else would touch. Removing dead animals. Cleaning out latrines. Chasing away stray dogs.
+e17b | =e17a | hold | | So your career path is: kill criminals, torture suspects, and pick up dead horses. LinkedIn would not know what to do with you.
+e17c | a stern judge in black robes and a big hat reading out a law book in a courtroom | | the Carolina code, 1532 | And it gets worse. Under the empire's criminal code, a death sentence usually needed a confession. And the law allowed torture to get one. So when the court needs a confession, guess who they send for.
+e17d | =e17c | hold | | Not the judge. The judge has clean hands. That's what you're for.
+# ---- FIRST DAY ----
+e18 | =e01 | zoomin | 5 June 1573 | On the fifth of June, fifteen seventy-three, you perform your first execution. And you do something almost no executioner did.
+e19 | {hero} sitting at a wooden desk writing in a journal with a quill by candlelight | | | You write it down. And you'll keep writing for the next forty-five years.
+e20 | an old leather journal open with many handwritten lines | sparkle zoomin | | That diary survived. It's one of the reasons we know this life wasn't just in your head.
+e20a | =e20 | hold | | At first, your entries are short. Just a name, a crime, and the punishment. But over the years, they get longer. You start writing who these people were, and what they did. Almost like you're trying to explain it. To someone. Maybe to yourself.
+# ---- NUREMBERG ----
+e21 | a big walled medieval city with towers and a river and a bridge | birds panr | Nuremberg, 1578 | A few years later, you land the big job. Master executioner of Nuremberg, one of the richest cities in the Holy Roman Empire.
+e22 | a small house on top of a covered wooden bridge over a river | zoomin | | The city gives you a house. Not in town, of course. On a bridge over the river, slightly away from everyone. Locals called it the hangman's bridge.
+e23 | a pouch of gold coins and a stack of silver coins on a table | sparkle | | The pay is good. Better than most craftsmen. The city needs you, and they know nobody wants your job.
+e24 | {hero} getting married to a woman in a simple dress, a small priest between them | | | You even get married and have seven kids. Your wife becomes the executioner's wife. You can guess how the neighbours take that.
+e24a | {hero} buying bread at a market stall while the baker holds out the bread on a long stick to avoid touching him | | | Even shopping is awkward. People don't want to touch your hands, your money, or your shadow. Imagine trying to buy bread from a baker who'd rather throw it at you.
+# ---- THE JOB ----
+e25 | a scroll with a list of crimes and a wax seal | | | Your clients are thieves, robbers, murderers. Most are hanged. Some, by sword.
+e26 | =e01 | hold | | And here's the thing about a sword execution. You get one swing. Miss, and the crowd turns on you.
+e27 | a crowd of angry medieval people throwing stones and vegetables | | | That's not a joke. If an execution went badly, an angry crowd could attack the executioner. You are basically doing live theatre, where the audience might kill you.
+e27a | a sad prisoner sitting at a table eating a big last meal with a candle, guards waiting | zoomin | the last meal | Before an execution, the condemned person was often given a final meal. Sometimes a very good one. You may be the only person in town who sees that people about to die are still people.
+e27b | a long heavy sword with a flat blunt rounded tip lying on a velvet cloth | sparkle | | And look at your sword. It doesn't even have a sharp point. An executioner's sword wasn't built for fighting. It was built for exactly one thing. One clean swing.
+e28 | =e19 | | Hundreds | Over your career, your diary records hundreds of executions. And you write every one in the same calm, careful way.
+e29 | a medieval woman being defended by a man in a red tunic speaking to city councillors in robes | | 1580 | You also push for some changes. Around fifteen eighty, you help convince the city to stop drowning women as a punishment, and to use the sword instead. Which, in your world, counts as mercy.
+e29a | a medieval apothecary shelf with jars and small bottles with strange labels | zoomin | | And here's a fact that will put you off your lunch. Executioners in German lands were known to sell healing remedies made from the bodies of the executed. Fat, skin, bones. People believed it was powerful medicine. And they paid well.
+e29b | =e29a | hold | | Same townspeople. Won't shake your hand. Will absolutely buy a jar of something from you after dark.
+e29c | =e19 | zoomin | | But honestly? The strangest part of your life isn't the killing. It's what you do on your days off.
+# ---- THE SECOND JOB ----
+e30 | {hero} as a healer bandaging the arm of a patient, jars of medicine on a shelf | | | Now here's the twist nobody expects. Your other job? Doctor.
+e31 | a long queue of medieval patients with bandages and crutches waiting at a door | walk | 15,000 patients | Executioners knew bodies better than most doctors. So people secretly came to you to fix broken bones and wounds. By your own count, you treated around fifteen thousand patients.
+e32 | a medieval patient walking away happy and then pretending not to see the healer on the street | walk | | They'll let you heal them in private. Then pretend they don't know you on the street.
+e33 | {hero} at a tavern table drinking only water from a cup, while others drink beer | | | You also reportedly never drink alcohol. In a century where everyone drinks beer for breakfast, the town's executioner is the most sober man in Nuremberg.
+e33a | =e33 | zoomin | | Maybe it's discipline. Maybe it's because a drunk executioner is a terrible idea. Or maybe it's because you know that one bad day at work, for you, means a horror show for everyone watching.
+# ---- RETIREMENT ----
+e34 | an older tired man with grey hair in a red tunic putting a sword down on a table | | 1618 | After about forty years, you retire. Your body is tired. Your name still isn't clean.
+e35 | an older man with grey hair writing a letter with a quill, hopeful | | | So you do the one thing you've wanted since childhood. You write to the emperor and beg for your honour back. Not for you. For your kids.
+e36 | a medieval emperor with a crown sitting on a throne reading a letter | sparkle | 1624 | And in sixteen twenty-four, at seventy years old, the emperor actually says yes.
+e37 | =e35 | zoomin | | After a lifetime of killing for the law, the law finally decides you are a respectable person. Your kids can finally live normal lives.
+e37a | =e34 | hold | | Because remember. That's the whole point. You never wanted to be clean for yourself. You wanted your children to walk into a church, sit wherever they like, and have nobody move away.
+e38 | an old man in a red tunic sitting on a bench under a tree at sunset, peaceful | birds | 1634 | You die ten years later, in sixteen thirty-four. And people actually attend your funeral. Respectable ones.
+e38a | =e20 | sparkle | | And your diary? It survives. Centuries later, it gets printed and translated into English. The man nobody would sit next to in church becomes one of the most famous executioners in history, because he wrote it all down.
+e38b | =e38a | hold | | Historians still read your words today. Which is more than anyone can say for the people who moved away from you at church.
+# ---- OUTRO ----
+e39 | =e09 | | | So that's your life. Born into a normal family. Ruined because a prince needed a hangman. Shunned for doing the job your city paid you to do.
+e40 | =e31 | | | And the people who refused to shake your hand at church were the same people knocking on your door at night to fix their broken arms.
+e41 | {hero} waving goodbye with a friendly smile | endcard static | | Thanks for living it with us. Next time, you're a plague doctor. Bird mask, terrible medicine, worst possible timing. Subscribe, and pick your next past life.
+# ---- SOURCES ----
+# [S1] Wikipedia, "Franz Schmidt (executioner)": born c.1554 Hof; father forced into the job; first execution 1573; Nuremberg 1578-1618;
+#      diary; replacing drowning with the sword; honour restored by Ferdinand II in 1624; died 1634. https://en.wikipedia.org/wiki/Franz_Schmidt_(executioner)
+# [S2] Joel F. Harrington, The Faithful Executioner (2013): outcast status, medical practice (~15,000 patients by his estimate),
+#      teetotal, petition for honour. Vanderbilt summary: https://news.vanderbilt.edu/2013/06/12/torturer-killer-honorable-life
+# [S3] Nuremberg Henkerhaus / Henkersteg (hangman's house on the bridge): https://www.stripes.com/living/europe_travel/quick_trips/2024-08-29/executioners-house-bavaria-crime-punishment-14921201.html
+# Fact-check before publishing: execution count (361 vs 394 differs by source, so the script says "hundreds");
+#   tavern own-cup custom is general German practice (Harrington), not specific to Schmidt; seven children per Harrington.

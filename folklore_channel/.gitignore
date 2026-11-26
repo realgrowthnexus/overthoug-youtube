@@ -1,0 +1,6 @@
+voices/*.onnx
+*.mp4
+*.wav
+pipeline/.paper.npz
+__pycache__/
+renders/
