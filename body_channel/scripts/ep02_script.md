@@ -118,6 +118,7 @@ _Word count: 1339 (~8.9 min at 150 wpm)._
 - The scenario (holding an anchor, sinking at ~1 m/s) is hypothetical and labelled on screen. Trieste averaged ≈0.63 m/s (10.9 km in 4 h 47 min); narration says we sink "a bit faster" — OK. Our 3-hour arrival = 10,935 m ÷ 1 m/s, an assumption.
 - "Around sixty percent water": USGS (S19).
 - Lung volume at 1,000 m ≈ 1/100 (Boyle's law at ~100 atm absolute ≈ 1/101) — derived from S3.
+- HUD core temperatures after death are illustrative (a body cools gradually toward the 1–4 °C water over many hours); the monitor is labelled SIMULATION.
 - Everest: 10,935 − 8,849 = 2,086 m → "more than two kilometres". OK.
 - Supergiant amphipods "much bigger than the usual ones": S4 says "huge amphipods known as supergiants". OK.
 - The 2023 record fish was in the Izu–Ogasawara Trench (near Japan), not the Mariana Trench. Narration says so.

@@ -71,3 +71,7 @@ Longest you've ever stayed awake? Be honest 👇 (Randy's record: 264 hours.)
 ## Shorts (cut from this video, 9:16, 30–50 s, posted Fri and Sun after the long video; link the long video as "Related video")
 1. 17 hours awake = your brain on 0.05% alcohol. #sleep #science
 2. This teen stayed awake for 11 days. Here's what it did to him. #science #body
+
+### Cut points (vertical 1080×1920, made from the rendered episode)
+- Short 1: start 1:26.5, 36.5 s, on-screen title "17 HOURS AWAKE = DRUNK?". Make it with `python3 pipeline/shorts.py out/EP01.mp4 86.46 36.5 "17 HOURS AWAKE = DRUNK?" out/EP01_short1.mp4`
+- Short 2: start 0:00.0, 47.8 s, on-screen title "11 DAYS WITHOUT SLEEP". Make it with `python3 pipeline/shorts.py out/EP01.mp4 0.0 47.8 "11 DAYS WITHOUT SLEEP" out/EP01_short2.mp4`

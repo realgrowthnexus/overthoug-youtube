@@ -1,779 +1,779 @@
 1
-00:00:00,100 --> 00:00:01,983
+00:00:00,100 --> 00:00:01,975
 Three hundred million volts.
 
 2
-00:00:01,983 --> 00:00:04,942
+00:00:01,975 --> 00:00:04,921
 Thirty thousand amps. Your wall socket gives
 
 3
-00:00:04,942 --> 00:00:07,564
+00:00:04,921 --> 00:00:07,532
 you about one hundred and twenty volts.
 
 4
-00:00:07,564 --> 00:00:09,380
+00:00:07,532 --> 00:00:09,340
 You just got the whole sky.
 
 5
-00:00:09,930 --> 00:00:12,297
+00:00:09,890 --> 00:00:12,221
 The air around the bolt heats to around
 
 6
-00:00:12,297 --> 00:00:14,360
+00:00:12,221 --> 00:00:14,253
 fifty thousand degrees Fahrenheit.
 
 7
-00:00:14,360 --> 00:00:16,727
+00:00:14,253 --> 00:00:16,584
 That's about five times hotter than the
 
 8
-00:00:16,727 --> 00:00:17,880
+00:00:16,584 --> 00:00:17,720
 surface of the Sun.
 
 9
-00:00:18,430 --> 00:00:21,503
+00:00:18,270 --> 00:00:21,113
 And yet, about nine out of ten people struck
 
 10
-00:00:21,503 --> 00:00:22,970
+00:00:21,113 --> 00:00:22,470
 by lightning survive.
 
 11
-00:00:23,520 --> 00:00:25,506
+00:00:23,020 --> 00:00:25,094
 That sounds like the good news.
 
 12
-00:00:25,506 --> 00:00:28,070
+00:00:25,094 --> 00:00:27,769
 It isn't, really. Because what lightning
 
 13
-00:00:28,070 --> 00:00:30,825
+00:00:27,769 --> 00:00:30,646
 does to the survivors is the strangest part
 
 14
-00:00:30,825 --> 00:00:32,106
+00:00:30,646 --> 00:00:31,984
 of this whole story.
 
 15
-00:00:32,106 --> 00:00:34,862
+00:00:31,984 --> 00:00:34,860
 Let's go back thirty minutes, to the moment
 
 16
-00:00:34,862 --> 00:00:36,720
+00:00:34,860 --> 00:00:36,800
 you made a terrible decision.
 
 17
-00:00:37,270 --> 00:00:38,751
+00:00:37,350 --> 00:00:38,903
 It's a summer afternoon.
 
 18
-00:00:38,751 --> 00:00:40,232
+00:00:38,903 --> 00:00:40,455
 You're on a golf course.
 
 19
-00:00:40,232 --> 00:00:42,948
+00:00:40,455 --> 00:00:43,301
 There's a dark cloud way off on the horizon.
 
 20
-00:00:42,948 --> 00:00:45,170
+00:00:43,301 --> 00:00:45,630
 It isn't even raining where you are.
 
 21
-00:00:45,720 --> 00:00:48,144
+00:00:46,180 --> 00:00:48,641
 You hear a low rumble of thunder.
 
 22
-00:00:48,144 --> 00:00:50,421
+00:00:48,641 --> 00:00:50,952
 You think, eh, it's miles away.
 
 23
-00:00:50,421 --> 00:00:51,670
+00:00:50,952 --> 00:00:52,220
 Three more holes.
 
 24
-00:00:52,220 --> 00:00:54,880
+00:00:52,770 --> 00:00:55,450
 Here's the problem. Lightning often strikes
 
 25
-00:00:54,880 --> 00:00:57,355
+00:00:55,450 --> 00:00:57,942
 more than three miles from the centre of
 
 26
-00:00:57,355 --> 00:00:59,211
+00:00:57,942 --> 00:00:59,812
 a storm, far outside the rain.
 
 27
-00:00:59,211 --> 00:01:01,809
+00:00:59,812 --> 00:01:02,429
 So-called bolts from the blue can land ten
 
 28
-00:01:01,809 --> 00:01:03,170
+00:01:02,429 --> 00:01:03,800
 to fifteen miles away.
 
 29
-00:01:03,720 --> 00:01:06,546
+00:01:04,350 --> 00:01:07,126
 The National Weather Service puts it bluntly.
 
 30
-00:01:06,546 --> 00:01:08,995
+00:01:07,126 --> 00:01:09,532
 If you can hear thunder, even a distant
 
 31
-00:01:08,995 --> 00:01:11,130
+00:01:09,532 --> 00:01:11,630
 rumble, you are already in danger.
 
 32
-00:01:11,680 --> 00:01:14,513
+00:01:12,180 --> 00:01:15,013
 And standing in an open field, as the tallest
 
 33
-00:01:14,513 --> 00:01:17,409
+00:01:15,013 --> 00:01:17,909
 thing around, holding a long stick, is exactly
 
 34
-00:01:17,409 --> 00:01:19,550
+00:01:17,909 --> 00:01:20,050
 how you make yourself interesting.
 
 35
-00:01:20,100 --> 00:01:22,571
+00:01:20,600 --> 00:01:23,064
 There are five main ways lightning gets
 
 36
-00:01:22,571 --> 00:01:23,902
+00:01:23,064 --> 00:01:24,391
 you. A direct strike.
 
 37
-00:01:23,902 --> 00:01:26,690
+00:01:24,391 --> 00:01:27,170
 A side flash, where it hits a tree and jumps
 
 38
-00:01:26,690 --> 00:01:28,844
+00:01:27,170 --> 00:01:29,318
 to the person sheltering under it.
 
 39
-00:01:28,844 --> 00:01:31,569
+00:01:29,318 --> 00:01:32,035
 Standing under a tree is the second leading
 
 40
-00:01:31,569 --> 00:01:33,470
+00:01:32,035 --> 00:01:33,930
 cause of lightning casualties.
 
 41
-00:01:34,020 --> 00:01:36,410
+00:01:34,480 --> 00:01:36,815
 Ground current, where the energy spreads
 
 42
-00:01:36,410 --> 00:01:37,784
+00:01:36,815 --> 00:01:38,158
 out through the ground.
 
 43
-00:01:37,784 --> 00:01:40,233
+00:01:38,158 --> 00:01:40,551
 That one causes the most lightning deaths
 
 44
-00:01:40,233 --> 00:01:42,921
+00:01:40,551 --> 00:01:43,178
 and injuries, because it covers a much bigger
 
 45
-00:01:42,921 --> 00:01:43,220
+00:01:43,178 --> 00:01:43,470
 area.
 
 46
-00:01:43,770 --> 00:01:46,157
+00:01:44,020 --> 00:01:46,311
 Conduction, through wires and pipes.
 
 47
-00:01:46,157 --> 00:01:48,941
+00:01:46,311 --> 00:01:48,985
 That's how people get hurt indoors, in the
 
 48
-00:01:48,941 --> 00:01:50,864
+00:01:48,985 --> 00:01:50,831
 shower, or on a corded phone.
 
 49
-00:01:50,864 --> 00:01:53,714
+00:01:50,831 --> 00:01:53,568
 And streamers, little sparks of electricity
 
 50
-00:01:53,714 --> 00:01:56,300
+00:01:53,568 --> 00:01:56,050
 rising off the ground to meet the bolt.
 
 51
-00:01:56,850 --> 00:01:59,011
+00:01:56,600 --> 00:01:58,842
 Today, you go for the classic.
 
 52
-00:01:59,011 --> 00:02:02,541
+00:01:58,842 --> 00:02:02,504
 A direct strike. The rarest kind, but potentially
 
 53
-00:02:02,541 --> 00:02:03,550
+00:02:02,504 --> 00:02:03,550
 the deadliest.
 
 54
-00:02:04,100 --> 00:02:06,946
+00:02:04,100 --> 00:02:06,923
 The bolt hits you, and something surprising
 
 55
-00:02:06,946 --> 00:02:09,594
+00:02:06,923 --> 00:02:09,549
 happens. A lot of the current doesn't go
 
 56
-00:02:09,594 --> 00:02:12,241
+00:02:09,549 --> 00:02:12,176
 through you. It races along the outside,
 
 57
-00:02:12,241 --> 00:02:13,565
+00:02:12,176 --> 00:02:13,489
 just over your skin.
 
 58
-00:02:13,565 --> 00:02:15,220
+00:02:13,489 --> 00:02:15,130
 This is called flashover.
 
 59
-00:02:15,770 --> 00:02:18,406
+00:02:15,680 --> 00:02:18,254
 That's one reason lightning burns are usually
 
 60
-00:02:18,406 --> 00:02:19,987
+00:02:18,254 --> 00:02:19,798
 not as bad as you'd expect.
 
 61
-00:02:19,987 --> 00:02:22,447
+00:02:19,798 --> 00:02:22,201
 The real damage is done by the part of the
 
 62
-00:02:22,447 --> 00:02:25,024
+00:02:22,201 --> 00:02:24,717
 current that goes inside, through your heart
 
 63
-00:02:25,024 --> 00:02:26,430
+00:02:24,717 --> 00:02:26,090
 and your nervous system.
 
 64
-00:02:26,980 --> 00:02:30,082
+00:02:26,640 --> 00:02:29,707
 Your heart stops. Doctors call it asystole.
 
 65
-00:02:30,082 --> 00:02:33,112
+00:02:29,707 --> 00:02:32,703
 The electrical rhythm that runs your heart
 
 66
-00:02:33,112 --> 00:02:34,050
+00:02:32,703 --> 00:02:33,630
 just, resets.
 
 67
-00:02:34,600 --> 00:02:36,987
+00:02:34,180 --> 00:02:36,549
 And the area of your brain that controls
 
 68
-00:02:36,987 --> 00:02:38,836
+00:02:36,549 --> 00:02:38,385
 breathing gets knocked out too.
 
 69
-00:02:38,836 --> 00:02:39,970
+00:02:38,385 --> 00:02:39,510
 You stop breathing.
 
 70
-00:02:40,520 --> 00:02:41,866
+00:02:40,060 --> 00:02:41,454
 Now here's the twist.
 
 71
-00:02:41,866 --> 00:02:44,559
+00:02:41,454 --> 00:02:44,242
 Your heart has its own built-in pacemaker,
 
 72
-00:02:44,559 --> 00:02:47,059
+00:02:44,242 --> 00:02:46,831
 and the asystole may resolve by itself,
 
 73
-00:02:47,059 --> 00:02:49,880
+00:02:46,831 --> 00:02:49,752
 fairly quickly. Your heart can start beating
 
 74
-00:02:49,880 --> 00:02:50,970
+00:02:49,752 --> 00:02:50,880
 again on its own.
 
 75
-00:02:51,520 --> 00:02:53,966
+00:02:51,430 --> 00:02:53,879
 But breathing often stays switched off for
 
 76
-00:02:53,966 --> 00:02:56,530
+00:02:53,879 --> 00:02:56,444
 longer. So your heart is back, beating away,
 
 77
-00:02:56,530 --> 00:02:58,568
+00:02:56,444 --> 00:02:58,484
 pumping blood with no oxygen in it.
 
 78
-00:02:58,568 --> 00:03:00,840
+00:02:58,484 --> 00:03:00,758
 That's what can kill you, a few minutes
 
 79
-00:03:00,840 --> 00:03:03,170
+00:03:00,758 --> 00:03:03,090
 after you survived the actual lightning.
 
 80
-00:03:03,720 --> 00:03:07,044
+00:03:03,640 --> 00:03:06,788
 So if you ever see this happen, do something.
 
 81
-00:03:07,044 --> 00:03:09,925
+00:03:06,788 --> 00:03:09,516
 Call emergency services, start CPR, use
 
 82
-00:03:09,925 --> 00:03:12,215
+00:03:09,516 --> 00:03:11,685
 a defibrillator if there's one.
 
 83
-00:03:12,215 --> 00:03:15,465
+00:03:11,685 --> 00:03:14,763
 And no, the victim doesn't stay electrified.
 
 84
-00:03:15,465 --> 00:03:18,567
+00:03:14,763 --> 00:03:17,701
 The human body does not store electricity.
 
 85
-00:03:18,567 --> 00:03:20,340
+00:03:17,701 --> 00:03:19,380
 It's safe to touch them.
 
 86
-00:03:20,890 --> 00:03:23,536
+00:03:19,930 --> 00:03:22,640
 Imagine dying because everyone was too scared
 
 87
-00:03:23,536 --> 00:03:25,830
+00:03:22,640 --> 00:03:24,988
 to touch you. That's how much this myth
 
 88
-00:03:25,830 --> 00:03:26,300
+00:03:24,988 --> 00:03:25,470
 matters.
 
 89
-00:03:26,850 --> 00:03:29,762
+00:03:26,020 --> 00:03:28,900
 You wake up. But you can't move your legs.
 
 90
-00:03:29,762 --> 00:03:32,674
+00:03:28,900 --> 00:03:31,780
 They're pale, maybe bluish, and nobody can
 
 91
-00:03:32,674 --> 00:03:34,130
+00:03:31,780 --> 00:03:33,220
 find a pulse in them.
 
 92
-00:03:34,680 --> 00:03:37,605
+00:03:33,770 --> 00:03:36,751
 It's called keraunoparalysis, a temporary
 
 93
-00:03:37,605 --> 00:03:39,746
+00:03:36,751 --> 00:03:38,932
 paralysis caused by lightning.
 
 94
-00:03:39,746 --> 00:03:42,814
+00:03:38,932 --> 00:03:42,058
 Terrifying. But it usually goes away within
 
 95
-00:03:42,814 --> 00:03:43,670
+00:03:42,058 --> 00:03:42,930
 a few hours.
 
 96
-00:03:44,220 --> 00:03:45,688
+00:03:43,480 --> 00:03:44,944
 Your ears are ringing.
 
 97
-00:03:45,688 --> 00:03:48,090
+00:03:44,944 --> 00:03:47,340
 The blast can rupture your eardrums.
 
 98
-00:03:48,640 --> 00:03:51,532
+00:03:47,890 --> 00:03:50,794
 And on your skin, there's something beautiful.
 
 99
-00:03:51,532 --> 00:03:54,109
+00:03:50,794 --> 00:03:53,382
 A pattern like a fern, or the branches of
 
 100
-00:03:54,109 --> 00:03:56,310
+00:03:53,382 --> 00:03:55,591
 a tree, spreading across your body.
 
 101
-00:03:56,310 --> 00:03:58,510
+00:03:55,591 --> 00:03:57,800
 They're called Lichtenberg figures.
 
 102
-00:03:59,060 --> 00:04:01,809
+00:03:58,350 --> 00:04:01,064
 They usually disappear within about twenty-four
 
 103
-00:04:01,809 --> 00:04:04,149
+00:04:01,064 --> 00:04:03,373
 hours. Lightning gives you a tattoo, and
 
 104
-00:04:04,149 --> 00:04:05,260
+00:04:03,373 --> 00:04:04,470
 then takes it back.
 
 105
-00:04:05,810 --> 00:04:08,227
+00:04:05,020 --> 00:04:07,400
 So you're alive. You can walk.
 
 106
-00:04:08,227 --> 00:04:09,758
+00:04:07,400 --> 00:04:08,908
 The burns are mild.
 
 107
-00:04:09,758 --> 00:04:13,143
+00:04:08,908 --> 00:04:12,241
 The doctors run their scans, and the scans
 
 108
-00:04:13,143 --> 00:04:15,560
+00:04:12,241 --> 00:04:14,621
 come back normal. You go home.
 
 109
-00:04:15,560 --> 00:04:16,930
+00:04:14,621 --> 00:04:15,970
 Lucky you. Right?
 
 110
-00:04:17,480 --> 00:04:19,612
+00:04:16,520 --> 00:04:18,679
 Here's what most people get wrong.
 
 111
-00:04:19,612 --> 00:04:22,435
+00:04:18,679 --> 00:04:21,537
 Lightning is mainly an injury to your nervous
 
 112
-00:04:22,435 --> 00:04:24,630
+00:04:21,537 --> 00:04:23,760
 system. Your brain and your nerves.
 
 113
-00:04:25,180 --> 00:04:26,883
+00:04:24,310 --> 00:04:25,980
 You get headaches. Nausea.
 
 114
-00:04:26,883 --> 00:04:29,633
+00:04:25,980 --> 00:04:28,677
 You struggle to learn new information, and
 
 115
-00:04:29,633 --> 00:04:31,401
+00:04:28,677 --> 00:04:30,411
 to pull up old information.
 
 116
-00:04:31,401 --> 00:04:34,151
+00:04:30,411 --> 00:04:33,108
 You can't remember names, or what you were
 
 117
-00:04:34,151 --> 00:04:36,050
+00:04:33,108 --> 00:04:34,970
 supposed to be doing at work.
 
 118
-00:04:36,600 --> 00:04:38,400
+00:04:35,520 --> 00:04:37,389
 Your sleep goes strange too.
 
 119
-00:04:38,400 --> 00:04:41,101
+00:04:37,389 --> 00:04:40,193
 Sometimes you sleep way too much at first,
 
 120
-00:04:41,101 --> 00:04:43,930
+00:04:40,193 --> 00:04:43,130
 and later only two or three hours at a time.
 
 121
-00:04:44,480 --> 00:04:45,790
+00:04:43,680 --> 00:04:44,987
 And the worst part?
 
 122
-00:04:45,790 --> 00:04:48,342
+00:04:44,987 --> 00:04:47,531
 The x-rays and MRIs come back normal.
 
 123
-00:04:48,342 --> 00:04:51,101
+00:04:47,531 --> 00:04:50,282
 Like a concussion, the problem is in how
 
 124
-00:04:51,101 --> 00:04:53,860
+00:04:50,282 --> 00:04:53,032
 your brain works, not in how it looks on
 
 125
-00:04:53,860 --> 00:04:54,550
+00:04:53,032 --> 00:04:53,720
 a picture.
 
 126
-00:04:55,100 --> 00:04:57,551
+00:04:54,270 --> 00:04:56,741
 Your friends see the same person on the
 
 127
-00:04:57,551 --> 00:05:00,127
+00:04:56,741 --> 00:04:59,338
 outside. They don't understand why you're
 
 128
-00:05:00,127 --> 00:05:01,949
+00:04:59,338 --> 00:05:01,176
 different. Some stop calling.
 
 129
-00:05:01,949 --> 00:05:04,840
+00:05:01,176 --> 00:05:04,090
 Some survivors pull away out of embarrassment.
 
 130
-00:05:05,390 --> 00:05:07,872
+00:05:04,640 --> 00:05:07,065
 Of the people who survive a lightning strike,
 
 131
-00:05:07,872 --> 00:05:10,078
+00:05:07,065 --> 00:05:09,221
 about three in four have health problems
 
 132
-00:05:10,078 --> 00:05:10,630
+00:05:09,221 --> 00:05:09,760
 that last.
 
 133
-00:05:11,180 --> 00:05:13,049
+00:05:10,310 --> 00:05:12,250
 And some injuries show up late.
 
 134
-00:05:13,049 --> 00:05:15,520
+00:05:12,250 --> 00:05:14,816
 Cataracts, a clouding of the lens in your
 
 135
-00:05:15,520 --> 00:05:17,992
+00:05:14,816 --> 00:05:17,382
 eye, can appear more than a year after an
 
 136
-00:05:17,992 --> 00:05:19,800
+00:05:17,382 --> 00:05:19,260
 otherwise uneventful recovery.
 
 137
-00:05:20,350 --> 00:05:23,601
+00:05:19,810 --> 00:05:23,220
 Now, if you're thinking, once in a lifetime,
 
 138
-00:05:23,601 --> 00:05:26,260
+00:05:23,220 --> 00:05:26,010
 fine. Let me introduce Roy Sullivan.
 
 139
-00:05:26,810 --> 00:05:29,418
+00:05:26,560 --> 00:05:29,153
 Roy was a park ranger at Shenandoah National
 
 140
-00:05:29,418 --> 00:05:32,027
+00:05:29,153 --> 00:05:31,747
 Park in Virginia. Between nineteen forty-two
 
 141
-00:05:32,027 --> 00:05:34,457
+00:05:31,747 --> 00:05:34,163
 and nineteen seventy-seven, he was struck
 
 142
-00:05:34,457 --> 00:05:35,939
+00:05:34,163 --> 00:05:35,637
 by lightning seven times.
 
 143
-00:05:35,939 --> 00:05:38,310
+00:05:35,637 --> 00:05:37,994
 Guinness World Records recognises him as
 
 144
-00:05:38,310 --> 00:05:40,800
+00:05:37,994 --> 00:05:40,470
 the person struck the most recorded times.
 
 145
-00:05:41,350 --> 00:05:44,020
+00:05:41,020 --> 00:05:43,743
 Strike one, nineteen forty-two, at a new
 
 146
-00:05:44,020 --> 00:05:46,690
+00:05:43,743 --> 00:05:46,466
 fire lookout tower that had no lightning
 
 147
-00:05:46,690 --> 00:05:49,761
+00:05:46,466 --> 00:05:49,598
 rod. It burned off his eyebrows and eyelashes,
 
 148
-00:05:49,761 --> 00:05:51,430
+00:05:49,598 --> 00:05:51,300
 and set his hair on fire.
 
 149
-00:05:51,980 --> 00:05:54,967
+00:05:51,850 --> 00:05:54,890
 Later strikes hit him in his own front yard,
 
 150
-00:05:54,967 --> 00:05:56,868
+00:05:54,890 --> 00:05:56,824
 and inside a ranger station.
 
 151
-00:05:56,868 --> 00:05:58,701
+00:05:56,824 --> 00:05:58,689
 His hair caught fire again.
 
 152
-00:05:58,701 --> 00:05:59,380
+00:05:58,689 --> 00:05:59,380
 And again.
 
 153
-00:05:59,930 --> 00:06:02,625
+00:05:59,930 --> 00:06:02,677
 By the end, he believed storm clouds were
 
 154
-00:06:02,625 --> 00:06:05,386
+00:06:02,677 --> 00:06:05,491
 following him. Once, he saw a cloud, tried
 
 155
-00:06:05,386 --> 00:06:08,213
+00:06:05,491 --> 00:06:08,373
 to run away from it, and got struck anyway.
 
 156
-00:06:08,213 --> 00:06:10,974
+00:06:08,373 --> 00:06:11,187
 He started carrying a can of water around,
 
 157
-00:06:10,974 --> 00:06:12,880
+00:06:11,187 --> 00:06:13,130
 in case his hair caught fire.
 
 158
-00:06:13,430 --> 00:06:16,165
+00:06:13,680 --> 00:06:16,337
 People started avoiding him, scared they'd
 
 159
-00:06:16,165 --> 00:06:18,249
+00:06:16,337 --> 00:06:18,362
 get hit just by standing nearby.
 
 160
-00:06:18,249 --> 00:06:21,245
+00:06:18,362 --> 00:06:21,272
 Which, if you think about it, is the loneliest
 
 161
-00:06:21,245 --> 00:06:23,590
+00:06:21,272 --> 00:06:23,550
 possible side effect of being lucky.
 
 162
-00:06:24,140 --> 00:06:26,802
+00:06:24,100 --> 00:06:26,548
 So here's how to keep your vitals boring.
 
 163
-00:06:26,802 --> 00:06:29,982
+00:06:26,548 --> 00:06:29,475
 There's no safe place outdoors in a thunderstorm.
 
 164
-00:06:29,982 --> 00:06:33,033
+00:06:29,475 --> 00:06:32,281
 The only properly safe places are a substantial
 
 165
-00:06:33,033 --> 00:06:35,630
+00:06:32,281 --> 00:06:34,670
 building or a hard topped metal vehicle.
 
 166
-00:06:36,180 --> 00:06:38,834
+00:06:35,220 --> 00:06:37,874
 Crouching down doesn't make you safe.
 
 167
-00:06:38,834 --> 00:06:41,559
+00:06:37,874 --> 00:06:40,599
 Lying flat makes ground current worse.
 
 168
-00:06:41,559 --> 00:06:43,782
+00:06:40,599 --> 00:06:42,822
 And don't shelter under a tree.
 
 169
-00:06:43,782 --> 00:06:44,930
+00:06:42,822 --> 00:06:43,970
 Just get inside.
 
 170
-00:06:45,480 --> 00:06:47,781
+00:06:44,520 --> 00:06:46,702
 And lightning absolutely does strike the
 
 171
-00:06:47,781 --> 00:06:50,254
+00:06:46,702 --> 00:06:49,048
 same place twice. The Empire State Building
 
 172
-00:06:50,254 --> 00:06:52,670
+00:06:49,048 --> 00:06:51,340
 gets hit around twenty-three times a year.
 
 173
-00:06:53,220 --> 00:06:55,922
+00:06:51,890 --> 00:06:54,659
 The good news. In the United States, lightning
 
 174
-00:06:55,922 --> 00:06:58,801
+00:06:54,659 --> 00:06:57,608
 deaths have dropped a lot, from about forty-three
 
 175
-00:06:58,801 --> 00:07:01,151
+00:06:57,608 --> 00:07:00,016
 a year on average over three decades, to
 
 176
-00:07:01,151 --> 00:07:03,442
+00:07:00,016 --> 00:07:02,363
 about twenty-seven a year in the decade
 
 177
-00:07:03,442 --> 00:07:06,085
+00:07:02,363 --> 00:07:05,072
 to twenty eighteen. Your odds of being struck
 
 178
-00:07:06,085 --> 00:07:08,670
+00:07:05,072 --> 00:07:07,720
 in a given year are around one in a million.
 
 179
-00:07:09,220 --> 00:07:12,045
+00:07:08,270 --> 00:07:11,068
 But over a whole lifetime, it's about one
 
 180
-00:07:12,045 --> 00:07:14,870
+00:07:11,068 --> 00:07:13,865
 in fifteen thousand. And for every person
 
 181
-00:07:14,870 --> 00:07:17,694
+00:07:13,865 --> 00:07:16,663
 struck, around ten people around them are
 
 182
-00:07:17,694 --> 00:07:18,590
+00:07:16,663 --> 00:07:17,550
 affected too.
 
 183
-00:07:19,140 --> 00:07:21,859
+00:07:18,100 --> 00:07:20,781
 So, lightning doesn't usually kill you.
 
 184
-00:07:21,859 --> 00:07:25,275
+00:07:20,781 --> 00:07:24,149
 It stops your heart, switches off your breathing,
 
 185
-00:07:25,275 --> 00:07:28,483
+00:07:24,149 --> 00:07:27,312
 paints you like a fern, scrambles your memory,
 
 186
-00:07:28,483 --> 00:07:31,411
+00:07:27,312 --> 00:07:30,199
 and then sends you home with a clean scan.
 
 187
-00:07:31,411 --> 00:07:34,130
+00:07:30,199 --> 00:07:32,880
 Survival, it turns out, is complicated.
 
 188
-00:07:34,680 --> 00:07:37,302
+00:07:33,430 --> 00:07:36,099
 When thunder roars, go indoors.
 
 189
-00:07:37,302 --> 00:07:39,332
+00:07:36,099 --> 00:07:38,166
 Not after the next hole.
 
 190
-00:07:39,332 --> 00:07:39,670
+00:07:38,166 --> 00:07:38,510
 Now.
 
 191
-00:07:40,220 --> 00:07:42,131
+00:07:39,060 --> 00:07:40,971
 Next week, you eat nothing but fast food
 
 192
-00:07:42,131 --> 00:07:43,995
+00:07:40,971 --> 00:07:42,835
 for thirty days. We'll check your liver
 
 193
-00:07:43,995 --> 00:07:45,954
+00:07:42,835 --> 00:07:44,794
 every week, and the scariest result shows
 
 194
-00:07:45,954 --> 00:07:47,149
+00:07:44,794 --> 00:07:45,989
 up a year after you stop.
 
 195
-00:07:47,149 --> 00:07:47,770
+00:07:45,989 --> 00:07:46,610
 See you then.

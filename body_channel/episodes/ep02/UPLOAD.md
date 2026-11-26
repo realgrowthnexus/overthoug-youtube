@@ -19,17 +19,17 @@ Every factual claim in this video comes from a source listed below. The jokes ar
 
 ⏱️ Chapters
 0:00 Hook
-0:33 0 Metres: The Setup
-1:12 10 Metres
-1:56 60 Seconds
-2:51 200 Metres: The Last Light
-3:25 700 Metres: Human Limit
-4:03 1,000 Metres: The Midnight Zone
-4:58 4,000 To 6,000 Metres: The Abyss
-6:11 9,000 Metres
-6:31 10,935 Metres: The Bottom
-7:05 Who Eats You
-7:58 Outro
+0:32 0 Metres: The Setup
+1:11 10 Metres
+1:55 60 Seconds
+2:49 200 Metres: The Last Light
+3:23 700 Metres: Human Limit
+4:01 1,000 Metres: The Midnight Zone
+4:56 4,000 To 6,000 Metres: The Abyss
+6:08 9,000 Metres
+6:29 10,935 Metres: The Bottom
+7:03 Who Eats You
+7:56 Outro
 
 📚 Sources
 [S1] NOAA National Ocean Service, "How deep is the ocean?": average depth ~3,682 m; Challenger Deep ~10,935 m, southern end of the Mariana Trench, several hundred km southwest of Guam; named after HMS Challenger. https://oceanservice.noaa.gov/facts/oceandepth.html ; Wikipedia "Challenger Deep" (amphipods in traps; 1960 Trieste dive; diatomaceous ooze). https://en.wikipedia.org/wiki/Challenger_Deep
@@ -75,3 +75,7 @@ At what depth would YOU have started panicking? 👇
 ## Shorts (cut from this video, 9:16, 30–50 s, posted Fri and Sun after the long video; link the long video as "Related video")
 1. Why the deep sea doesn't crush you into a cube. #ocean #science
 2. No fish lives below ~8,200 m. Here's why. #marianatrench #science
+
+### Cut points (vertical 1080×1920, made from the rendered episode)
+- Short 1: start 4:01.1, 55.1 s, on-screen title "WHY THE DEEP SEA DOESN'T CRUSH YOU". Make it with `python3 pipeline/shorts.py out/EP02.mp4 241.12 55.1 "WHY THE DEEP SEA DOESN'T CRUSH YOU" out/EP02_short1.mp4`
+- Short 2: start 5:15.4, 45.8 s, on-screen title "NO FISH BELOW 8,200 M?". Make it with `python3 pipeline/shorts.py out/EP02.mp4 315.42 45.8 "NO FISH BELOW 8,200 M?" out/EP02_short2.mp4`

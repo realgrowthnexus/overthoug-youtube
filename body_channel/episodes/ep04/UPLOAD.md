@@ -20,14 +20,14 @@ Every factual claim in this video comes from a source listed below. The jokes ar
 ⏱️ Chapters
 0:00 Hook
 0:33 The Rules
-1:36 Day 1
-2:25 Day 3
-2:56 Day 5: The Crash
-3:36 Week 1 To 2: The Weight
-4:24 Week 3: The Liver Alarm
-5:13 Day 30
-5:47 The Bill Arrives
-6:38 Outro
+1:35 Day 1
+2:24 Day 3
+2:55 Day 5: The Crash
+3:37 Week 1 To 2: The Weight
+4:25 Week 3: The Liver Alarm
+5:14 Day 30
+5:48 The Bill Arrives
+6:39 Outro
 
 📚 Sources
 [S1] Wikipedia, "Super Size Me": 1 Feb – 2 Mar 2003; McDonald's three times a day, every item at least once, supersized when offered; ~5,000 kcal/day; ~5,000 steps/day; started at 84 kg / 188 cm; ~4.5 kg gained in the first five days; depression, lethargy, headaches relieved by eating McDonald's; ended +11.1 kg (13%), cholesterol 230 mg/dL, mood swings, sexual dysfunction, fat in the liver; in 2017 Spurlock admitted undisclosed alcohol abuse during the experiment. https://en.wikipedia.org/wiki/Super_Size_Me
@@ -61,3 +61,7 @@ Next month YOU pick the episode. What should your body survive next? Most-liked 
 ## Shorts (cut from this video, 9:16, 30–50 s, posted Fri and Sun after the long video; link the long video as "Related video")
 1. One fast food meal and your arteries stiffen for hours. #health #science
 2. A month of fast food… still there 2.5 years later. #science #nutrition
+
+### Cut points (vertical 1080×1920, made from the rendered episode)
+- Short 1: start 1:35.5, 48.9 s, on-screen title "ONE MEAL. STIFF ARTERIES.". Make it with `python3 pipeline/shorts.py out/EP04.mp4 95.46 48.9 "ONE MEAL. STIFF ARTERIES." out/EP04_short1.mp4`
+- Short 2: start 5:48.4, 51.4 s, on-screen title "A FAST FOOD MONTH STAYS FOR YEARS". Make it with `python3 pipeline/shorts.py out/EP04.mp4 348.38 51.4 "A FAST FOOD MONTH STAYS FOR YEARS" out/EP04_short2.mp4`

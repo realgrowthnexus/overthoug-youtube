@@ -22,11 +22,11 @@ Every factual claim in this video comes from a source listed below. The jokes ar
 0:37 T-Minus 30 Minutes
 1:20 How It Finds You
 2:04 0.000 Seconds: The Strike
-3:26 +1 Minute: The Aftermath
-4:17 +1 Week: The Invisible Injury
-5:20 The Man Struck Seven Times
+3:25 +1 Minute: The Aftermath
+4:16 +1 Week: The Invisible Injury
+5:19 The Man Struck Seven Times
 6:24 How To Not Be Roy
-7:19 Outro
+7:18 Outro
 
 📚 Sources
 [S1] NOAA National Weather Service, "Lightning: power": a typical flash is ~300 million volts and ~30,000 amps; household current 120 V / 15 A. https://www.weather.gov/safety/lightning-power
@@ -65,3 +65,7 @@ Have you (or someone you know) ever been close to a lightning strike? 👇
 ## Shorts (cut from this video, 9:16, 30–50 s, posted Fri and Sun after the long video; link the long video as "Related video")
 1. Lightning gives you a tattoo… then takes it back. #lightning #science
 2. This man was struck by lightning 7 times. #science #weird
+
+### Cut points (vertical 1080×1920, made from the rendered episode)
+- Short 1: start 3:25.9, 50.5 s, on-screen title "LIGHTNING GIVES YOU A TATTOO". Make it with `python3 pipeline/shorts.py out/EP03.mp4 205.92 50.5 "LIGHTNING GIVES YOU A TATTOO" out/EP03_short1.mp4`
+- Short 2: start 5:19.7, 59 s, on-screen title "STRUCK BY LIGHTNING 7 TIMES". Make it with `python3 pipeline/shorts.py out/EP03.mp4 319.71 59 "STRUCK BY LIGHTNING 7 TIMES" out/EP03_short2.mp4`
