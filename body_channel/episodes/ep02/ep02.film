@@ -11,7 +11,7 @@ SPRITE lung | a pair of human lungs glowing orange
 SPRITE angler | a small glowing deep sea anglerfish with a lantern light on its head, big teeth, cyan and orange
 # id | picture | tokens | caption | narration
 # ---- HOOK ----
-h01 | {you} lying on a flat dark sea floor of soft mud, deep ocean, total darkness, tiny glowing specks drifting down, the person is limp and calm | snow zoomin hr=0 temp=2.0 o2=0 t=-10,935m s=DEAD | 10,935 METRES DOWN | You are lying at the bottom of the deepest place on Earth. Almost eleven kilometres of water are sitting on top of you. [S1]
+h01 | {you} lying on a flat dark sea floor of soft mud, deep ocean, total darkness, tiny glowing specks drifting down, the person is limp and calm | snow zoomin hr=0 temp=15.0 o2=0 t=-10,935m s=DEAD | 10,935 METRES DOWN | You are lying at the bottom of the deepest place on Earth. Almost eleven kilometres of water are sitting on top of you. [S1]
 h02 | a tiny glowing cyan human figure at the bottom of the frame squashed under a towering column of dark water, many thick orange arrows pressing down from above, deep ocean | glow hold | 8 TONNES / SQUARE INCH | The pressure down here is about eleven hundred times what you feel on the surface. Roughly eight tonnes on every square inch of your body. [S4]
 h03 | =h01 | zoomout | | And here's the twist. You're not flat. You're not a little cube. From the outside, you look surprisingly... you. [S5]
 h04 | =h01 | hold | | So what actually happened on the way down? Which parts of you gave up first? And who's that, coming over to say hello? Let's find out, one depth at a time.
@@ -41,13 +41,13 @@ s18 | a thick round metal diving chamber with a small window, a glowing diver in
 s19 | =s18 | zoomin | | He stayed for two hours. Below about a hundred and fifty metres, divers breathing helium mixes can get high pressure nervous syndrome. Tremors. Jerking. Nausea. Their nerves start misfiring under pressure alone. [S10, S11]
 s20 | - | spr:angler@540,700,0.5,on,float snow | | Not that you're doing much nerve firing right now. A local resident drifts past, takes one look at you, and decides you're not its problem. Yet.
 # ---- 1,000 METRES: THE MIDNIGHT ZONE ----
-s21 | {you} sinking limp in complete darkness, the outline glowing faintly, tiny glowing specks of marine snow all around | snow zoomin temp=33.0 t=-1,000m | MIDNIGHT ZONE | One kilometre. Total darkness. No sunlight reaches this deep, ever. Scientists call it the midnight zone. [S2]
-s22 | a glowing thermometer with the liquid glowing blue, very low, little ice crystals around | glow hold temp=31.0 | 5–6 °C | Up top, the tropical water was above twenty degrees. Down here it's about five or six. The warmth left in your body is draining away into the sea. [S12]
+s21 | {you} sinking limp in complete darkness, the outline glowing faintly, tiny glowing specks of marine snow all around | snow zoomin temp=35.0 t=-1,000m | MIDNIGHT ZONE | One kilometre. Total darkness. No sunlight reaches this deep, ever. Scientists call it the midnight zone. [S2]
+s22 | a glowing thermometer with the liquid glowing blue, very low, little ice crystals around | glow hold temp=34.0 | 5–6 °C | Up top, the tropical water was above twenty degrees. Down here it's about five or six. The warmth left in your body is draining away into the sea. [S12]
 s23 | - | spr:lung@540,780,0.25,none,breathe snow t=-1,000m | Lungs: 1/100 of size | The pressure is now about a hundred atmospheres. Whatever air was left in your lungs has been squeezed to around a hundredth of its surface size. Your chest has caved in around it. [S3, S7]
 s24 | =h03 | zoomin | | But here's the answer to our big question. Most of you is water, around sixty percent. And water barely compresses at all. Even four kilometres down, it only shrinks by about two percent. [S5, S19]
 s25 | glowing outline of a human body filled with blue water, with only small air pockets shown as red crushed bubbles in the head, chest and belly | glow hold | 60% water. Barely squashable. | So the deep sea doesn't flatten you like a can. It goes after the air pockets. Lungs, sinuses, ears, gut. The rest of you just gets a firm, permanent hug. [S5, S7]
 # ---- 4,000 TO 6,000 METRES: THE ABYSS ----
-s26 | {you} sinking past a huge dark underwater cliff wall, faint glowing rocks, deep darkness | snow panr temp=12.0 t=-4,000m | THE ABYSS | Around an hour in. Four kilometres. This is the abyss, the zone between four and six thousand metres. You're now deeper than the average ocean floor. [S1, S2]
+s26 | {you} sinking past a huge dark underwater cliff wall, faint glowing rocks, deep darkness | snow panr temp=29.0 t=-4,000m | THE ABYSS | Around an hour in. Four kilometres. This is the abyss, the zone between four and six thousand metres. You're now deeper than the average ocean floor. [S1, S2]
 s27 | =s26 | zoomin t=-6,000m | HADAL ZONE: 6 km+ | And at six kilometres, you enter the hadal zone, named after Hades, the Greek underworld. Only the deep trenches go this far down. [S2]
 s28 | - | spr:snail@540,700,0.55,on,float snow t=-8,178m | Snailfish: 8,178 m | At about eight thousand metres, you meet the deepest fish ever filmed in the Mariana Trench. A snailfish. Pale, soft, almost see-through. It looks like a tadpole made of jelly. [S14]
 s29 | a pale translucent tadpole-shaped deep sea fish with a big round head, small eyes and a long tapering tail, a fish not a snail, tiny orange dots glowing inside its body | glow zoomin | TMAO: pressure armour | Its trick is a molecule called TMAO, which helps hold its proteins in shape under pressure. The deeper a fish lives, the more of it they carry. [S15]
@@ -58,7 +58,7 @@ s32 | =s21 | zoomin | | You, on the other hand, have no TMAO. You've got a break
 s33 | a small round bathyscaphe submarine with a big float on top, glowing cyan, one small window cracked with orange cracks, deep dark ocean | glow panl t=-9,000m | Trieste, 1960 | Nine kilometres. In nineteen sixty, two men passed this exact depth inside a submarine called Trieste. And right about here, one of its outer window panes cracked and shook the whole vessel. [S13]
 s34 | =s33 | hold | 4 h 47 min to the bottom | They kept going. Jacques Piccard and Don Walsh. Their descent took four hours and forty-seven minutes. [S13]
 # ---- 10,935 METRES: THE BOTTOM ----
-s35 | =h01 | snow zoomin temp=2.0 t=-10,935m | THE BOTTOM | About three hours after you fell in, you touch down. Ten thousand nine hundred and thirty-five metres. The water is between one and four degrees. [S1, S4]
+s35 | =h01 | snow zoomin temp=15.0 t=-10,935m | THE BOTTOM | About three hours after you fell in, you touch down. Ten thousand nine hundred and thirty-five metres. The water is between one and four degrees. [S1, S4]
 s36 | close-up of soft pale sea floor sediment made of countless tiny round glowing microscopic plankton shells, some shells drawn bigger like little glass discs, cyan line art | glow hold | Diatom ooze | The floor is soft, pale ooze, made of the microscopic shells of tiny plankton that have been drifting down for thousands of years. You land in it like a cushion. [S13]
 s37 | giant single-celled organisms on the sea floor that look like glowing fragile lumpy sponges, cyan and orange | panr | Xenophyophores: single cells 10 cm+ | Your new neighbours include xenophyophores, single cells bigger than your hand. One cell. Ten centimetres. And they don't even have a brain. So, honestly, you have a lot in common right now. [S4]
 # ---- WHO EATS YOU ----
@@ -96,6 +96,7 @@ s46 | - | endcard spr:you@330,980,0.8,none,breathe t=NEXT | NEXT: STRUCK BY LIGH
 # - The scenario (holding an anchor, sinking at ~1 m/s) is hypothetical and labelled on screen. Trieste averaged ≈0.63 m/s (10.9 km in 4 h 47 min); narration says we sink "a bit faster" — OK. Our 3-hour arrival = 10,935 m ÷ 1 m/s, an assumption.
 # - "Around sixty percent water": USGS (S19).
 # - Lung volume at 1,000 m ≈ 1/100 (Boyle's law at ~100 atm absolute ≈ 1/101) — derived from S3.
+# - HUD core temperatures after death are illustrative (a body cools gradually toward the 1–4 °C water over many hours); the monitor is labelled SIMULATION.
 # - Everest: 10,935 − 8,849 = 2,086 m → "more than two kilometres". OK.
 # - Supergiant amphipods "much bigger than the usual ones": S4 says "huge amphipods known as supergiants". OK.
 # - The 2023 record fish was in the Izu–Ogasawara Trench (near Japan), not the Mariana Trench. Narration says so.
