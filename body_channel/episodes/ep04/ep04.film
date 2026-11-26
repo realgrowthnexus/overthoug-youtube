@@ -1,0 +1,82 @@
+# EP04 — What Happens to Your Body If You Eat Only Fast Food for 30 Days
+# Real cases: "Super Size Me" (2004) and a controlled Swedish study (Linköping, 2008) with a 2.5-year follow-up.
+# Narration tags like [S3] point to the sources below; they are stripped before the voice is made.
+METER: DAY
+CASE: CASE 04 / 30 DAYS, 2 MEALS+
+SPRITE you | {you} standing, front view, arms relaxed, happy hungry expression, licking lips
+SPRITE full | {you} standing with a big round bloated belly, holding the belly, queasy green-tinged face, droopy eyes
+SPRITE burger | a single big cheeseburger glowing orange and cyan line art
+SPRITE fries | a single box of french fries glowing orange and cyan line art
+SPRITE soda | a single large fast food soda cup with a straw glowing cyan line art
+SPRITE liver | a human liver glowing orange, simple anatomical line art
+SPRITE scale | a bathroom weighing scale glowing cyan line art, the dial glowing orange
+SPRITE microbe | a single cute round gut bacterium with little hair-like flagella, glowing green and cyan
+# id | picture | tokens | caption | narration
+# ---- HOOK ----
+h01 | {you} sitting at a table buried in a mountain of burger wrappers, fry boxes and soda cups, holding a burger, tired face | zoomin glow hr=84 temp=36.9 t=DAY_30 s=WARN | DAY 30 | Day thirty. You've eaten fast food, and pretty much only fast food, for a month. [S1, S2]
+h02 | - | spr:liver@540,800,0.6,on,breathe glow | LIVER ENZYMES: UP | Your liver is sending distress signals. In one study, liver blood tests jumped dramatically in under four weeks, in perfectly healthy young people. [S2]
+h03 | - | spr:scale@540,980,0.5,drop,bob | +6.4 kg | You've gained around six kilos. That part you probably expected. [S2, S3]
+h04 | =h01 | zoomout | | What you didn't expect is the part that shows up a year after you stop. Because a month of fast food leaves something behind. So let's do it properly, day by day, with your vitals on screen. Order up.
+# ---- THE RULES ----
+s01 | a glowing fast food restaurant counter with a menu board without any text, a glowing cashier, bright orange lights | panl hr=72 temp=36.8 o2=98 t=DAY_0 s=OK | | You're not the first person to try this. In two thousand three, filmmaker Morgan Spurlock ate only McDonald's for thirty days for his documentary, Super Size Me. Three meals a day. Every item on the menu at least once. And if they offered to super size it, he said yes. [S1]
+s02 | =s01 | zoomin | ~5,000 kcal a day | That added up to around five thousand calories a day, and he cut his walking to about five thousand steps, roughly what a typical American walked. [S1]
+s03 | a group of young glowing cartoon people sitting at a long table eating burgers in a bright hospital-like lab, a glowing scientist with a clipboard watching | pop panr | Linköping, Sweden, 2008 | But one man with a camera isn't science. So a few years later, doctors in Sweden ran a proper study. Eighteen healthy young adults, average age twenty six. At least two fast food meals a day. The goal, double their normal calories. [S2]
+s04 | =s03 | hold | Max 5,000 steps a day | And no exercise. They had to stay under five thousand steps a day. They even had a matched control group living normally, for comparison. [S2, S3]
+s05 | - | spr:burger@340,820,0.35,drop,bob spr:fries@540,860,0.3,drop,bob spr:soda@740,860,0.32,drop,bob dust | | So that's your challenge. Thirty days. Burgers, fries, fizzy drinks, and a couch. What could go wrong?
+# ---- DAY 1 ----
+s06 | {you} biting a huge burger with a very happy face, eyes closed in joy, a glowing tray with fries and soda | pop zoomin hr=78 t=DAY_1 | | Day one is fantastic. Obviously.
+s07 | glowing human arm with a blood vessel shown inside, the vessel wall glowing orange and narrowed, a stopwatch beside it | glow hold hr=80 t=DAY_1_+2h | Artery flexibility: halved | But here's what's happening on the inside. In one experiment, a single nine hundred calorie, high fat meal cut how well an artery in the arm could widen by about half. Within two hours. [S4]
+s08 | =s07 | zoomin t=DAY_1_+4h | | It was still down four hours later. Your blood vessels need to be able to relax and widen. After a meal like this, they get stiff, for hours. Then you eat the next one. [S4]
+s09 | glowing blood stream with lots of small orange fat droplets floating in it, cyan line art | glow panr | Blood fats: up | In the same study, fat levels in the blood, called triglycerides, rose by more than half, two hours after that single meal. [S4]
+s10 | {you} holding a big soda cup and a salt shaker with crystals sparkling, the person looks thirsty, sweat drop | pop panl | WHO limit: 5 g salt a day | And then there's salt. The World Health Organization says adults should have less than five grams of salt a day. That's just under a teaspoon. Burger meals are not designed with teaspoons in mind. [S5]
+# ---- DAY 3 ----
+s11 | glowing human gut intestines with lots of different colourful glowing tiny bacteria inside, some disappearing, cyan and green | glow zoomin t=DAY_3 | | Day three. Meet the trillions of microbes living in your gut. They're about to have a very bad month.
+s12 | - | spr:microbe@540,780,0.45,on,float | Diet changes your gut bugs fast | In a study in the journal Nature, changing what people ate changed their gut bacteria within days. On a diet of mostly meat, fat and cheese, fibre-loving bacteria dropped, and bile-loving bacteria took over. [S6]
+s13 | =s11 | hold | | One of the winners was a microbe that scientists have linked to inflammation in the gut. Your new gut residents love what you're eating. That's not a compliment. [S6]
+# ---- DAY 5: THE CRASH ----
+s14 | {you} lying on a sofa looking sluggish and grumpy, an empty fast food bag on the floor, a glowing TV, dim room | zoomin hr=82 t=DAY_5 s=WARN | | Around day five, Spurlock reported feeling awful. Depressed. Tired. Headaches. [S1]
+s15 | =s06 | hold | Felt better after... a burger | And the only thing that seemed to fix it? Eating another McDonald's meal. He'd feel better, for a while, and then crash again. [S1]
+s16 | =s14 | zoomout | | Now, one honest note before we go on. Years later, in twenty seventeen, Spurlock admitted he'd also been drinking heavily during the experiment, which he hadn't disclosed in the film. So some of his results are messy. [S1]
+s17 | =s03 | panl | | That's exactly why the Swedish study matters. Normal people. No secret drinking. Weekly blood tests. Let's follow them instead.
+# ---- WEEK 1 TO 2: THE WEIGHT ----
+s18 | - | spr:scale@540,980,0.5,on,shake hr=84 t=DAY_7 | Week 1 | By the end of week one, the scale is moving. And it's not moving down.
+s19 | =h03 | zoomin t=DAY_12 | Spurlock: +4.5 kg in 5 days | Spurlock put on around four and a half kilos in his first five days. [S1]
+s20 | glowing human silhouette shown twice side by side, the right one slightly wider with orange glowing fat around the belly and liver | glow panr t=DAY_14 | | And here's the thing about overeating. Your body can only burn so much. The rest gets stored, as fat, under your skin, and, more worryingly, inside your organs.
+s21 | {you} eating a meal at a table very fast, a glowing stopwatch nearby, food flying, comedic | pop hold | Ultra-processed: +500 kcal/day | Fast food also makes it easy to overeat without noticing. In a hospital study at the US National Institutes of Health, people offered ultra-processed meals ate around five hundred more calories a day than on unprocessed food, when they could eat as much as they liked. [S7]
+s22 | =s21 | zoomin | +0.9 kg in 2 weeks | They gained almost a kilo in two weeks on the ultra-processed diet, and lost about the same on the unprocessed one. Same people. Different food. [S7]
+# ---- WEEK 3: THE LIVER ALARM ----
+s23 | - | spr:liver@540,800,0.6,on,shake glow alert hr=86 t=DAY_21 s=CRIT | ALT: way up | Week three. Back in Sweden, the doctors check everyone's liver enzymes. Especially one called ALT. When liver cells are damaged or stressed, it leaks into the blood.
+s24 | glowing liver with orange glowing spots and drops leaking out into a blood vessel, alarm glow, cyan line art | glow zoomin | Under 4 weeks | And ALT levels rose dramatically. The researchers called it a rapid and profound elevation. In healthy people. In less than four weeks. [S2]
+s25 | =s24 | hold | Sugar = biggest link | And the strongest link they found wasn't the burgers, exactly. It was sugar. How much sugar people ate in week three predicted how high their liver enzymes climbed. [S2]
+s26 | =s09 | panl | Liver fat: 1.1% → 2.8% | Fat inside their livers more than doubled on average, from about one percent to almost three. [S2]
+s27 | =s24 | zoomout | | Their advice to other doctors was blunt. If a patient has bad liver results, don't just ask about alcohol. Ask if they've recently been overeating. [S2]
+# ---- DAY 30 ----
+s28 | =h01 | glow zoomin hr=84 t=DAY_30 s=WARN | | Day thirty. The finish line.
+s29 | - | spr:full@540,1010,0.95,on,sway dust | Swedish group: +6.4 kg | The Swedish volunteers gained six point four kilos on average, going from about sixty seven point six to seventy four kilos. In four weeks. [S2, S3]
+s30 | =s29 | hold | Spurlock: +11.1 kg | Spurlock gained eleven point one kilos, about thirteen percent of his body weight. His cholesterol went up to two hundred and thirty. He also reported mood swings, sexual problems, and a fatty liver. [S1]
+s31 | {you} pushing away a tray of fast food and holding a bowl of salad with a determined face, glowing vegetables | pop panr hr=76 t=DONE s=OK | IT'S OVER | And then it's over. You go back to normal food. You start walking again. And the weight starts coming off.
+# ---- THE BILL ARRIVES ----
+s32 | =s03 | panl t=+6_MONTHS | 6 months later: -4.7 kg | Six months later, the Swedish team checked in. Most of the weight was gone. Phew. [S3]
+s33 | glowing human body x-ray scan with a scanning beam passing over it, fat areas glowing orange, cyan line art | glow zoomin t=+1_YEAR s=WARN | 1 year later: fat mass +1.4 kg | A year later, they scanned everyone's bodies. Their muscle was back to where it started. But their body fat was still higher than before the experiment. About one point four kilos more. [S3]
+s34 | =s33 | hold t=+2.5_YEARS | 2.5 years: +3.1 kg (controls: +0.1) | Two and a half years later, they were still about three kilos heavier than at the start. The control group, who never did the fast food month? Basically unchanged. [S3]
+s35 | =s20 | zoomout | | The researchers said the extra fat was more than you'd expect from normal ageing, and raised the question of whether one short month of overeating could have a long term effect on body fat. [S3]
+s36 | =s35 | hold | | It's a small study, eighteen people, so it's a question, not a final answer. But it's an uncomfortable one. One month. A souvenir that lasts years.
+# ---- OUTRO ----
+s37 | - | spr:you@540,1010,0.95,on,breathe dust hr=72 temp=36.8 t=TODAY s=OK | | So, eat fast food for thirty days, and your blood vessels stiffen after every meal, your gut bugs get replaced, your liver sounds the alarm in under four weeks, and you might carry a little bit of that month for years.
+s38 | - | spr:burger@540,860,0.35,pop,float | | Does that mean never have a burger again? No. Everything in this video was about eating mostly fast food, way too much of it, while barely moving. One burger is a meal. Thirty days of them is a science experiment.
+s39 | - | endcard spr:you@330,980,0.8,none,breathe t=NEXT | YOU PICK NEXT | That's month one of Your Vitals. Next month, you choose. Comment the worst idea you want your body to survive, and the most liked one becomes the next episode. See you on the monitor.
+# ---- SOURCES ----
+# [S1] Wikipedia, "Super Size Me": 1 Feb – 2 Mar 2003; McDonald's three times a day, every item at least once, supersized when offered; ~5,000 kcal/day; ~5,000 steps/day; started at 84 kg / 188 cm; ~4.5 kg gained in the first five days; depression, lethargy, headaches relieved by eating McDonald's; ended +11.1 kg (13%), cholesterol 230 mg/dL, mood swings, sexual dysfunction, fat in the liver; in 2017 Spurlock admitted undisclosed alcohol abuse during the experiment. https://en.wikipedia.org/wiki/Super_Size_Me
+# [S2] Kechagias S, Ernersson A, Dahlqvist O, et al. Fast-food-based hyper-alimentation can induce rapid and profound elevation of serum alanine aminotransferase in healthy subjects. Gut 2008;57(5):649–654 (12 men, 6 women, mean age 26; ≥2 fast-food meals/day aiming to double calories; sedentary; 4 weeks; weight 67.6 → 74.0 kg; profound ALT rise in <4 weeks; week-3 sugar intake correlated with ALT; liver fat 1.1% → 2.8%; clinicians should ask about recent overeating, not only alcohol). https://doi.org/10.1136/gut.2007.131797
+# [S3] Ernersson A, Nyström FH, Lindström T. Long-term increase of fat mass after a four week intervention with fast food based hyper-alimentation and limitation of physical activity. Nutr Metab (Lond) 2010;7:68 (energy intake +70%, ≤5,000 steps/day; +6.4 kg; −4.7 kg by 6 months; +1.4 kg fat mass at 12 months with unchanged fat-free mass; +3.1 kg at 2.5 years vs +0.1 kg in controls). https://doi.org/10.1186/1743-7075-7-68
+# [S4] Vogel RA, Corretti MC, Plotnick GD. Effect of a single high-fat meal on endothelial function in healthy subjects. Am J Cardiol 1997;79(3):350–354 (900 kcal, 50 g fat; flow-mediated vasoactivity 21% → 11%, 11%, 10% at 2, 3, 4 h; triglycerides 94 → 147 mg/dL at 2 h). https://doi.org/10.1016/S0002-9149(96)00760-6
+# [S5] World Health Organization, "Salt reduction" fact sheet: adults < 2,000 mg sodium/day (< 5 g salt, just under a teaspoon). https://www.who.int/news-room/fact-sheets/detail/salt-reduction
+# [S6] David LA, Maurice CF, Carmody RN, et al. Diet rapidly and reproducibly alters the human gut microbiome. Nature 2014;505:559–563 (animal-based diet: bile-tolerant microbes such as Bilophila up, plant-polysaccharide-fermenting Firmicutes down; Bilophila wadsworthia linked to inflammatory bowel disease). https://doi.org/10.1038/nature12820
+# [S7] Hall KD, Ayuketah A, Brychta R, et al. Ultra-processed diets cause excess calorie intake and weight gain: an inpatient randomized controlled trial of ad libitum food intake. Cell Metab 2019;30(1):67–77 (20 adults, NIH Clinical Center; +508 kcal/day; +0.9 kg vs −0.9 kg over 2 weeks). https://doi.org/10.1016/j.cmet.2019.05.008
+# ---- FACT-CHECK ----
+# - The Swedish study was not "only" fast food: participants ate at least two fast-food meals a day and aimed to double calories. Narration says "fast food, and pretty much only fast food" for YOU (the hypothetical) and describes the study accurately ("at least two fast food meals a day"). OK.
+# - Gut microbiome study (S6) used an "animal-based diet" (meats, eggs, cheeses), not fast food specifically. Narration says "a diet of mostly meat, fat and cheese" — OK. Bilophila is "linked to" IBD per the paper — narration says "linked to inflammation in the gut" — OK.
+# - Vogel 1997: 21% → ~11% = roughly halved; "within two hours" (first measurement at 2 h). Triglycerides +56% → "more than half". OK.
+# - "Five thousand steps, roughly what a typical American walked": per S1 the film used a suggested 5,000-step figure for a typical US citizen. OK.
+# - Spurlock's alcohol admission: 2017 (S1). Morgan Spurlock died in May 2024; not mentioned.
+# - Ernersson: "more than you'd expect from normal ageing" paraphrases "larger than expected from prospective epidemiological studies". OK.

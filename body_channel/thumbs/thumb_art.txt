@@ -1,0 +1,9 @@
+# Thumbnail art (one per A/B variant). Subject on the LEFT, right side empty black for text.
+T01a | dramatic close-up of {you} face with enormous bloodshot glowing eyes wide open, tiny red veins in the eyes, sweat drops, subject on the left half of the frame, right half empty black
+T01b | {you} brain shown inside the head with half of the brain glowing bright orange as if overheating and half dark, the person looks dazed, subject on the left half of the frame, right half empty black
+T02a | {you} sinking head down into a pitch black abyss with tiny bubbles rising, a huge glowing anglerfish with sharp teeth right behind the person, subject on the left half of the frame, right half empty black
+T02b | close-up of {you} upper body deep underwater being crushed from both sides by huge glowing arrows of water pressure, chest and lungs glowing hot orange, cheeks puffed, eyes popping wide in panic, bubbles, subject on the left half of the frame, right half empty black
+T03a | {you} being struck on the head by a massive jagged white and yellow lightning bolt, hair standing up and smoking, skeleton glowing bright, subject on the left half of the frame, right half empty black
+T03b | close-up of {you} seen from behind over the shoulder, a large bright orange branching fern-like tree pattern glowing across the back and arm skin like a lightning tattoo, the person looks back surprised, subject on the left half of the frame, right half empty black
+T04a | {you} with a big round belly holding a giant burger, the liver inside the body glowing bright red and orange, worried face, subject on the left half of the frame, right half empty black
+T04b | {you} standing on a glowing bathroom scale with the dial spinning, shocked face, fries and burger wrappers around the feet, subject on the left half of the frame, right half empty black

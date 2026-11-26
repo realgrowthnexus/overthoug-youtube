@@ -1,0 +1,90 @@
+# EP01 — Why It Sucks to Be Born as a Victorian Chimney Sweep
+# Script, sources and fact-check list: scripts/ep01_chimney_sweep.md (every claim tagged [S#] there).
+# Pictures are reused from scenes/ and layers/, so this episode costs nothing more to generate.
+# id | picture | tokens | caption | narration
+# ---- HOOK (0:00-0:30) ----
+s01 | @scenes/02 | zoomin | 7 years old | You are seven years old.
+s02 | chimney:@layers/L_boy_crouch | | | You're inside a chimney, in total darkness. The tunnel around you is about as wide as a dinner plate, and your knees are pressed up against your chin.
+s03 | chimney:=s02 | struggle puffs zoomin | | You can't go up. You can't go down.
+s04 | =s01 | zoomout | | And here's the twist. A law already says you shouldn't be here. Everyone knows it. Nobody cares.
+s05 | @scenes/03 | birds panl | London, 1862 | So how did a seven year old end up inside a wall? Let's go back to the day you were born.
+s05a | =s05 | panr | 3 million people | London in the eighteen sixties is the biggest city on the planet. Around three million people, and almost every single one of them heats their home and cooks their food with coal.
+s05b | @scenes/24 | smoke | | Coal fires mean smoke. Smoke means soot. And soot builds up inside chimneys until it catches fire, or the whole house fills with black smoke. So somebody has to clean them. Hundreds of thousands of chimneys.
+s05c | =s01 | zoomin | | And the cheapest chimney cleaning tool in Victorian London isn't a brush. It's a child. Specifically, you.
+# ---- BORN ----
+s06 | @scenes/04 | | | London, eighteen sixty-two. You arrive in a single rented room, shared with your parents, four siblings,
+s07 | @scenes/05 | pulse | | and a damp patch on the wall that has more personality than your dad.
+s08 | @scenes/06 | sparkle | 1840 law: no climbing under 21 | Fun fact. Twenty-two years before you were born, a law already said nobody under twenty-one is allowed to climb a chimney.
+s09 | =s08 | zoomin | | Hold on to that. It's going to be hilarious later.
+s10 | @scenes/07 | | | Your family is poor. Dinner is bread. On a good day, dinner is also bread.
+s11 | @scenes/08 | | | And by the time you can walk, your parents are looking at you the way people look at an old coat. Maybe there's some money in that.
+s11a | =s10 | hold | | And to be fair to your parents, there aren't many options. There's no free school yet. No child benefits. No safety net. If the family can't eat, somebody small is going to work.
+# ---- SOLD ----
+s12 | @scenes/09 | walk | | Then one morning, a man in a black top hat knocks on the door. He's a master sweep, and he likes what he sees.
+s13 | @scenes/10 | | | You're small. You're skinny.
+s14 | @scenes/11 | bob | | You look like you'd fit in a drainpipe. In this job, that's a compliment.
+s15 | @scenes/12 | | | Kids like you were often orphans, or workhouse boys, or simply handed over by parents who needed the money.
+s15a | =s15 | zoomin | age 4 to 10 | Some climbing boys started as young as four. Most were somewhere between seven and ten. Old enough to follow orders. Small enough to fit.
+s16 | @scenes/13 | | an "apprenticeship" | The paperwork calls it an apprenticeship. Your mum calls it an opportunity.
+s17 | @scenes/14 | walk | | You call it, why is that man holding my arm.
+s17a | =s14 | hold | | And that's it. No goodbye party. No backpack. You walk down the street behind a stranger, and your childhood stays behind in that room with the damp patch.
+# ---- FIRST DAY ----
+s18 | @scenes/15 | zoomin | | Your new home is the master's cellar. Your bed is a pile of soot bags. A mattress made of the exact stuff you're paid to remove.
+s19 | @scenes/16 | wag | 3:00 AM | The workday starts early. Sometimes your master drags you out of bed at three in the morning, because rich people want clean chimneys before they light the morning fires.
+s20 | @scenes/17 | walk | | Then comes training. There's no school. No safety talk.
+s21 | @scenes/18 | zoomin | | Here's the chimney. Up you go.
+s21a | =s18 | hold | | Fun fact about rich people's chimneys. The fancier the house, the more complicated the flues. They bend. They twist. They split into different rooms. Rich people liked architecture. You will learn to hate it.
+s22 | chimney:=s02 | struggle puffs | 9 x 9 inches | Inside, the flue can narrow to about nine inches by nine inches. Smaller than this video on a laptop screen. No ladder. No rope. Just you.
+s23 | chimney:=s22 | struggle | | You push up with your knees and elbows. Not a style choice. There's simply no room to do anything else.
+s24 | @scenes/20 | pulse | Week 1 | By the end of week one, your knees and elbows are scraped raw.
+s25 | @scenes/21 | walk | Week 2 | By the end of week two, they're still raw. They just stop surprising you.
+s25a | @scenes/22 | | "Sweep! Sweep!" | Between jobs, climbing boys walked the streets shouting out for work. Sweep! Sweep! Basically a walking advert, at six in the morning, for a service where the product is you.
+s25b | =s20 | hold | | And if you think your knees will eventually toughen up? They do. Eventually. After weeks of scraping. Some masters had their own methods to speed that up. You do not want to know them. And honestly, neither does YouTube.
+# ---- ROUTINE ----
+s26 | @scenes/22 | | | Days turn into a rhythm. Wake up in the dark. Climb in the dark. Breathe soot in the dark.
+s27 | @scenes/23 | bob | | But sometimes, at the very top, you poke your head out of a chimney pot and see the whole of London at sunrise.
+s28 | @scenes/24 | birds panr | | And honestly? It's beautiful. It's the only window seat you'll ever get.
+s29 | @scenes/25 | wag | | Then you climb back down, and the master points at the next one.
+s30 | @scenes/26 | zoomin | | Washing? Not really. Climbing boys were rarely washed. The soot settles into every fold of your skin, and it stays there.
+s31 | @scenes/27 | | | Remember that. It comes back at the end, and it does not come back nicely.
+s31a | @scenes/25 | wag | | Meanwhile, your master gets paid for every chimney. You get food, a roof made of soot bags, and occasionally a coin if he's in a good mood. He's never in a good mood.
+# ---- A MACHINE COULD DO THIS ----
+s32 | =s26 | hold | | Now here's the part that will make you angry.
+s33 | @scenes/28 | sparkle zoomin | around 1803 | A mechanical brush, a long jointed pole with a brush on the end, had existed since around eighteen-oh-three. Before your grandparents were even married.
+s34 | @scenes/29 | | | So why are you still climbing?
+s35 | @scenes/30 | wag | | Because plenty of sweeps and their customers simply preferred boys. Boys were cheap, and boys didn't complain to anyone important.
+s36 | @scenes/31 | bob | | You are, technically, a more expensive option than a stick. You're also a more convenient one. Which is worse.
+s36a | =s30 | hold | | Imagine being a rich lady who looks at a brush that works perfectly, and then at a starving seven year old, and thinks, yes, the child please. That's the energy of the eighteen hundreds.
+# ---- THE LAW ----
+s37 | @scenes/32 | birds panl | 1864 | In eighteen sixty-four, Parliament passes another Chimney Sweepers Act. Fines and everything. Climbing boys are now extra illegal.
+s38 | @scenes/33 | | | And everyone ignores it.
+s38a | a Victorian writer with a beard writing a book at a desk, with a small drawing of a boy swimming with fish floating above | sparkle | The Water-Babies, 1863 | Around this time, a writer called Charles Kingsley publishes a children's book called The Water-Babies. Its hero is a climbing boy named Tom. Readers across Britain are horrified. People who never once looked inside a chimney suddenly care.
+s38b | =s38 | hold | | And still, a book can change minds. It can't open locked doors. Masters keep sending boys up. Customers keep paying. The law becomes more of a suggestion.
+s39 | @scenes/34 | embers | | You're nine. A man in Parliament has decided you shouldn't be here. Your master has decided Parliament can't see inside a chimney.
+s40 | =s39 | zoomin | | Your master is right.
+# ---- STUCK ----
+s41 | chimney:=s02 | struggle puffs zoomin | | Which brings us back to where we started. A flue that bends. Knees jammed against your chin. You can't go up, and you can't go down.
+s42 | @scenes/36 | | "accidental death" | This happened to climbing boys again and again. When it ended badly, the coroner often wrote, accidental death. Nobody went to jail.
+s43 | @scenes/37 | puffs | | Today, you're lucky. Your master breaks a few bricks out of the wall and pulls you out by the ankles.
+s44 | @scenes/38 | wag | | He's furious. Not because you almost died. Because now he has to pay for the wall.
+s44a | =s43 | zoomin | | And here's the dark part. For you, this was a lucky day. Many climbing boys stuck in a chimney never got a hammer and a pair of hands. They got the coroner's book.
+# ---- TOO BIG ----
+s45 | @scenes/39 | struggle | February 1875 | February, eighteen seventy-five. You're thirteen now, and getting too big for the flues.
+s46 | @scenes/40 | bob | | Then the newspapers start talking about a boy called George Brewster.
+s47 | @scenes/18 | zoomin | Fulbourn, 11 Feb 1875 | George was a climbing boy too. On the eleventh of February, he was sent up a chimney at the asylum in Fulbourn, near Cambridge. He got stuck. By the time they pulled him out, it was too late.
+s48 | =s36 | hold | manslaughter | His master was charged with manslaughter.
+s49 | @scenes/41 | zoomin | | Lord Shaftesbury reads about George, and pushes one more law through Parliament.
+s50 | @scenes/42 | | | This time, sweeps need a licence from the police. And the police actually have to enforce it.
+s51 | @scenes/24 | birds panl | September 1875 | By September eighteen seventy-five, the climbing boy era in Britain is basically over. George is often remembered as the last climbing boy to die in England.
+s52 | @scenes/43 | | | You survived it. You're one of the lucky ones. Which is a really low bar.
+s52a | @scenes/45 | birds | | And honestly, for a while, life gets better. You're bigger, you're free of the flues, and you find work above ground. You can see the sky every day. You forgot how much you missed it.
+# ---- THE BILL ARRIVES ----
+s53 | =s52 | zoomin | | Years later, you notice a small wart. In a place you'd rather not point at.
+s54 | @scenes/44 | sparkle | 1775 | Sweeps had a name for it. The soot wart. In seventeen seventy-five, almost a hundred years before your first climb, a surgeon called Percivall Pott worked out it was cancer, caused by soot sitting in the folds of a sweep's skin.
+s55 | =s54 | zoomin | first job-linked cancer | It's known as the first cancer ever linked to someone's job.
+s56 | @scenes/15 | hold | | Everybody knew. And the soot bags got used as beds anyway.
+s56a | =s43 | hold | | So in the end, your career didn't just steal your childhood. It sent you a bill, decades later, for every night you slept on those bags.
+# ---- OUTRO ----
+s57 | @scenes/45 | birds | | So that's your life. Born into a room with a damp patch. Sold to a man in a top hat. Sent up chimneys that a law had already banned.
+s58 | @scenes/28 | sparkle | | And the whole time, a brush on a stick could have done your job.
+s59 | @scenes/45 | endcard static | | Thanks for living it with us. Next time, you're born as a medieval executioner. Everyone needs you. Nobody will sit next to you. Hit subscribe, and pick your next past life.
