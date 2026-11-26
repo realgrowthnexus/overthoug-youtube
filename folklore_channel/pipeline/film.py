@@ -130,12 +130,15 @@ def ward_card(dr, num, text, k):
         dr.text((cx + off, y), ln, font=f, fill=INK, anchor="ma"); y += 62
 
 def caption(dr, cap, f, nframes):
+    """Caption in the left margin (never over the picture): Fell small caps, wrapped, with a printer's rule."""
     k = smooth(f / (0.5 * FPS))
     if k <= 0.02: return
-    fnt = font(L.F_SC, 66); tw = dr.textlength(cap, font=fnt)
-    dr.text((W // 2, 88), cap, font=fnt, fill=INK, anchor="mm", stroke_width=7, stroke_fill=(255, 255, 255))
+    fnt = font(L.F_SC, 58); lines = L.wrap(dr, cap, fnt, 330); cx = 219
+    y = 540 - len(lines) * 34
+    col = tuple(int(255 - (255 - c) * k) for c in INK)
+    for ln in lines: dr.text((cx, y), ln, font=fnt, fill=col, anchor="ma"); y += 68
     u = smooth((f - 0.3 * FPS) / (0.5 * FPS))
-    if u > 0: L.ornament(dr, W // 2, 136, (tw + 60) * u)
+    if u > 0: L.ornament(dr, cx, y + 22, 260 * u)
 
 def quote_page(dr, text, f):
     k = smooth(f / (0.8 * FPS))
@@ -171,10 +174,12 @@ def frame_at(film, shots, i, f, nframes, base, lays):
     cv = base.copy()
     for l in lays: l.draw(cv, t)
     e = smooth(f / max(nframes - 1, 1)); z = cam[0] + (cam[1] - cam[0]) * e
+    side = "endcard" in tok or "title" in tok              # art shrinks and moves left to make room for the plate
+    if side: z *= 0.85
     sz = int(S * z); img = cv.convert("RGB").resize((sz, sz), Image.BILINEAR)
     fr = Image.new("RGB", (W, H), "white")
-    shift = -300 if ("endcard" in tok or "title" in tok) else 0
-    fr.paste(img, ((W - sz) // 2 + int(cam[2] * (e - 0.5)) + shift, (H - sz) // 2))
+    cxp = 600 if side else W // 2
+    fr.paste(img, (cxp - sz // 2 + int(cam[2] * (e - 0.5)), (H - sz) // 2))
     dr = ImageDraw.Draw(fr)
     if "ward" in tok:
         num, _, text = sh["cap"].partition("|"); ward_card(dr, num, text, smooth((f - 4) / (0.7 * FPS)))
