@@ -32,7 +32,7 @@ w13 | =w01 | zoomout snow night | | In a bad winter, the animals vanish. Snow tr
 w14 | =w02 | shiver snow | | And in that kind of hunger, there is one taboo that sits above every other. You do not eat another human being. Not ever. The Wendigo is that taboo, given a face.
 
 # ---- WARD I ----
-w15 | two pairs of hands breaking a piece of bannock bread in half to share, close up | ward | I | Share your food | Ward one. Share your food.
+w15 | two hands tearing a round flat loaf of bread in half to share it, close up | ward | I | Share your food | Ward one. Share your food.
 w16 | =w15 | zoomin | | This is the deepest rule of all, and it's not about the monster. It's about you. The Wendigo is a spirit of greed. Of keeping more than you need while others go without.
 w17 | a small camp of people sitting together around one shared fire in the snow, wide scene | embers snow | | In a world where survival depended on everyone, hoarding food was the first step toward becoming something inhuman. So the first ward is the simplest one. When you have food, share it.
 
@@ -75,4 +75,4 @@ w40 | =w01 | zoomin snow night | | So how do you survive the Wendigo? Strangely,
 w41 | =w17 | embers zoomout | | Share your food. Never cross the line. Watch yourself. Keep your heart warm. And listen to the people who know these woods.
 w42 | =w09 | breathe embers | | The Wendigo is a warning about what happens when anyone, a person, a family, a whole society, takes more than it needs and still wants more. And that, honestly, is a monster that never went away.
 w43 | =w06 | dust zoomin | | Next week, we leave the frozen forest for a darker kind of wood. A hut that stands on chicken legs. A fence made of bones. And an old woman who might help you, or might put you in the oven.
-w44 | an old witch flying in a wooden mortar steering with a pestle over a dark forest, full figure | endcard bats night | Baba Yaga | It's Baba Yaga. And she has very particular rules about the questions you're allowed to ask. Subscribe, so the Ward Book is open when she comes. And until then, share your dinner.
+w44 | an old Slavic peasant crone with a headscarf and a long hooked nose, no hat, sitting inside a tall wooden mortar bowl and holding a long wooden pestle, flying over dark pine trees, full figure | endcard bats night | Baba Yaga | It's Baba Yaga. And she has very particular rules about the questions you're allowed to ask. Subscribe, so the Ward Book is open when she comes. And until then, share your dinner.

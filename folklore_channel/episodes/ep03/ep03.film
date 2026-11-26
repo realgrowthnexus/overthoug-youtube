@@ -10,15 +10,15 @@
 
 # ---- HOOK ----
 b01 | a dark dense birch forest at dusk with a narrow path, wide scene | fog night zoomin | Somewhere in Russia | You've been walking through the forest since morning. Your stepmother sent you. The fire at home went out, and she told you to go and borrow a light. From her.
-b02 | a strange wooden hut standing on two giant chicken legs in a forest clearing, full figure | loom night | | And now you've found the place. A little wooden hut. Standing on two enormous chicken legs. Turning, slowly, round and round.
+b02 | an old wooden log cabin lifted high off the ground, its floor resting on top of two enormous scaly bird legs with long claws, no bird body, no bird head, full figure | loom night | | And now you've found the place. A little wooden hut. Standing on two enormous chicken legs. Turning, slowly, round and round.
 b03 | a fence made of human bones with skulls on top of the posts, eyes glowing in the skulls | pulse night | | Around it, a fence. Not wood. Bones. Human bones. And on every post, a skull, with something burning inside its eyes.
 b04 | a frightened young girl in a peasant dress and headscarf holding a small wooden doll, full figure | shiver night | | You're standing at the gate when the trees start to groan, and the wind starts to howl, and something comes flying over the forest. An old woman. Riding in a mortar. Sweeping away her tracks with a broom.
-b05 | an old witch with a long hooked nose and wild hair flying in a wooden mortar steering with a pestle, full figure | bob bats night | | And she sniffs the air. And she says, I smell a human soul.
+b05 | an old Slavic peasant crone with a headscarf, wild grey hair and a long hooked nose, no hat, sitting inside a tall wooden mortar bowl and steering with a long wooden pestle, flying, full figure | bob bats night | | And she sniffs the air. And she says, I smell a human soul.
 b06 | =b05 | zoomin night | | She is Baba Yaga. She eats people. She also, sometimes, helps them. And the only thing that decides which one you get is how well you know her rules.
 b07 | an open old leather-bound book with blank pages and a melting candle beside it | title dust | Baba Yaga | This is the Ward Book. And tonight, how to survive Baba Yaga.
 
 # ---- WHO IS SHE ----
-b08 | an old Russian book of fairy tales lying open, decorative | breathe dust | Afanasyev, 1855-1863 | Baba Yaga comes from Slavic folk tales, and most of what we know about her comes from one man. Alexander Afanasyev, who between eighteen fifty-five and eighteen sixty-three published hundreds of Russian folk tales, collected from storytellers across the empire.
+b08 | still life of an open antique leather book with yellowed pages, no people | breathe dust | Afanasyev, 1855-1863 | Baba Yaga comes from Slavic folk tales, and most of what we know about her comes from one man. Alexander Afanasyev, who between eighteen fifty-five and eighteen sixty-three published hundreds of Russian folk tales, collected from storytellers across the empire.
 b09 | =b05 | panr | | In those tales she flies in a mortar, the heavy bowl used to grind grain, and steers it with the pestle. She has iron teeth in some tellings, and one leg made of bone. Her nose is so long, one story says, it touches the ceiling of her hut.
 b10 | =b02 | zoomin | | And the hut is alive. It stands on chicken legs, and it turns to face whoever it pleases. Usually, that means away from you.
 b11 | =b08 | dust zoomin | | But here's what makes her different from a normal fairy tale witch. Baba Yaga isn't always the villain. In some tales she eats children. In others, she gives the hero exactly what he needs to win. Folklorists call her ambiguous. You can call her unpredictable.
@@ -44,7 +44,7 @@ b24 | =b20 | breathe | | The gate says, you've never oiled my hinges, but she di
 b25 | a cat holding a folded towel and a wooden comb in its mouth, full figure | bob | | Even the cat helps. It gives the girl a towel and a comb. When Baba Yaga chases her, she throws down the towel, and it becomes a wide river. She throws down the comb, and it becomes a forest so thick even a witch can't get through.
 
 # ---- WARD IV ----
-b26 | a small carved wooden doll with a painted face sitting on a table next to a crust of bread | ward pulse | IV | Keep your mother's blessing close | Ward four. Keep your mother's blessing close.
+b26 | a tiny carved wooden doll with a painted face and a little headscarf standing on a table beside a crust of bread, close up | ward pulse | IV | Keep your mother's blessing close | Ward four. Keep your mother's blessing close.
 b27 | =b04 | zoomin | Vasilisa the Beautiful | In the most famous Baba Yaga story of all, Vasilisa the Beautiful, the heroine's mother dies when she's a little girl. But before she dies, she gives Vasilisa a tiny wooden doll, and a secret. Feed the doll, and it will help you.
 b28 | a huge pile of grain with poppy seeds and dirt mixed together, and a tiny wooden doll working at it, close up | bob dust | | Baba Yaga gives Vasilisa impossible jobs. Clean the yard. Cook the dinner. Wash the linen. Pick the mouldy grains out of a whole bushel of wheat. And every time, the little doll gets the job done while Vasilisa sleeps.
 b29 | =b05 | zoomin night | | Finally, Baba Yaga demands to know how she did it. And Vasilisa answers honestly. My mother's blessing helps me.
@@ -70,4 +70,4 @@ b42 | =b02 | zoomout night | | So, how do you survive Baba Yaga? Look at the war
 b43 | =b20 | breathe | | Every single one of those is really a rule about how to behave. Be polite, but not a pushover. Be kind to the weak. Remember the people who loved you. Know when to stop asking.
 b44 | =b05 | bob night | | Baba Yaga doesn't punish the brave. She punishes the rude, the greedy, and the nosy. Which, to be fair, is more than you can say for most monsters.
 b45 | =b07 | dust zoomin | | Next week is the last ward of the year, and the biggest. On the darkest nights of winter, something rides across the sky over Europe. Hounds, horses, ghosts, and a leader who might be a god.
-b46 | a ghostly procession of horsemen and hounds riding across a stormy night sky above a village, wide scene | endcard wind night | The Wild Hunt | It's the Wild Hunt. And if you hear it overhead, there's one thing you must never, ever do. Subscribe, so the Ward Book is open when it rides. And until then, be kind to cats.
+b46 | a ghostly procession of skeletal horsemen and black hounds flying through stormy clouds high in the night sky, wide scene | endcard wind night | The Wild Hunt | It's the Wild Hunt. And if you hear it overhead, there's one thing you must never, ever do. Subscribe, so the Ward Book is open when it rides. And until then, be kind to cats.
