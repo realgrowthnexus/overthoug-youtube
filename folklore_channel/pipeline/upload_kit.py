@@ -55,7 +55,7 @@ def srt(film, times, out):
         words = sh["vo"].split(); chunks, cur = [], []
         for w in words:
             cur.append(w)
-            if len(cur) >= 10 or (w[-1] in ".?!" and len(cur) >= 4): chunks.append(cur); cur = []
+            if len(cur) >= 11 or (w[-1] in ".?!" and len(cur) >= 3) or (w[-1] in ",;:" and len(cur) >= 6): chunks.append(cur); cur = []
         if cur: chunks.append(cur)
         n = sum(len(c) for c in chunks); t = a
         for c in chunks:
