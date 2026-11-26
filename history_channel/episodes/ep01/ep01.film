@@ -34,7 +34,7 @@ s19 | @scenes/16 | wag | 3:00 AM | The workday starts early. Sometimes your mast
 s20 | @scenes/17 | walk | | Then comes training. There's no school. No safety talk.
 s21 | @scenes/18 | zoomin | | Here's the chimney. Up you go.
 s21a | =s18 | hold | | Fun fact about rich people's chimneys. The fancier the house, the more complicated the flues. They bend. They twist. They split into different rooms. Rich people liked architecture. You will learn to hate it.
-s22 | chimney:@scenes/19 | struggle puffs | 9 x 9 inches | Inside, the flue can narrow to about nine inches by nine inches. Smaller than this video on a laptop screen. No ladder. No rope. Just you.
+s22 | chimney:=s02 | struggle puffs | 9 x 9 inches | Inside, the flue can narrow to about nine inches by nine inches. Smaller than this video on a laptop screen. No ladder. No rope. Just you.
 s23 | chimney:=s22 | struggle | | You push up with your knees and elbows. Not a style choice. There's simply no room to do anything else.
 s24 | @scenes/20 | pulse | Week 1 | By the end of week one, your knees and elbows are scraped raw.
 s25 | @scenes/21 | walk | Week 2 | By the end of week two, they're still raw. They just stop surprising you.
@@ -63,7 +63,7 @@ s38b | =s38 | hold | | And still, a book can change minds. It can't open locked 
 s39 | @scenes/34 | embers | | You're nine. A man in Parliament has decided you shouldn't be here. Your master has decided Parliament can't see inside a chimney.
 s40 | =s39 | zoomin | | Your master is right.
 # ---- STUCK ----
-s41 | chimney:@scenes/35 | struggle puffs zoomin | | Which brings us back to where we started. A flue that bends. Knees jammed against your chin. You can't go up, and you can't go down.
+s41 | chimney:=s02 | struggle puffs zoomin | | Which brings us back to where we started. A flue that bends. Knees jammed against your chin. You can't go up, and you can't go down.
 s42 | @scenes/36 | | "accidental death" | This happened to climbing boys again and again. When it ended badly, the coroner often wrote, accidental death. Nobody went to jail.
 s43 | @scenes/37 | puffs | | Today, you're lucky. Your master breaks a few bricks out of the wall and pulls you out by the ankles.
 s44 | @scenes/38 | wag | | He's furious. Not because you almost died. Because now he has to pay for the wall.

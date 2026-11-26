@@ -43,7 +43,24 @@ def chapters(film, times):
     return "\n".join(f"{ts(t)} {n}" for t, n in out)
 def sources(film):
     src = [l[1:].strip() for l in open(film, encoding="utf-8") if re.match(r"#\s*\[S\d+\]", l)]
-    return "\n".join(src) if src else "See scripts/ep01_chimney_sweep.md (S1-S11)."
+    if not src:  # EP01 keeps its sources in the long-form script
+        md = os.path.join(ROOT, "scripts", "ep01_chimney_sweep.md")
+        src = [re.sub(r"\*\*", "", l[2:].strip()) for l in open(md, encoding="utf-8") if l.startswith("- **[S")]
+        src.append("[S11] Wikipedia, \"The Water-Babies, A Fairy Tale for a Land Baby\" (Charles Kingsley, 1863). https://en.wikipedia.org/wiki/The_Water-Babies,_A_Fairy_Tale_for_a_Land_Baby")
+    return "\n".join(src)
+def srt(film, times, out):
+    sys.path.insert(0, os.path.join(ROOT, "pipeline")); from film import parse
+    _, shots = parse(film); st = {t["id"]: t["start"] for t in times}; ids = [t["id"] for t in times]
+    def f(x): h, r = divmod(x, 3600); m, s = divmod(r, 60); return f"{int(h):02d}:{int(m):02d}:{int(s):02d},{int((s % 1) * 1000):03d}"
+    rows = []
+    for k, sh in enumerate(shots):
+        if sh["id"] not in st: continue
+        a = st[sh["id"]]; b = st[ids[ids.index(sh["id"]) + 1]] - 0.3 if sh["id"] != ids[-1] else a + 8
+        words = sh["vo"].split(); chunks = [" ".join(words[i:i + 12]) for i in range(0, len(words), 12)]
+        for j, c in enumerate(chunks):
+            ca = a + (b - a) * j / len(chunks); cb = a + (b - a) * (j + 1) / len(chunks)
+            rows.append(f"{len(rows) + 1}\n{f(ca)} --> {f(cb)}\n{c}\n")
+    open(out, "w", encoding="utf-8").write("\n".join(rows))
 if __name__ == "__main__":
     ep, tj = sys.argv[1], sys.argv[2]; m = META[ep]; film = os.path.join(ROOT, "episodes", ep, ep + ".film")
     times = json.load(open(tj)); n = int(ep[2:])
@@ -93,4 +110,5 @@ Every fact in this video is from a real source (listed below). The jokes are our
 ## Short (cut the hook, 0:00 to 0:45, vertical)
 {m['short']}
 """
-    open(os.path.join(ROOT, "episodes", ep, "UPLOAD.md"), "w", encoding="utf-8").write(md); print("wrote", ep)
+    open(os.path.join(ROOT, "episodes", ep, "UPLOAD.md"), "w", encoding="utf-8").write(md)
+    srt(film, times, os.path.join(ROOT, "episodes", ep, ep + ".srt")); print("wrote", ep)
