@@ -1,0 +1,6 @@
+L_boy_crouch | the boy alone, full body, crouched and curled up tight with knees pressed against his chin, arms hugging his legs, scared face, covered in a little soot, isolated on white
+L_room | an empty cramped poor room interior with no people, a single wooden bed with straw, a small table with a candle, a big brown damp stain on a cracked wall, wooden floor
+L_parents | a tired poor Victorian father and mother standing side by side, full body, isolated on white, no background
+L_kids | four small poor Victorian children standing in a row from tallest to smallest, full body, isolated on white, no background
+L_scroll | an old unrolled parchment scroll with a red wax seal, isolated on white, no people
+L_official | a serious Victorian politician with grey sideburns in a black coat holding a quill pen, full body, isolated on white
