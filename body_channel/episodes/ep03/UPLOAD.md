@@ -29,16 +29,16 @@ Every factual claim in this video comes from a source listed below. The jokes ar
 7:18 Outro
 
 📚 Sources
-[S1] NOAA National Weather Service, "Lightning. https://www.weather.gov/safety/lightning-power
+[S1] NOAA National Weather Service, "Lightning: power". https://www.weather.gov/safety/lightning-power
 [S2] NOAA National Weather Service, "How hot is lightning?". https://www.weather.gov/safety/lightning-temperature
-[S3] NOAA National Weather Service, "How dangerous is lightning?" (1989). https://www.weather.gov/safety/lightning-odds
+[S3] NOAA National Weather Service, "How dangerous is lightning?". https://www.weather.gov/safety/lightning-odds
 [S4] NOAA National Weather Service, "How lightning strikes people". https://www.weather.gov/safety/lightning-struck
 [S5] NOAA National Weather Service, "Lightning myths". https://www.weather.gov/safety/lightning-myths
 [S6] NOAA National Weather Service, "Medical aspects of lightning". https://www.weather.gov/safety/lightning-medical
 [S7] Wikipedia, "Lightning injury". https://en.wikipedia.org/wiki/Lightning_injury
 [S8] NOAA National Weather Service, "How lightning strikes people". https://www.weather.gov/safety/lightning-struck
 [S9] Wikipedia, "Lichtenberg figure". https://en.wikipedia.org/wiki/Lichtenberg_figure
-[S10] Wikipedia, "Roy Sullivan" (1942). https://en.wikipedia.org/wiki/Roy_Sullivan
+[S10] Wikipedia, "Roy Sullivan". https://en.wikipedia.org/wiki/Roy_Sullivan
 [S11] NOAA National Weather Service, "Understanding lightning". https://www.weather.gov/safety/lightning-science-overview
 [S12] Ritenour AE, Morton MJ, McManus JG, Barillo DJ, Cancio LC. Lightning injury (2008). https://doi.org/10.1016/j.burns.2007.11.006
 

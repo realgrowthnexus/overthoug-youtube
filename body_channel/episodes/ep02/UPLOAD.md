@@ -32,25 +32,25 @@ Every factual claim in this video comes from a source listed below. The jokes ar
 7:56 Outro
 
 📚 Sources
-[S1] NOAA National Ocean Service, "How deep is the ocean?" (1960). https://oceanservice.noaa.gov/facts/oceandepth.html
+[S1] NOAA National Ocean Service, "How deep is the ocean?". https://oceanservice.noaa.gov/facts/oceandepth.html
 [S2] NOAA National Ocean Service, "How far does light travel in the ocean?". https://oceanservice.noaa.gov/facts/light_travel.html
 [S3] NOAA National Ocean Service, "How does pressure change with ocean depth?". https://oceanservice.noaa.gov/facts/pressure.html
-[S4] Wikipedia, "Mariana Trench" (2014). https://en.wikipedia.org/wiki/Mariana_Trench
+[S4] Wikipedia, "Mariana Trench". https://en.wikipedia.org/wiki/Mariana_Trench
 [S5] Wikipedia, "Properties of water". https://en.wikipedia.org/wiki/Properties_of_water
 [S6] Wikipedia, "Drowning". https://en.wikipedia.org/wiki/Drowning
 [S7] Wikipedia, "Barotrauma". https://en.wikipedia.org/wiki/Barotrauma
 [S8] Wikipedia, "Diving reflex". https://en.wikipedia.org/wiki/Diving_reflex
-[S9] Wikipedia, "Herbert Nitsch" (2007). https://en.wikipedia.org/wiki/Herbert_Nitsch
-[S10] Wikipedia, "Saturation diving" (1992). https://en.wikipedia.org/wiki/Saturation_diving
+[S9] Wikipedia, "Herbert Nitsch". https://en.wikipedia.org/wiki/Herbert_Nitsch
+[S10] Wikipedia, "Saturation diving". https://en.wikipedia.org/wiki/Saturation_diving
 [S11] Wikipedia, "High-pressure nervous syndrome". https://en.wikipedia.org/wiki/High-pressure_nervous_syndrome
 [S12] Wikipedia, "Deep sea". https://en.wikipedia.org/wiki/Deep_sea
-[S13] Wikipedia, "Trieste (1960). https://en.wikipedia.org/wiki/Trieste_(bathyscaphe)
-[S14] Wikipedia, "Snailfish" (2017). https://en.wikipedia.org/wiki/Snailfish
+[S13] Wikipedia, "Trieste (bathyscaphe)". https://en.wikipedia.org/wiki/Trieste_(bathyscaphe)
+[S14] Wikipedia, "Snailfish". https://en.wikipedia.org/wiki/Snailfish
 [S15] Yancey PH, Gerringer ME, Drazen JC, Rowden AA, Jamieson A. Marine fish may be biochemically constrained from inhabiting the deepest ocean depths.… (2014). https://doi.org/10.1073/pnas.1322003111
-[S16] Mount Everest height 8,849 m (2020). https://en.wikipedia.org/wiki/Mount_Everest
+[S16] Mount Everest height 8,849 m. https://en.wikipedia.org/wiki/Mount_Everest
 [S17] Wikipedia, "Ear clearing". https://en.wikipedia.org/wiki/Ear_clearing
 [S18] Wikipedia, "Whale fall". https://en.wikipedia.org/wiki/Whale_fall
-[S19] USGS Water Science School, "The water in you. https://www.usgs.gov/special-topics/water-science-school/science/water-you-water-and-human-body
+[S19] USGS Water Science School, "The water in you: water and the human body". https://www.usgs.gov/special-topics/water-science-school/science/water-you-water-and-human-body
 
 🩺 New patient every Wednesday. Subscribe so you don't flatline.
 

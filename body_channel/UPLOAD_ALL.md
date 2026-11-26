@@ -88,19 +88,19 @@ Every factual claim in this video comes from a source listed below. The jokes ar
 8:37 Outro
 
 📚 Sources
-[S1] Wikipedia, "Randy Gardner sleep deprivation experiment" (1963). https://en.wikipedia.org/wiki/Randy_Gardner_sleep_deprivation_experiment
-[S2] Sarah Keating, "The boy who stayed awake for 11 days", BBC Future, 18 Jan 2018. https://www.bbc.com/future/article/20180118-the-boy-who-stayed-awake-for-11-days
+[S1] Wikipedia, "Randy Gardner sleep deprivation experiment". https://en.wikipedia.org/wiki/Randy_Gardner_sleep_deprivation_experiment
+[S2] Sarah Keating, "The boy who stayed awake for 11 days". https://www.bbc.com/future/article/20180118-the-boy-who-stayed-awake-for-11-days
 [S3] Williamson AM, Feyer AM. Moderate sleep deprivation produces impairments in cognitive and motor performance equivalent to legally prescribed levels… (2000). https://doi.org/10.1136/oem.57.10.649
 [S4] Van Dongen HP, Maislin G, Mullington JM, Dinges DF. The cumulative cost of additional wakefulness. Sleep 2003;26(2):117–126. https://doi.org/10.1093/sleep/26.2.117
 [S5] Banks S, Dinges DF. Behavioral and physiological consequences of sleep restriction. J Clin Sleep Med 2007;3(5):519–528. https://doi.org/10.5664/jcsm.26918
 [S6] Yoo SS, Gujar N, Hu P, Jolesz FA, Walker MP. The human emotional brain without sleep — a prefrontal amygdala disconnect. Curr Biol… (2007). https://doi.org/10.1016/j.cub.2007.08.007
 [S7] Taheri S, Lin L, Austin D, Young T, Mignot E. Short sleep duration is associated with reduced leptin, elevated ghrelin, and increased body mass… (2004). https://doi.org/10.1371/journal.pmed.0010062
 [S8] Xie L, Kang H, Xu Q, et al. Sleep drives metabolite clearance from the adult brain. Science 2013;342:373–377. https://doi.org/10.1126/science.1241224
-[S9] Wikipedia, "Microsleep" and "Sleep deprivation". https://en.wikipedia.org/wiki/Microsleep
+[S9] Wikipedia, "Microsleep". https://en.wikipedia.org/wiki/Microsleep
 [S10] Everson CA, Bergmann BM, Rechtschaffen A. Sleep deprivation in the rat (1989). https://doi.org/10.1093/sleep/12.1.13
 [S11] Vaccaro A, Kaplan Dor Y, Nambara K, et al. Sleep loss can cause death through accumulation of reactive oxygen species in the gut. Cell… (2020). https://doi.org/10.1016/j.cell.2020.04.049
 [S12] Wikipedia, "Fatal familial insomnia". https://en.wikipedia.org/wiki/Fatal_familial_insomnia
-[S13] Wikipedia, "Sleep deprivation", section on the immune system. https://en.wikipedia.org/wiki/Sleep_deprivation
+[S13] Wikipedia, "Sleep deprivation". https://en.wikipedia.org/wiki/Sleep_deprivation
 [S14] Scientific American, "How long can humans stay awake?". https://www.scientificamerican.com/article/how-long-can-humans-stay/
 
 🩺 New patient every Wednesday. Subscribe so you don't flatline.
@@ -165,25 +165,25 @@ Every factual claim in this video comes from a source listed below. The jokes ar
 7:56 Outro
 
 📚 Sources
-[S1] NOAA National Ocean Service, "How deep is the ocean?" (1960). https://oceanservice.noaa.gov/facts/oceandepth.html
+[S1] NOAA National Ocean Service, "How deep is the ocean?". https://oceanservice.noaa.gov/facts/oceandepth.html
 [S2] NOAA National Ocean Service, "How far does light travel in the ocean?". https://oceanservice.noaa.gov/facts/light_travel.html
 [S3] NOAA National Ocean Service, "How does pressure change with ocean depth?". https://oceanservice.noaa.gov/facts/pressure.html
-[S4] Wikipedia, "Mariana Trench" (2014). https://en.wikipedia.org/wiki/Mariana_Trench
+[S4] Wikipedia, "Mariana Trench". https://en.wikipedia.org/wiki/Mariana_Trench
 [S5] Wikipedia, "Properties of water". https://en.wikipedia.org/wiki/Properties_of_water
 [S6] Wikipedia, "Drowning". https://en.wikipedia.org/wiki/Drowning
 [S7] Wikipedia, "Barotrauma". https://en.wikipedia.org/wiki/Barotrauma
 [S8] Wikipedia, "Diving reflex". https://en.wikipedia.org/wiki/Diving_reflex
-[S9] Wikipedia, "Herbert Nitsch" (2007). https://en.wikipedia.org/wiki/Herbert_Nitsch
-[S10] Wikipedia, "Saturation diving" (1992). https://en.wikipedia.org/wiki/Saturation_diving
+[S9] Wikipedia, "Herbert Nitsch". https://en.wikipedia.org/wiki/Herbert_Nitsch
+[S10] Wikipedia, "Saturation diving". https://en.wikipedia.org/wiki/Saturation_diving
 [S11] Wikipedia, "High-pressure nervous syndrome". https://en.wikipedia.org/wiki/High-pressure_nervous_syndrome
 [S12] Wikipedia, "Deep sea". https://en.wikipedia.org/wiki/Deep_sea
-[S13] Wikipedia, "Trieste (1960). https://en.wikipedia.org/wiki/Trieste_(bathyscaphe)
-[S14] Wikipedia, "Snailfish" (2017). https://en.wikipedia.org/wiki/Snailfish
+[S13] Wikipedia, "Trieste (bathyscaphe)". https://en.wikipedia.org/wiki/Trieste_(bathyscaphe)
+[S14] Wikipedia, "Snailfish". https://en.wikipedia.org/wiki/Snailfish
 [S15] Yancey PH, Gerringer ME, Drazen JC, Rowden AA, Jamieson A. Marine fish may be biochemically constrained from inhabiting the deepest ocean depths.… (2014). https://doi.org/10.1073/pnas.1322003111
-[S16] Mount Everest height 8,849 m (2020). https://en.wikipedia.org/wiki/Mount_Everest
+[S16] Mount Everest height 8,849 m. https://en.wikipedia.org/wiki/Mount_Everest
 [S17] Wikipedia, "Ear clearing". https://en.wikipedia.org/wiki/Ear_clearing
 [S18] Wikipedia, "Whale fall". https://en.wikipedia.org/wiki/Whale_fall
-[S19] USGS Water Science School, "The water in you. https://www.usgs.gov/special-topics/water-science-school/science/water-you-water-and-human-body
+[S19] USGS Water Science School, "The water in you: water and the human body". https://www.usgs.gov/special-topics/water-science-school/science/water-you-water-and-human-body
 
 🩺 New patient every Wednesday. Subscribe so you don't flatline.
 
@@ -244,16 +244,16 @@ Every factual claim in this video comes from a source listed below. The jokes ar
 7:18 Outro
 
 📚 Sources
-[S1] NOAA National Weather Service, "Lightning. https://www.weather.gov/safety/lightning-power
+[S1] NOAA National Weather Service, "Lightning: power". https://www.weather.gov/safety/lightning-power
 [S2] NOAA National Weather Service, "How hot is lightning?". https://www.weather.gov/safety/lightning-temperature
-[S3] NOAA National Weather Service, "How dangerous is lightning?" (1989). https://www.weather.gov/safety/lightning-odds
+[S3] NOAA National Weather Service, "How dangerous is lightning?". https://www.weather.gov/safety/lightning-odds
 [S4] NOAA National Weather Service, "How lightning strikes people". https://www.weather.gov/safety/lightning-struck
 [S5] NOAA National Weather Service, "Lightning myths". https://www.weather.gov/safety/lightning-myths
 [S6] NOAA National Weather Service, "Medical aspects of lightning". https://www.weather.gov/safety/lightning-medical
 [S7] Wikipedia, "Lightning injury". https://en.wikipedia.org/wiki/Lightning_injury
 [S8] NOAA National Weather Service, "How lightning strikes people". https://www.weather.gov/safety/lightning-struck
 [S9] Wikipedia, "Lichtenberg figure". https://en.wikipedia.org/wiki/Lichtenberg_figure
-[S10] Wikipedia, "Roy Sullivan" (1942). https://en.wikipedia.org/wiki/Roy_Sullivan
+[S10] Wikipedia, "Roy Sullivan". https://en.wikipedia.org/wiki/Roy_Sullivan
 [S11] NOAA National Weather Service, "Understanding lightning". https://www.weather.gov/safety/lightning-science-overview
 [S12] Ritenour AE, Morton MJ, McManus JG, Barillo DJ, Cancio LC. Lightning injury (2008). https://doi.org/10.1016/j.burns.2007.11.006
 
@@ -317,11 +317,11 @@ Every factual claim in this video comes from a source listed below. The jokes ar
 6:39 Outro
 
 📚 Sources
-[S1] Wikipedia, "Super Size Me" (2003). https://en.wikipedia.org/wiki/Super_Size_Me
+[S1] Wikipedia, "Super Size Me". https://en.wikipedia.org/wiki/Super_Size_Me
 [S2] Kechagias S, Ernersson A, Dahlqvist O, et al. Fast-food-based hyper-alimentation can induce rapid and profound elevation of serum alanine… (2008). https://doi.org/10.1136/gut.2007.131797
 [S3] Ernersson A, Nyström FH, Lindström T. Long-term increase of fat mass after a four week intervention with fast food based hyper-alimentation and… (2010). https://doi.org/10.1186/1743-7075-7-68
 [S4] Vogel RA, Corretti MC, Plotnick GD. Effect of a single high-fat meal on endothelial function in healthy subjects. Am J Cardiol 1997;79(3):350–354. https://doi.org/10.1016/S0002-9149(96)00760-6
-[S5] World Health Organization, "Salt reduction" fact sheet. https://www.who.int/news-room/fact-sheets/detail/salt-reduction
+[S5] World Health Organization, "Salt reduction". https://www.who.int/news-room/fact-sheets/detail/salt-reduction
 [S6] David LA, Maurice CF, Carmody RN, et al. Diet rapidly and reproducibly alters the human gut microbiome. Nature 2014;505:559–563. https://doi.org/10.1038/nature12820
 [S7] Hall KD, Ayuketah A, Brychta R, et al. Ultra-processed diets cause excess calorie intake and weight gain (2019). https://doi.org/10.1016/j.cmet.2019.05.008
 

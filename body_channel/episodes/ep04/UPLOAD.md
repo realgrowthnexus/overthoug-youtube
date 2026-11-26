@@ -30,11 +30,11 @@ Every factual claim in this video comes from a source listed below. The jokes ar
 6:39 Outro
 
 📚 Sources
-[S1] Wikipedia, "Super Size Me" (2003). https://en.wikipedia.org/wiki/Super_Size_Me
+[S1] Wikipedia, "Super Size Me". https://en.wikipedia.org/wiki/Super_Size_Me
 [S2] Kechagias S, Ernersson A, Dahlqvist O, et al. Fast-food-based hyper-alimentation can induce rapid and profound elevation of serum alanine… (2008). https://doi.org/10.1136/gut.2007.131797
 [S3] Ernersson A, Nyström FH, Lindström T. Long-term increase of fat mass after a four week intervention with fast food based hyper-alimentation and… (2010). https://doi.org/10.1186/1743-7075-7-68
 [S4] Vogel RA, Corretti MC, Plotnick GD. Effect of a single high-fat meal on endothelial function in healthy subjects. Am J Cardiol 1997;79(3):350–354. https://doi.org/10.1016/S0002-9149(96)00760-6
-[S5] World Health Organization, "Salt reduction" fact sheet. https://www.who.int/news-room/fact-sheets/detail/salt-reduction
+[S5] World Health Organization, "Salt reduction". https://www.who.int/news-room/fact-sheets/detail/salt-reduction
 [S6] David LA, Maurice CF, Carmody RN, et al. Diet rapidly and reproducibly alters the human gut microbiome. Nature 2014;505:559–563. https://doi.org/10.1038/nature12820
 [S7] Hall KD, Ayuketah A, Brychta R, et al. Ultra-processed diets cause excess calorie intake and weight gain (2019). https://doi.org/10.1016/j.cmet.2019.05.008
 
