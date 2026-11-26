@@ -32,25 +32,25 @@ Every factual claim in this video comes from a source listed below. The jokes ar
 7:56 Outro
 
 📚 Sources
-[S1] NOAA National Ocean Service, "How deep is the ocean?": average depth ~3,682 m; Challenger Deep ~10,935 m, southern end of the Mariana Trench, several hundred km southwest of Guam; named after HMS Challenger. https://oceanservice.noaa.gov/facts/oceandepth.html ; Wikipedia "Challenger Deep" (amphipods in traps; 1960 Trieste dive; diatomaceous ooze). https://en.wikipedia.org/wiki/Challenger_Deep
-[S2] NOAA National Ocean Service, "How far does light travel in the ocean?": no significant light below 200 m; twilight 200–1,000 m; aphotic below 1,000 m; abyss 4,000–6,000 m; hadal 6,000 m+. https://oceanservice.noaa.gov/facts/light_travel.html
-[S3] NOAA National Ocean Service, "How does pressure change with ocean depth?": +1 atmosphere every 10.06 m. https://oceanservice.noaa.gov/facts/pressure.html
-[S4] Wikipedia, "Mariana Trench": 111 MPa ≈ 1,100 atm ≈ 8 tons per square inch; bottom temperature 1–4 °C; xenophyophores >10 cm; supergiant amphipods filmed in 2014; 100% of amphipods sampled contained synthetic particles (Jamieson et al. 2019, R. Soc. Open Sci.). https://en.wikipedia.org/wiki/Mariana_Trench
-[S5] Wikipedia, "Properties of water": at 4 km depth (40 MPa) water's volume decreases by only 1.8%. https://en.wikipedia.org/wiki/Properties_of_water
-[S6] Wikipedia, "Drowning": breath-hold breakpoint driven by CO2; laryngospasm; unconsciousness from hypoxia; brain death after ~6 minutes. https://en.wikipedia.org/wiki/Drowning
-[S7] Wikipedia, "Barotrauma": injuries to gas-containing organs (lungs, gastrointestinal tract, middle ear, sinuses) from pressure differences. https://en.wikipedia.org/wiki/Barotrauma
-[S8] Wikipedia, "Diving reflex": facial contact with cold water slows the heart rate by 10–25%; peripheral vasoconstriction; blood redirected to vital organs. https://en.wikipedia.org/wiki/Diving_reflex
-[S9] Wikipedia, "Herbert Nitsch": No Limits record 214 m (Spetses, June 2007); 253.2 m on 6 June 2012, followed ~10 minutes later by serious decompression sickness. https://en.wikipedia.org/wiki/Herbert_Nitsch
-[S10] Wikipedia, "Saturation diving": Comex Hydra X, 20 Nov 1992, Theo Mavrostomos spent two hours at 701 msw (chamber). https://en.wikipedia.org/wiki/Saturation_diving
-[S11] Wikipedia, "High-pressure nervous syndrome": below ~150 m on helium mixes; tremors, myoclonic jerking, nausea, dizziness. https://en.wikipedia.org/wiki/High-pressure_nervous_syndrome
-[S12] Wikipedia, "Deep sea": tropical surface water usually above 20 °C; ~5–6 °C at 1,000 m. https://en.wikipedia.org/wiki/Deep_sea
-[S13] Wikipedia, "Trieste (bathyscaphe)": first crewed vessel to the bottom of Challenger Deep, 23 Jan 1960, Jacques Piccard and Don Walsh; descent 4 h 47 min; outer window pane cracked after passing 9,000 m; 20 minutes on the floor. https://en.wikipedia.org/wiki/Trieste_(bathyscaphe)
-[S14] Wikipedia, "Snailfish": filmed at 8,178 m in the Mariana Trench (2017) and 8,336 m in the Izu–Ogasawara Trench (2023). https://en.wikipedia.org/wiki/Snailfish
-[S15] Yancey PH, Gerringer ME, Drazen JC, Rowden AA, Jamieson A. Marine fish may be biochemically constrained from inhabiting the deepest ocean depths. PNAS 2014;111(12):4461–4465 (TMAO increases with depth; predicted limit ~8,200 m; no fish found in the deepest 25%, 8,400–11,000 m). https://doi.org/10.1073/pnas.1322003111
-[S16] Mount Everest height 8,849 m (2020 China–Nepal survey). https://en.wikipedia.org/wiki/Mount_Everest
-[S17] Wikipedia, "Ear clearing" (divers equalise their ears during descent). https://en.wikipedia.org/wiki/Ear_clearing
-[S18] Wikipedia, "Whale fall": carcasses on the deep sea floor support communities of scavengers and other organisms through several stages over years. https://en.wikipedia.org/wiki/Whale_fall
-[S19] USGS Water Science School, "The water in you: water and the human body" (up to ~60% of the adult human body is water). https://www.usgs.gov/special-topics/water-science-school/science/water-you-water-and-human-body
+[S1] NOAA National Ocean Service, "How deep is the ocean?" (1960). https://oceanservice.noaa.gov/facts/oceandepth.html
+[S2] NOAA National Ocean Service, "How far does light travel in the ocean?". https://oceanservice.noaa.gov/facts/light_travel.html
+[S3] NOAA National Ocean Service, "How does pressure change with ocean depth?". https://oceanservice.noaa.gov/facts/pressure.html
+[S4] Wikipedia, "Mariana Trench" (2014). https://en.wikipedia.org/wiki/Mariana_Trench
+[S5] Wikipedia, "Properties of water". https://en.wikipedia.org/wiki/Properties_of_water
+[S6] Wikipedia, "Drowning". https://en.wikipedia.org/wiki/Drowning
+[S7] Wikipedia, "Barotrauma". https://en.wikipedia.org/wiki/Barotrauma
+[S8] Wikipedia, "Diving reflex". https://en.wikipedia.org/wiki/Diving_reflex
+[S9] Wikipedia, "Herbert Nitsch" (2007). https://en.wikipedia.org/wiki/Herbert_Nitsch
+[S10] Wikipedia, "Saturation diving" (1992). https://en.wikipedia.org/wiki/Saturation_diving
+[S11] Wikipedia, "High-pressure nervous syndrome". https://en.wikipedia.org/wiki/High-pressure_nervous_syndrome
+[S12] Wikipedia, "Deep sea". https://en.wikipedia.org/wiki/Deep_sea
+[S13] Wikipedia, "Trieste (1960). https://en.wikipedia.org/wiki/Trieste_(bathyscaphe)
+[S14] Wikipedia, "Snailfish" (2017). https://en.wikipedia.org/wiki/Snailfish
+[S15] Yancey PH, Gerringer ME, Drazen JC, Rowden AA, Jamieson A. Marine fish may be biochemically constrained from inhabiting the deepest ocean depths.… (2014). https://doi.org/10.1073/pnas.1322003111
+[S16] Mount Everest height 8,849 m (2020). https://en.wikipedia.org/wiki/Mount_Everest
+[S17] Wikipedia, "Ear clearing". https://en.wikipedia.org/wiki/Ear_clearing
+[S18] Wikipedia, "Whale fall". https://en.wikipedia.org/wiki/Whale_fall
+[S19] USGS Water Science School, "The water in you. https://www.usgs.gov/special-topics/water-science-school/science/water-you-water-and-human-body
 
 🩺 New patient every Wednesday. Subscribe so you don't flatline.
 
@@ -75,7 +75,3 @@ At what depth would YOU have started panicking? 👇
 ## Shorts (cut from this video, 9:16, 30–50 s, posted Fri and Sun after the long video; link the long video as "Related video")
 1. Why the deep sea doesn't crush you into a cube. #ocean #science
 2. No fish lives below ~8,200 m. Here's why. #marianatrench #science
-
-### Cut points (vertical 1080×1920, made from the rendered episode)
-- Short 1: start 4:01.1, 55.1 s, on-screen title "WHY THE DEEP SEA DOESN'T CRUSH YOU". Make it with `python3 pipeline/shorts.py out/EP02.mp4 241.12 55.1 "WHY THE DEEP SEA DOESN'T CRUSH YOU" out/EP02_short1.mp4`
-- Short 2: start 5:15.4, 45.8 s, on-screen title "NO FISH BELOW 8,200 M?". Make it with `python3 pipeline/shorts.py out/EP02.mp4 315.42 45.8 "NO FISH BELOW 8,200 M?" out/EP02_short2.mp4`

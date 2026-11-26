@@ -92,7 +92,13 @@ def script_md(ep, film, meta, shots):
 if __name__ == "__main__":
     ep, tj = sys.argv[1], sys.argv[2]; m = META[ep]; film = os.path.join(ROOT, "episodes", ep, ep + ".film")
     meta, sprites, shots = parse(film); times = json.load(open(tj)); n = int(ep[2:])
-    srcs = "\n".join(block(film, "SOURCES"))
+    def short(r):                                   # "[S1] Who/what (year). URL" — keeps descriptions under 5,000 chars
+        urls = re.findall(r"https?://\S+", r); tag = r.split("]", 1)[0] + "]"; body = r.split("]", 1)[1].strip()
+        body = re.split(r":\s| \(|; | https?://", body)[0].strip().rstrip(".,")
+        yr = re.search(r"\b(19|20)\d\d\b", r); body = body if len(body) <= 150 else body[:150].rsplit(" ", 1)[0] + "…"
+        if yr and yr.group(0) not in body: body += f" ({yr.group(0)})"
+        return f"{tag} {body}. {urls[0].rstrip(';,') if urls else ''}".strip()
+    srcs = "\n".join(short(r) for r in block(film, "SOURCES")).replace("<", "under ").replace(">", "over ")
     desc = f"""{m['hook']}
 
 {m['blurb']}
