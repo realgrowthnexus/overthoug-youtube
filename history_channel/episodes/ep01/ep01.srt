@@ -1,643 +1,643 @@
 1
-00:00:00,000 --> 00:00:01,530
+00:00:00,000 --> 00:00:01,490
 You are seven years old.
 
 2
-00:00:01,830 --> 00:00:04,633
+00:00:01,790 --> 00:00:04,633
 You're inside a chimney, in total darkness. The tunnel around you is
 
 3
-00:00:04,633 --> 00:00:07,436
+00:00:04,633 --> 00:00:07,476
 about as wide as a dinner plate, and your knees are pressed
 
 4
-00:00:07,436 --> 00:00:10,239
+00:00:07,476 --> 00:00:10,319
 up against your chin.
 
 5
-00:00:10,539 --> 00:00:13,119
+00:00:10,619 --> 00:00:13,319
 You can't go up. You can't go down.
 
 6
-00:00:13,419 --> 00:00:16,644
+00:00:13,619 --> 00:00:16,870
 And here's the twist. A law already says you shouldn't be here.
 
 7
-00:00:16,644 --> 00:00:19,870
+00:00:16,870 --> 00:00:20,120
 Everyone knows it. Nobody cares.
 
 8
-00:00:20,170 --> 00:00:22,725
+00:00:20,420 --> 00:00:22,975
 So how did a seven year old end up inside a wall?
 
 9
-00:00:22,725 --> 00:00:25,279
+00:00:22,975 --> 00:00:25,529
 Let's go back to the day you were born.
 
 10
-00:00:25,579 --> 00:00:28,953
+00:00:25,829 --> 00:00:29,176
 London in the eighteen sixties is the biggest city on the planet.
 
 11
-00:00:28,953 --> 00:00:32,326
+00:00:29,176 --> 00:00:32,523
 Around three million people, and almost every single one of them heats
 
 12
-00:00:32,326 --> 00:00:35,700
+00:00:32,523 --> 00:00:35,870
 their home and cooks their food with coal.
 
 13
-00:00:36,000 --> 00:00:40,553
+00:00:36,170 --> 00:00:40,846
 Coal fires mean smoke. Smoke means soot. And soot builds up inside
 
 14
-00:00:40,553 --> 00:00:45,106
+00:00:40,846 --> 00:00:45,523
 chimneys until it catches fire, or the whole house fills with black
 
 15
-00:00:45,106 --> 00:00:49,660
+00:00:45,523 --> 00:00:50,200
 smoke. So somebody has to clean them. Hundreds of thousands of chimneys.
 
 16
-00:00:49,960 --> 00:00:53,685
+00:00:50,500 --> 00:00:54,225
 And the cheapest chimney cleaning tool in Victorian London isn't a brush.
 
 17
-00:00:53,685 --> 00:00:57,410
+00:00:54,225 --> 00:00:57,950
 It's a child. Specifically, you.
 
 18
-00:00:57,710 --> 00:01:01,165
+00:00:58,250 --> 00:01:01,870
 London, eighteen sixty-two. You arrive in a single rented room, shared with
 
 19
-00:01:01,165 --> 00:01:04,620
+00:01:01,870 --> 00:01:05,490
 your parents, four siblings,
 
 20
-00:01:04,920 --> 00:01:06,955
+00:01:05,790 --> 00:01:07,849
 and a damp patch on the wall that has more personality than
 
 21
-00:01:06,955 --> 00:01:08,990
+00:01:07,849 --> 00:01:09,909
 your dad.
 
 22
-00:01:09,290 --> 00:01:13,159
+00:01:10,209 --> 00:01:14,164
 Fun fact. Twenty-two years before you were born, a law already said
 
 23
-00:01:13,159 --> 00:01:17,030
+00:01:14,164 --> 00:01:18,120
 nobody under twenty-one is allowed to climb a chimney.
 
 24
-00:01:17,329 --> 00:01:20,490
+00:01:18,420 --> 00:01:21,530
 Hold on to that. It's going to be hilarious later.
 
 25
-00:01:20,790 --> 00:01:23,534
+00:01:21,829 --> 00:01:24,704
 Your family is poor. Dinner is bread. On a good day, dinner
 
 26
-00:01:23,534 --> 00:01:26,280
+00:01:24,704 --> 00:01:27,579
 is also bread.
 
 27
-00:01:26,579 --> 00:01:28,813
+00:01:27,879 --> 00:01:30,043
 And by the time you can walk, your parents are looking at
 
 28
-00:01:28,813 --> 00:01:31,046
+00:01:30,043 --> 00:01:32,206
 you the way people look at an old coat. Maybe there's some
 
 29
-00:01:31,046 --> 00:01:33,280
+00:01:32,206 --> 00:01:34,370
 money in that.
 
 30
-00:01:33,579 --> 00:01:37,493
+00:01:34,670 --> 00:01:38,596
 And to be fair to your parents, there aren't many options. There's
 
 31
-00:01:37,493 --> 00:01:41,406
+00:01:38,596 --> 00:01:42,523
 no free school yet. No child benefits. No safety net. If the
 
 32
-00:01:41,406 --> 00:01:45,320
+00:01:42,523 --> 00:01:46,450
 family can't eat, somebody small is going to work.
 
 33
-00:01:45,620 --> 00:01:49,120
+00:01:46,750 --> 00:01:50,329
 Then one morning, a man in a black top hat knocks on
 
 34
-00:01:49,120 --> 00:01:52,620
+00:01:50,329 --> 00:01:53,909
 the door. He's a master sweep, and he likes what he sees.
 
 35
-00:01:52,920 --> 00:01:55,079
+00:01:54,209 --> 00:01:56,320
 You're small. You're skinny.
 
 36
-00:01:55,379 --> 00:01:57,579
+00:01:56,620 --> 00:01:58,700
 You look like you'd fit in a drainpipe. In this job, that's
 
 37
-00:01:57,579 --> 00:01:59,780
+00:01:58,700 --> 00:02:00,780
 a compliment.
 
 38
-00:02:00,079 --> 00:02:03,370
+00:02:01,079 --> 00:02:04,284
 Kids like you were often orphans, or workhouse boys, or simply handed
 
 39
-00:02:03,370 --> 00:02:06,659
+00:02:04,284 --> 00:02:07,490
 over by parents who needed the money.
 
 40
-00:02:06,959 --> 00:02:11,599
+00:02:07,790 --> 00:02:12,599
 Some climbing boys started as young as four. Most were somewhere between
 
 41
-00:02:11,599 --> 00:02:16,239
+00:02:12,599 --> 00:02:17,409
 seven and ten. Old enough to follow orders. Small enough to fit.
 
 42
-00:02:16,539 --> 00:02:21,409
+00:02:17,710 --> 00:02:22,579
 The paperwork calls it an apprenticeship. Your mum calls it an opportunity.
 
 43
-00:02:21,710 --> 00:02:24,489
+00:02:22,879 --> 00:02:25,869
 You call it, why is that man holding my arm.
 
 44
-00:02:24,789 --> 00:02:27,870
+00:02:26,169 --> 00:02:29,289
 And that's it. No goodbye party. No backpack. You walk down the
 
 45
-00:02:27,870 --> 00:02:30,949
+00:02:29,289 --> 00:02:32,409
 street behind a stranger, and your childhood stays behind in that room
 
 46
-00:02:30,949 --> 00:02:34,030
+00:02:32,409 --> 00:02:35,530
 with the damp patch.
 
 47
-00:02:34,330 --> 00:02:37,050
+00:02:35,830 --> 00:02:38,466
 Your new home is the master's cellar. Your bed is a pile
 
 48
-00:02:37,050 --> 00:02:39,769
+00:02:38,466 --> 00:02:41,103
 of soot bags. A mattress made of the exact stuff you're paid
 
 49
-00:02:39,769 --> 00:02:42,489
+00:02:41,103 --> 00:02:43,739
 to remove.
 
 50
-00:02:42,789 --> 00:02:45,939
+00:02:44,039 --> 00:02:47,189
 The workday starts early. Sometimes your master drags you out of bed
 
 51
-00:02:45,939 --> 00:02:49,089
+00:02:47,189 --> 00:02:50,339
 at three in the morning, because rich people want clean chimneys before
 
 52
-00:02:49,089 --> 00:02:52,239
+00:02:50,339 --> 00:02:53,489
 they light the morning fires.
 
 53
-00:02:52,539 --> 00:02:56,659
+00:02:53,789 --> 00:02:57,949
 Then comes training. There's no school. No safety talk.
 
 54
-00:02:56,960 --> 00:02:59,030
+00:02:58,250 --> 00:03:00,409
 Here's the chimney. Up you go.
 
 55
-00:02:59,330 --> 00:03:03,493
+00:03:00,710 --> 00:03:05,039
 Fun fact about rich people's chimneys. The fancier the house, the more
 
 56
-00:03:03,493 --> 00:03:07,656
+00:03:05,039 --> 00:03:09,370
 complicated the flues. They bend. They twist. They split into different rooms.
 
 57
-00:03:07,656 --> 00:03:11,819
+00:03:09,370 --> 00:03:13,699
 Rich people liked architecture. You will learn to hate it.
 
 58
-00:03:12,120 --> 00:03:15,576
+00:03:14,000 --> 00:03:17,539
 Inside, the flue can narrow to about nine inches by nine inches.
 
 59
-00:03:15,576 --> 00:03:19,033
+00:03:17,539 --> 00:03:21,079
 Smaller than this video on a laptop screen. No ladder. No rope.
 
 60
-00:03:19,033 --> 00:03:22,489
+00:03:21,079 --> 00:03:24,619
 Just you.
 
 61
-00:03:22,789 --> 00:03:25,954
+00:03:24,919 --> 00:03:28,224
 You push up with your knees and elbows. Not a style choice.
 
 62
-00:03:25,954 --> 00:03:29,119
+00:03:28,224 --> 00:03:31,530
 There's simply no room to do anything else.
 
 63
-00:03:29,419 --> 00:03:31,329
+00:03:31,830 --> 00:03:33,745
 By the end of week one, your knees and elbows are scraped
 
 64
-00:03:31,329 --> 00:03:33,239
+00:03:33,745 --> 00:03:35,659
 raw.
 
 65
-00:03:33,539 --> 00:03:35,849
+00:03:35,960 --> 00:03:38,389
 By the end of week two, they're still raw. They just stop
 
 66
-00:03:35,849 --> 00:03:38,159
+00:03:38,389 --> 00:03:40,819
 surprising you.
 
 67
-00:03:38,460 --> 00:03:42,013
+00:03:41,120 --> 00:03:44,756
 Between jobs, climbing boys walked the streets shouting out for work. Sweep!
 
 68
-00:03:42,013 --> 00:03:45,566
+00:03:44,756 --> 00:03:48,393
 Sweep! Basically a walking advert, at six in the morning, for a
 
 69
-00:03:45,566 --> 00:03:49,119
+00:03:48,393 --> 00:03:52,030
 service where the product is you.
 
 70
-00:03:49,419 --> 00:03:52,697
+00:03:52,330 --> 00:03:55,629
 And if you think your knees will eventually toughen up? They do.
 
 71
-00:03:52,697 --> 00:03:55,974
+00:03:55,629 --> 00:03:58,930
 Eventually. After weeks of scraping. Some masters had their own methods to
 
 72
-00:03:55,974 --> 00:03:59,252
+00:03:58,930 --> 00:04:02,230
 speed that up. You do not want to know them. And honestly,
 
 73
-00:03:59,252 --> 00:04:02,530
+00:04:02,230 --> 00:04:05,530
 neither does YouTube.
 
 74
-00:04:02,830 --> 00:04:05,849
+00:04:05,830 --> 00:04:08,805
 Days turn into a rhythm. Wake up in the dark. Climb in
 
 75
-00:04:05,849 --> 00:04:08,869
+00:04:08,805 --> 00:04:11,780
 the dark. Breathe soot in the dark.
 
 76
-00:04:09,169 --> 00:04:12,349
+00:04:12,080 --> 00:04:15,225
 But sometimes, at the very top, you poke your head out of
 
 77
-00:04:12,349 --> 00:04:15,530
+00:04:15,225 --> 00:04:18,370
 a chimney pot and see the whole of London at sunrise.
 
 78
-00:04:15,830 --> 00:04:20,579
+00:04:18,670 --> 00:04:23,529
 And honestly? It's beautiful. It's the only window seat you'll ever get.
 
 79
-00:04:20,879 --> 00:04:22,789
+00:04:23,829 --> 00:04:25,679
 Then you climb back down, and the master points at the next
 
 80
-00:04:22,789 --> 00:04:24,699
+00:04:25,679 --> 00:04:27,529
 one.
 
 81
-00:04:25,000 --> 00:04:28,889
+00:04:27,829 --> 00:04:31,659
 Washing? Not really. Climbing boys were rarely washed. The soot settles into
 
 82
-00:04:28,889 --> 00:04:32,779
+00:04:31,659 --> 00:04:35,490
 every fold of your skin, and it stays there.
 
 83
-00:04:33,079 --> 00:04:35,370
+00:04:35,790 --> 00:04:37,995
 Remember that. It comes back at the end, and it does not
 
 84
-00:04:35,370 --> 00:04:37,659
+00:04:37,995 --> 00:04:40,199
 come back nicely.
 
 85
-00:04:37,959 --> 00:04:41,246
+00:04:40,500 --> 00:04:43,816
 Meanwhile, your master gets paid for every chimney. You get food, a
 
 86
-00:04:41,246 --> 00:04:44,533
+00:04:43,816 --> 00:04:47,133
 roof made of soot bags, and occasionally a coin if he's in
 
 87
-00:04:44,533 --> 00:04:47,819
+00:04:47,133 --> 00:04:50,449
 a good mood. He's never in a good mood.
 
 88
-00:04:48,120 --> 00:04:50,579
+00:04:50,750 --> 00:04:53,240
 Now here's the part that will make you angry.
 
 89
-00:04:50,879 --> 00:04:55,560
+00:04:53,540 --> 00:04:58,350
 A mechanical brush, a long jointed pole with a brush on the
 
 90
-00:04:55,560 --> 00:05:00,240
+00:04:58,350 --> 00:05:03,159
 end, had existed since around eighteen-oh-three. Before your grandparents were even married.
 
 91
-00:05:00,540 --> 00:05:02,659
+00:05:03,459 --> 00:05:05,659
 So why are you still climbing?
 
 92
-00:05:02,959 --> 00:05:06,725
+00:05:05,959 --> 00:05:09,870
 Because plenty of sweeps and their customers simply preferred boys. Boys were
 
 93
-00:05:06,725 --> 00:05:10,490
+00:05:09,870 --> 00:05:13,779
 cheap, and boys didn't complain to anyone important.
 
 94
-00:05:10,790 --> 00:05:14,350
+00:05:14,079 --> 00:05:17,659
 You are, technically, a more expensive option than a stick. You're also
 
 95
-00:05:14,350 --> 00:05:17,909
+00:05:17,659 --> 00:05:21,240
 a more convenient one. Which is worse.
 
 96
-00:05:18,209 --> 00:05:21,789
+00:05:21,540 --> 00:05:25,066
 Imagine being a rich lady who looks at a brush that works
 
 97
-00:05:21,789 --> 00:05:25,370
+00:05:25,066 --> 00:05:28,593
 perfectly, and then at a starving seven year old, and thinks, yes,
 
 98
-00:05:25,370 --> 00:05:28,949
+00:05:28,593 --> 00:05:32,120
 the child please. That's the energy of the eighteen hundreds.
 
 99
-00:05:29,250 --> 00:05:33,745
+00:05:32,420 --> 00:05:36,955
 In eighteen sixty-four, Parliament passes another Chimney Sweepers Act. Fines and everything.
 
 100
-00:05:33,745 --> 00:05:38,240
+00:05:36,955 --> 00:05:41,490
 Climbing boys are now extra illegal.
 
 101
-00:05:38,540 --> 00:05:40,079
+00:05:41,790 --> 00:05:43,409
 And everyone ignores it.
 
 102
-00:05:40,379 --> 00:05:44,095
+00:05:43,709 --> 00:05:47,384
 Around this time, a writer called Charles Kingsley publishes a children's book
 
 103
-00:05:44,095 --> 00:05:47,810
+00:05:47,384 --> 00:05:51,059
 called The Water-Babies. Its hero is a climbing boy named Tom. Readers
 
 104
-00:05:47,810 --> 00:05:51,524
+00:05:51,059 --> 00:05:54,734
 across Britain are horrified. People who never once looked inside a chimney
 
 105
-00:05:51,524 --> 00:05:55,240
+00:05:54,734 --> 00:05:58,409
 suddenly care.
 
 106
-00:05:55,540 --> 00:05:59,066
+00:05:58,709 --> 00:06:02,263
 And still, a book can change minds. It can't open locked doors.
 
 107
-00:05:59,066 --> 00:06:02,593
+00:06:02,263 --> 00:06:05,816
 Masters keep sending boys up. Customers keep paying. The law becomes more
 
 108
-00:06:02,593 --> 00:06:06,120
+00:06:05,816 --> 00:06:09,370
 of a suggestion.
 
 109
-00:06:06,420 --> 00:06:10,500
+00:06:09,670 --> 00:06:13,685
 You're nine. A man in Parliament has decided you shouldn't be here.
 
 110
-00:06:10,500 --> 00:06:14,579
+00:06:13,685 --> 00:06:17,699
 Your master has decided Parliament can't see inside a chimney.
 
 111
-00:06:14,879 --> 00:06:16,529
+00:06:18,000 --> 00:06:19,620
 Your master is right.
 
 112
-00:06:16,829 --> 00:06:19,536
+00:06:19,920 --> 00:06:22,653
 Which brings us back to where we started. A flue that bends.
 
 113
-00:06:19,536 --> 00:06:22,243
+00:06:22,653 --> 00:06:25,386
 Knees jammed against your chin. You can't go up, and you can't
 
 114
-00:06:22,243 --> 00:06:24,949
+00:06:25,386 --> 00:06:28,120
 go down.
 
 115
-00:06:25,250 --> 00:06:29,495
+00:06:28,420 --> 00:06:32,810
 This happened to climbing boys again and again. When it ended badly,
 
 116
-00:06:29,495 --> 00:06:33,740
+00:06:32,810 --> 00:06:37,199
 the coroner often wrote, accidental death. Nobody went to jail.
 
 117
-00:06:34,040 --> 00:06:37,060
+00:06:37,500 --> 00:06:40,579
 Today, you're lucky. Your master breaks a few bricks out of the
 
 118
-00:06:37,060 --> 00:06:40,079
+00:06:40,579 --> 00:06:43,659
 wall and pulls you out by the ankles.
 
 119
-00:06:40,379 --> 00:06:43,079
+00:06:43,959 --> 00:06:46,745
 He's furious. Not because you almost died. Because now he has to
 
 120
-00:06:43,079 --> 00:06:45,779
+00:06:46,745 --> 00:06:49,529
 pay for the wall.
 
 121
-00:06:46,079 --> 00:06:49,300
+00:06:49,829 --> 00:06:53,009
 And here's the dark part. For you, this was a lucky day.
 
 122
-00:06:49,300 --> 00:06:52,519
+00:06:53,009 --> 00:06:56,189
 Many climbing boys stuck in a chimney never got a hammer and
 
 123
-00:06:52,519 --> 00:06:55,740
+00:06:56,189 --> 00:06:59,370
 a pair of hands. They got the coroner's book.
 
 124
-00:06:56,040 --> 00:06:59,060
+00:06:59,670 --> 00:07:02,685
 February, eighteen seventy-five. You're thirteen now, and getting too big for the
 
 125
-00:06:59,060 --> 00:07:02,079
+00:07:02,685 --> 00:07:05,699
 flues.
 
 126
-00:07:02,379 --> 00:07:06,319
+00:07:06,000 --> 00:07:09,819
 Then the newspapers start talking about a boy called George Brewster.
 
 127
-00:07:06,620 --> 00:07:09,692
+00:07:10,120 --> 00:07:13,212
 George was a climbing boy too. On the eleventh of February, he
 
 128
-00:07:09,692 --> 00:07:12,764
+00:07:13,212 --> 00:07:16,305
 was sent up a chimney at the asylum in Fulbourn, near Cambridge.
 
 129
-00:07:12,764 --> 00:07:15,837
+00:07:16,305 --> 00:07:19,397
 He got stuck. By the time they pulled him out, it was
 
 130
-00:07:15,837 --> 00:07:18,909
+00:07:19,397 --> 00:07:22,490
 too late.
 
 131
-00:07:19,209 --> 00:07:21,819
+00:07:22,790 --> 00:07:25,370
 His master was charged with manslaughter.
 
 132
-00:07:22,120 --> 00:07:27,079
+00:07:25,670 --> 00:07:30,529
 Lord Shaftesbury reads about George, and pushes one more law through Parliament.
 
 133
-00:07:27,379 --> 00:07:30,289
+00:07:30,829 --> 00:07:33,639
 This time, sweeps need a licence from the police. And the police
 
 134
-00:07:30,289 --> 00:07:33,199
+00:07:33,639 --> 00:07:36,449
 actually have to enforce it.
 
 135
-00:07:33,500 --> 00:07:36,843
+00:07:36,750 --> 00:07:40,079
 By September eighteen seventy-five, the climbing boy era in Britain is basically
 
 136
-00:07:36,843 --> 00:07:40,186
+00:07:40,079 --> 00:07:43,410
 over. George is often remembered as the last climbing boy to die
 
 137
-00:07:40,186 --> 00:07:43,529
+00:07:43,410 --> 00:07:46,740
 in England.
 
 138
-00:07:43,829 --> 00:07:46,324
+00:07:47,040 --> 00:07:49,600
 You survived it. You're one of the lucky ones. Which is a
 
 139
-00:07:46,324 --> 00:07:48,819
+00:07:49,600 --> 00:07:52,159
 really low bar.
 
 140
-00:07:49,120 --> 00:07:52,646
+00:07:52,459 --> 00:07:56,053
 And honestly, for a while, life gets better. You're bigger, you're free
 
 141
-00:07:52,646 --> 00:07:56,173
+00:07:56,053 --> 00:07:59,646
 of the flues, and you find work above ground. You can see
 
 142
-00:07:56,173 --> 00:07:59,699
+00:07:59,646 --> 00:08:03,240
 the sky every day. You forgot how much you missed it.
 
 143
-00:08:00,000 --> 00:08:02,204
+00:08:03,540 --> 00:08:05,830
 Years later, you notice a small wart. In a place you'd rather
 
 144
-00:08:02,204 --> 00:08:04,409
+00:08:05,830 --> 00:08:08,120
 not point at.
 
 145
-00:08:04,709 --> 00:08:08,052
+00:08:08,420 --> 00:08:11,875
 Sweeps had a name for it. The soot wart. In seventeen seventy-five,
 
 146
-00:08:08,052 --> 00:08:11,394
+00:08:11,875 --> 00:08:15,330
 almost a hundred years before your first climb, a surgeon called Percivall
 
 147
-00:08:11,394 --> 00:08:14,737
+00:08:15,330 --> 00:08:18,785
 Pott worked out it was cancer, caused by soot sitting in the
 
 148
-00:08:14,737 --> 00:08:18,079
+00:08:18,785 --> 00:08:22,240
 folds of a sweep's skin.
 
 149
-00:08:18,379 --> 00:08:22,029
+00:08:22,540 --> 00:08:25,990
 It's known as the first cancer ever linked to someone's job.
 
 150
-00:08:22,329 --> 00:08:26,699
+00:08:26,290 --> 00:08:30,579
 Everybody knew. And the soot bags got used as beds anyway.
 
 151
-00:08:27,000 --> 00:08:29,900
+00:08:30,879 --> 00:08:33,723
 So in the end, your career didn't just steal your childhood. It
 
 152
-00:08:29,900 --> 00:08:32,800
+00:08:33,723 --> 00:08:36,566
 sent you a bill, decades later, for every night you slept on
 
 153
-00:08:32,800 --> 00:08:35,700
+00:08:36,566 --> 00:08:39,410
 those bags.
 
 154
-00:08:36,000 --> 00:08:38,956
+00:08:39,710 --> 00:08:42,776
 So that's your life. Born into a room with a damp patch.
 
 155
-00:08:38,956 --> 00:08:41,913
+00:08:42,776 --> 00:08:45,843
 Sold to a man in a top hat. Sent up chimneys that
 
 156
-00:08:41,913 --> 00:08:44,870
+00:08:45,843 --> 00:08:48,910
 a law had already banned.
 
 157
-00:08:45,169 --> 00:08:46,809
+00:08:49,210 --> 00:08:50,935
 And the whole time, a brush on a stick could have done
 
 158
-00:08:46,809 --> 00:08:48,450
+00:08:50,935 --> 00:08:52,660
 your job.
 
 159
-00:08:48,750 --> 00:08:51,416
+00:08:52,960 --> 00:08:55,626
 Thanks for living it with us. Next time, you're born as a
 
 160
-00:08:51,416 --> 00:08:54,083
+00:08:55,626 --> 00:08:58,293
 medieval executioner. Everyone needs you. Nobody will sit next to you. Hit
 
 161
-00:08:54,083 --> 00:08:56,750
+00:08:58,293 --> 00:09:00,960
 subscribe, and pick your next past life.

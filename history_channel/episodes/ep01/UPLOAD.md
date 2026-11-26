@@ -19,16 +19,16 @@ Every fact in this video is from a real source (listed below). The jokes are our
 
 ⏱️ Chapters
 0:00 Hook
-0:57 Born
-1:45 Sold
-2:34 First Day
-4:02 Routine
-4:48 A Machine Could Do This
-5:29 The Law
-6:16 Stuck
-6:56 Too Big
-8:00 The Bill Arrives
-8:36 Outro
+0:58 Born
+1:46 Sold
+2:35 First Day
+4:05 Routine
+4:50 A Machine Could Do This
+5:32 The Law
+6:19 Stuck
+6:59 Too Big
+8:03 The Bill Arrives
+8:39 Outro
 
 📚 Sources
 [S1] Wikipedia, "Chimney sweep": flue narrowing to about 9×9 in, boys climbing with knees and elbows scraped raw, entrapment with knees against the chin, "accidental death" verdicts, ages from about 4 and typically 7–10. https://en.wikipedia.org/wiki/Chimney_sweep
