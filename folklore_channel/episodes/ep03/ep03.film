@@ -1,0 +1,73 @@
+# EP03 — How to Survive Baba Yaga (According to Folklore)
+# id | picture | tokens | caption | narration      (ward lines: id | picture | ward ... | NUMERAL | rule | narration)
+# [S1] Alexander Afanasyev, "Narodnye russkie skazki" (Russian Folk Tales, 1855-1863): "Vasilisa the Beautiful", "Baba Yaga", "The Frog Princess". English: Post Wheeler, "Russian Wonder Tales" (1912), public domain. https://en.wikipedia.org/wiki/Vasilisa_the_Beautiful
+# [S2] Arthur Ransome, "Old Peter's Russian Tales" (1916), "Baba Yaga": the girl who oils the gate, feeds the dogs, ties a ribbon on the birch and gives the cat meat; the towel and comb. Public domain. https://www.gutenberg.org/ebooks/16981
+# [S3] Wikipedia, "Baba Yaga": mortar and pestle, broom sweeping her tracks, hut on chicken legs, bone leg, earliest printed mention in Lomonosov's Russian Grammar (1755), ambiguous helper/villain. https://en.wikipedia.org/wiki/Baba_Yaga
+# [S4] Andreas Johns, "Baba Yaga: The Ambiguous Mother and Witch of the Russian Folktale" (Peter Lang, 2004).
+# [S5] Vladimir Propp, "Morphology of the Folktale" (1928) and "Historical Roots of the Wonder Tale" (1946): the donor who tests the hero; the hut as a border between the living and the dead.
+# [S6] "The Frog Princess" (Afanasyev 267-269): Ivan tells Baba Yaga to feed him, give him drink and steam him in the bath before asking questions. https://en.wikipedia.org/wiki/The_Frog_Princess
+# [S7] Ivan Bilibin's illustrations for "Vasilisa the Beautiful" (1899-1900). https://en.wikipedia.org/wiki/Ivan_Bilibin
+
+# ---- HOOK ----
+b01 | a dark dense birch forest at dusk with a narrow path, wide scene | fog night zoomin | Somewhere in Russia | You've been walking through the forest since morning. Your stepmother sent you. The fire at home went out, and she told you to go and borrow a light. From her.
+b02 | a strange wooden hut standing on two giant chicken legs in a forest clearing, full figure | loom night | | And now you've found the place. A little wooden hut. Standing on two enormous chicken legs. Turning, slowly, round and round.
+b03 | a fence made of human bones with skulls on top of the posts, eyes glowing in the skulls | pulse night | | Around it, a fence. Not wood. Bones. Human bones. And on every post, a skull, with something burning inside its eyes.
+b04 | a frightened young girl in a peasant dress and headscarf holding a small wooden doll, full figure | shiver night | | You're standing at the gate when the trees start to groan, and the wind starts to howl, and something comes flying over the forest. An old woman. Riding in a mortar. Sweeping away her tracks with a broom.
+b05 | an old witch with a long hooked nose and wild hair flying in a wooden mortar steering with a pestle, full figure | bob bats night | | And she sniffs the air. And she says, I smell a human soul.
+b06 | =b05 | zoomin night | | She is Baba Yaga. She eats people. She also, sometimes, helps them. And the only thing that decides which one you get is how well you know her rules.
+b07 | an open old leather-bound book with blank pages and a melting candle beside it | title dust | Baba Yaga | This is the Ward Book. And tonight, how to survive Baba Yaga.
+
+# ---- WHO IS SHE ----
+b08 | an old Russian book of fairy tales lying open, decorative | breathe dust | Afanasyev, 1855-1863 | Baba Yaga comes from Slavic folk tales, and most of what we know about her comes from one man. Alexander Afanasyev, who between eighteen fifty-five and eighteen sixty-three published hundreds of Russian folk tales, collected from storytellers across the empire.
+b09 | =b05 | panr | | In those tales she flies in a mortar, the heavy bowl used to grind grain, and steers it with the pestle. She has iron teeth in some tellings, and one leg made of bone. Her nose is so long, one story says, it touches the ceiling of her hut.
+b10 | =b02 | zoomin | | And the hut is alive. It stands on chicken legs, and it turns to face whoever it pleases. Usually, that means away from you.
+b11 | =b08 | dust zoomin | | But here's what makes her different from a normal fairy tale witch. Baba Yaga isn't always the villain. In some tales she eats children. In others, she gives the hero exactly what he needs to win. Folklorists call her ambiguous. You can call her unpredictable.
+
+# ---- WARD I ----
+b12 | =b02 | ward | I | Know the words to turn the hut | Ward one. Know the words to turn the hut.
+b13 | =b02 | breathe | | The hut on chicken legs usually stands with its back to you, its door facing the deep forest. You can walk around it as much as you like. It just keeps turning.
+b14 | - | quote | Little hut, little hut, turn your back to the forest and your front to me. — the Russian folk tales | But the heroes of the tales know the words. Little hut, little hut. Turn your back to the forest, and your front to me.
+b15 | =b02 | zoomin | | And the hut obeys. It turns, creaking, and the door swings round to face you. Without the words, you're stuck outside in the dark. With them, you're in. Whether getting in is a good idea is another question.
+
+# ---- WARD II ----
+b16 | an old woman serving a bowl of steaming soup at a rough wooden table, full figure | ward | II | Make her be a host | Ward two. Make her be a host.
+b17 | a young man in a peasant tunic and boots standing boldly with his hands on his hips, full figure | breathe | The Frog Princess | In the tale of the Frog Princess, Prince Ivan walks into the hut, and Baba Yaga starts asking questions. And Ivan does something amazing. He tells her off.
+b18 | - | quote | You old witch, you should first give me food and drink, and steam me in the bath, and then ask your questions. — The Frog Princess | He says, more or less: first give a traveller food and drink, and a hot bath, and then ask your questions.
+b19 | =b16 | zoomin | | And she does it. She feeds him, bathes him, and then she helps him. In the old Russian world, hospitality was a sacred duty. Once you've eaten someone's bread and salt, they're your host. And a host doesn't eat their guest. At least, not right away.
+
+# ---- WARD III ----
+b20 | a stray thin dog, a creaking wooden gate and a scruffy cat sitting together, full figures | ward | III | Be kind to her servants | Ward three. Be kind to everything in her house.
+b21 | =b04 | breathe | | There's another tale, retold in English by Arthur Ransome in nineteen sixteen. A girl is sent to Baba Yaga's hut, but before she goes, her kind aunt gives her some advice.
+b22 | a hand pouring oil from a small jug onto the iron hinges of an old wooden gate, close up | zoomin | | When the gate squeaks, she oils its hinges. When the dogs snarl, she gives them bread. When the birch tree whips her face, she ties a ribbon on it. And when the starving cat looks at her, she gives it a piece of meat.
+b23 | =b05 | zoomin night | | Later that night, the girl runs. And Baba Yaga screams at her household to stop her. Gate, slam shut! Dogs, tear her apart! Birch tree, whip her eyes out! And none of them move.
+b24 | =b20 | breathe | | The gate says, you've never oiled my hinges, but she did. The dogs say, you never gave us anything but crusts, but she gave us bread. They've served Baba Yaga for years. One act of kindness, and they changed sides.
+b25 | a cat holding a folded towel and a wooden comb in its mouth, full figure | bob | | Even the cat helps. It gives the girl a towel and a comb. When Baba Yaga chases her, she throws down the towel, and it becomes a wide river. She throws down the comb, and it becomes a forest so thick even a witch can't get through.
+
+# ---- WARD IV ----
+b26 | a small carved wooden doll with a painted face sitting on a table next to a crust of bread | ward pulse | IV | Keep your mother's blessing close | Ward four. Keep your mother's blessing close.
+b27 | =b04 | zoomin | Vasilisa the Beautiful | In the most famous Baba Yaga story of all, Vasilisa the Beautiful, the heroine's mother dies when she's a little girl. But before she dies, she gives Vasilisa a tiny wooden doll, and a secret. Feed the doll, and it will help you.
+b28 | a huge pile of grain with poppy seeds and dirt mixed together, and a tiny wooden doll working at it, close up | bob dust | | Baba Yaga gives Vasilisa impossible jobs. Clean the yard. Cook the dinner. Wash the linen. Pick the mouldy grains out of a whole bushel of wheat. And every time, the little doll gets the job done while Vasilisa sleeps.
+b29 | =b05 | zoomin night | | Finally, Baba Yaga demands to know how she did it. And Vasilisa answers honestly. My mother's blessing helps me.
+b30 | - | quote | Get out of here! I want no blessed ones in my house. — Vasilisa the Beautiful | And Baba Yaga throws her out. Get out, she shouts. I want no blessed ones here.
+b31 | a glowing human skull with burning eyes on top of a wooden stick, held like a lantern | pulse night | | But she doesn't send her away empty-handed. She gives Vasilisa the fire she came for. A skull on a stick, with burning eyes. And when Vasilisa gets home, those eyes stare at the cruel stepmother and stepsisters, and burn them to ash.
+
+# ---- WARD V ----
+b32 | three horsemen riding past, one in white on a white horse, one in red on a red horse, one in black on a black horse, wide scene | ward wind | V | Don't ask too many questions | And the final ward, the most important. Don't ask too many questions.
+b33 | =b32 | panr wind | | While Vasilisa stays at the hut, she sees three riders. One all in white, one all in red, one all in black. Baba Yaga explains. The white rider is the day. The red rider is the sun. The black rider is the night.
+b34 | a pair of disembodied hands floating in the air holding a sieve, eerie, close up | pulse night | | But Vasilisa also saw something else. Pairs of hands, with no bodies, floating in the hut, grinding the grain. And she does not ask about the hands.
+b35 | - | quote | Not every question leads to good. If you know too much, you will soon grow old. — Vasilisa the Beautiful | And Baba Yaga is pleased. Because, she says, not every question leads to good. If you know too much, you'll soon grow old.
+b36 | =b04 | breathe | | Curiosity is good. Prying into a witch's private business is not. Three questions, about the outside world, fine. Ask about what goes on inside her house, and it may be the last thing you ever learn.
+
+# ---- WHERE SHE REALLY COMES FROM ----
+b37 | an old wooden storehouse raised high on two tree stumps in a snowy forest, wide scene | snow zoomin | A hut on stilts | So where does Baba Yaga really come from? Her name itself is a puzzle. Baba means old woman, or grandmother. Yaga, nobody is quite sure. Scholars have linked it to old words for pain, anger and horror.
+b38 | =b37 | panl snow | | And that chicken-legged hut might have a real-world cousin. Some writers compare it to the little wooden storehouses that forest peoples built high on tree stumps, to keep food safe from animals. From a distance, they really do look like a house standing on legs.
+b39 | an old professor with a beard and round glasses writing in a notebook, full figure | breathe dust | Vladimir Propp | The great Russian folklorist Vladimir Propp had a darker idea. He saw Baba Yaga's hut as a border post between the world of the living and the world of the dead. The hero has to pass through it, be tested, and come out changed.
+b40 | =b39 | zoomin | The Donor | In Propp's famous study of fairy tales, she plays a role he called the donor. The figure who tests the hero, and if they pass, gives them the magic they need. Fail the test, and you're dinner.
+b41 | =b08 | dust | Lomonosov, 1755 | Her first clear appearance in print is in seventeen fifty-five, in Mikhail Lomonosov's Russian Grammar. Then, at the very end of the eighteen hundreds, the artist Ivan Bilibin drew her for Vasilisa the Beautiful, and gave her the look that still defines her today.
+
+# ---- THE VERDICT ----
+b42 | =b02 | zoomout night | | So, how do you survive Baba Yaga? Look at the wards again. Know the words. Make her be a host. Be kind to the cat. Keep your mother's blessing close. And don't pry.
+b43 | =b20 | breathe | | Every single one of those is really a rule about how to behave. Be polite, but not a pushover. Be kind to the weak. Remember the people who loved you. Know when to stop asking.
+b44 | =b05 | bob night | | Baba Yaga doesn't punish the brave. She punishes the rude, the greedy, and the nosy. Which, to be fair, is more than you can say for most monsters.
+b45 | =b07 | dust zoomin | | Next week is the last ward of the year, and the biggest. On the darkest nights of winter, something rides across the sky over Europe. Hounds, horses, ghosts, and a leader who might be a god.
+b46 | a ghostly procession of horsemen and hounds riding across a stormy night sky above a village, wide scene | endcard wind night | The Wild Hunt | It's the Wild Hunt. And if you hear it overhead, there's one thing you must never, ever do. Subscribe, so the Ward Book is open when it rides. And until then, be kind to cats.
