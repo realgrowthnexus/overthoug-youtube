@@ -400,7 +400,7 @@ def render(film, out, limit=None):
     bed = os.path.join(ROOT, "pipeline", "bed.wav")
     mix = ["-i", bed, "-filter_complex", "[2:a]volume=0.10,aloop=loop=-1:size=2e9[b];[1:a][b]amix=inputs=2:duration=first:normalize=0[a]", "-map", "0:v", "-map", "[a]"] if os.path.exists(bed) else ["-map", "0:v", "-map", "1:a"]
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", lst, "-i", audio, *mix,
-                    "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-shortest", out], check=True)
+                    "-c:v", "copy", "-af", "loudnorm=I=-14:TP=-1.5:LRA=11", "-c:a", "aac", "-b:a", "192k", "-shortest", out], check=True)
     total = sum(frames) / FPS; print(out, f"{total:.1f}s")
     json.dump([{"id": s["id"], "start": round(sum(frames[:k]) / FPS, 2)} for k, s in enumerate(shots)],
               open(os.path.splitext(out)[0] + ".times.json", "w"), indent=0)
