@@ -1,0 +1,85 @@
+# EP03 — Why It Sucks to Be Born as a Plague Doctor
+# Composite character in Venice during the Italian plague of 1629-1631. Sources at the bottom.
+HERO: a thin young doctor in a long black coat
+# id | picture | tokens | caption | narration
+# ---- HOOK ----
+p01 | a plague doctor in a long black coat, wide black hat and a white bird beak mask, standing in a dark street holding a wooden cane | zoomin | | You're wearing a bird mask stuffed with flowers, a coat dipped in wax, and you're walking into a house where everyone is dying.
+p02 | =p01 | hold | | The mask is supposed to protect you. It doesn't. The flowers are supposed to clean the air. They don't.
+p03 | a closed wooden door with a big painted red cross on it | zoomin | | And the city paid you extra for this job for one simple reason. Every real doctor already ran away.
+p04 | a simple Venice skyline with domes, a bell tower and gondolas on a canal | birds panl | Venice, 1630 | Let's go back to how you got here.
+p04a | =p03 | hold | | And by the end of this video, you'll find out the whole costume was protecting you from the wrong thing.
+# ---- BORN ----
+p05 | a mother holding a baby in a simple Italian house, a father reading a big book | | | You're born in northern Italy at the very end of the fifteen hundreds. Your family has just enough money to send you to medical school. You're very proud of this.
+p06 | {hero} as a student in a lecture hall looking at a skeleton, an old professor pointing | | Medical school | At university you learn the best medicine of your time. Which is a problem, because the best medicine of your time is mostly wrong.
+p07 | an old professor pointing at a drawing of four coloured liquid drops: red, yellow, black, white | sparkle | the four humours | You learn that the body is run by four fluids called humours. Blood, phlegm, yellow bile, and black bile. Get sick? Your fluids are out of balance.
+p08 | a cloud of green smelly fog floating over a street, people holding their noses | smoke | "bad air" | And you learn that diseases spread through bad air. Stinky, poisonous fog called miasma. If something smells disgusting, it must be dangerous.
+p09 | =p08 | hold | | Half right, for the wrong reasons. Remember that.
+p09a | an old doctor sniffing a small bouquet of flowers held under his nose while walking past garbage | | | So the rule of medicine is simple. Bad smells, bad. Good smells, good. Rich people walk around holding flowers and perfumed balls under their noses. Not because it works. Because it smells like it should.
+# ---- GRADUATE ----
+p10 | {hero} graduating holding a rolled diploma, proud, with a small square hat | bob | | You graduate. You're young, you have no patients, and you have no reputation. Rich families want an old famous doctor, not you.
+p11 | {hero} sitting alone at a desk in an empty doctor's office, cobwebs, yawning | | | So you wait. And wait. Business is very slow.
+p12 | a merchant ship arriving at a harbour with tiny rats running down the rope | panr | 1629 | Then in sixteen twenty-nine, business picks up. In the worst way possible.
+p13 | soldiers marching in a long line across a simple hilly landscape | walk | | Armies are marching through northern Italy during a war. And travelling with them, invisibly, is the plague.
+p14 | a map of northern Italy with black dots spreading across it | zoomin | | It spreads from city to city. Milan. Florence. Bologna. And then, in the summer of sixteen thirty, it reaches Venice.
+p14a | =p13 | hold | | The war, by the way, is about who gets to rule a small Italian duchy. Thousands of soldiers march back and forth over it. And the plague hitches a ride for free.
+# ---- EVERYONE RUNS ----
+p15 | rich doctors in fancy clothes running away carrying luggage towards a boat | walk | | Now here's what the famous doctors do when the plague arrives. They leave. Rich families leave too. They have villas in the countryside.
+p16 | a city official in a red robe nailing a paper notice to a wall | | WANTED: plague doctor | Which leaves the city with a problem. Somebody has to treat the sick, count the dead, and write down who died of what. So the city does what cities did. It hires a plague doctor.
+p17 | =p11 | zoomin | | And who takes a job like that? Not the famous doctors. Young, inexperienced ones. People with no patients and nothing to lose. People like you.
+p18 | a city official in a red robe and {hero} shaking hands over a contract on a table, coins stacked beside it | sparkle | | You sign a contract with the city. The pay is much better than normal. Some towns paid plague doctors several times a regular doctor's salary.
+p19 | =p18 | hold | | There's just one condition hidden in the deal. You treat plague patients only. Which means, after this, no normal patient will ever want to see you again.
+p19a | =p18 | zoomin | | You read the contract twice. It's a lot of money. And you have a lot of student debt, in a century without student loans. So you tell yourself, how bad can it be? You are about to find out.
+# ---- THE COSTUME ----
+p20 | a plague doctor costume hanging on a stand: long black coat, wide hat, gloves, boots, white bird beak mask | sparkle zoomin | | Then you get your uniform. And yes. This is the famous one.
+p21 | an old French royal doctor with a long curly wig proudly presenting a bird beak mask | | Charles de Lorme, 1619 | It's usually credited to a French royal doctor called Charles de Lorme, around sixteen nineteen. A long coat dipped in wax. Leather gloves, boots, a hat.
+p22 | a white bird beak mask being filled with flowers, herbs and lavender | sparkle | | And the beak. The beak is stuffed with herbs and flowers like lavender and mint, or sponges soaked in vinegar. Remember the bad air theory? The beak was supposed to filter the poisonous smell before it reached your nose.
+p23 | a plague doctor holding a long wooden cane and poking something from a distance | wag | | You also get a long wooden cane, so you can examine patients without touching them. Or push them away. Or point at things dramatically.
+p24 | =p20 | hold | | Fun fact. Historians think very few plague doctors ever wore the full bird outfit. It became famous later. But in this video, you got the full costume, because you are that unlucky.
+# ---- THE WORK ----
+p25 | a plague doctor walking down an empty dark street at night with a lantern | walk | | Your days start early. You walk through streets that are almost empty. Most people are hiding behind locked doors.
+p26 | a sick man lying in bed with dark swollen lumps on his neck, his worried wife beside him | | | Inside the houses, you see the same thing again and again. Fever. Chills. And then the swellings. Big dark lumps on the neck, under the arms, in the groin. They're called buboes.
+p27 | a plague doctor holding a small bowl and a knife next to a patient's arm, very simple, not graphic | | bloodletting | Your treatment options? Bloodletting, because the humours must be out of balance. Cutting open the buboes to drain them. Herbs, potions, and prayer.
+p28 | =p26 | hold | | None of it works. And deep down, you're starting to notice that none of it works.
+p28a | =p26 | zoomin | 3 to 7 days | And it's fast. With bubonic plague, the swellings show up a few days after infection, and without treatment, many patients die within a week. Sometimes you visit a family on Monday, and by Friday there's nobody left to visit.
+p28b | =p27 | hold | | And because nobody knows what causes it, you also get the strange stuff. Sniffing vinegar. Burning herbs in the street. Ringing bells. Praying in the right order. Everybody has a cure, and every cure has a funeral.
+p29 | a plague doctor writing names in a big ledger book at a desk, many pages full | zoomin | | So a big part of your job is paperwork. You count the sick. You count the dead. You write down who died, where, and of what. You even help people write their final wills.
+p30 | a boat with sick people being rowed towards a small island with a big stone building | panl | Lazzaretto | The very sick are taken by boat to the plague hospital on a small island in the lagoon. Venice had built it about two hundred years earlier, after earlier plagues.
+p31 | ships waiting in a lagoon with a flag on each, a big number forty written on a sail | | 40 days | Venice was actually ahead of its time. Ships from infected places had to wait forty days before anyone could come ashore. That waiting period gave us a word. Quarantine. From the Italian for forty.
+p31a | an island with a stone wall, workers digging a long trench while a boat arrives | panr | | Thousands of plague victims were buried on that island. Centuries later, in two thousand and seven, archaeologists digging there found mass graves with the skeletons of more than a thousand people.
+# ---- ALONE ----
+p32 | a plague doctor walking through a market while people run away from him in fear | walk | | Meanwhile, your social life is gone. When people see the beak coming down the street, they don't think, help is here. They think, someone is about to die.
+p33 | a plague doctor sitting alone in a small dark room eating soup, very lonely | | | And you're often kept away from the public between visits. You eat alone. You sleep alone. You're the most needed person in the city, and nobody wants to be near you.
+p34 | =p32 | hold | | Honestly? They might have a point. Because you're walking from one infected house to the next. If anyone is spreading this thing around the city, it might be you.
+# ---- THE PEAK ----
+p35 | a city full of houses with red crosses painted on the doors | zoomin | November 1630 | By November, the city is at its worst. Hundreds of people are dying every day.
+p36 | a cart carrying wrapped bodies being pushed down an empty street by a man with a cloth over his mouth | walk | | The death carts come every night.
+p37 | =p29 | zoomin | about 1 in 3 | By the end of the epidemic, Venice loses something like a third of its people. Around forty-six thousand dead in a city of about one hundred and forty thousand.
+p38 | two plague doctors in beak masks, one lying sick in bed while the other looks worried | | | And doctors died too. They were walking straight into the disease every day, wearing a mask full of flowers.
+p38a | =p29 | | | And somebody still has to count them. The bodies, the houses, the families. You. Night after night, in a book that keeps getting heavier.
+# ---- THE TWIST ----
+p39 | a small brown rat with tiny black fleas jumping around it | zoomin | | Because here's what nobody in sixteen thirty knows. It isn't the bad air.
+p40 | a 19th century scientist with a moustache looking through a microscope, glowing | sparkle | Yersin, 1894 | In eighteen ninety-four, more than two hundred and sixty years after you, a scientist called Alexandre Yersin finally identifies the bacteria behind the plague.
+p41 | =p39 | hold | fleas | And how did the bubonic plague mostly spread? Through fleas, carried by rats. Little biters that went right past your beak.
+p41a | a sick man coughing into the air with small dots flying from his mouth, a worried plague doctor nearby | zoomin | | There's one small twist in your favour. In some cases, the plague infected the lungs, and then it really could spread through the air, from coughing. So bad air wasn't completely wrong. Just mostly wrong, for completely wrong reasons.
+p42 | =p22 | hold | | Your bird mask was filtering the air for a smell. The killer was jumping around your ankles.
+# ---- THE END ----
+p43 | {hero} without the mask, very tired with dark circles under his eyes, sitting on steps by a canal | | 1631 | But somehow, you survive. In sixteen thirty-one, the plague finally fades out of Venice.
+p44 | a huge white domed church on the edge of a canal with crowds celebrating | sparkle panr | Santa Maria della Salute | And to celebrate, the city builds a giant, beautiful church to give thanks for being saved. It's called Santa Maria della Salute. It still stands today.
+p45 | =p43 | zoomin | | It thanks God. It thanks the Virgin Mary. It does not thank the plague doctors.
+p46 | {hero} knocking on a door while a family inside closes the window and hides | | | And when you go back to normal life, normal patients don't want you anywhere near them. You are, forever, the plague guy.
+# ---- OUTRO ----
+p47 | =p01 | | | So that's your life. You studied the best medicine in the world, and it was wrong. You took the job nobody wanted, wore the scariest outfit in history,
+p48 | =p41 | | | and fought an invisible enemy with lavender while the real killer bit your ankles.
+p49 | a gladiator with a bronze helmet, small round shield and short sword, waving | endcard static | | Thanks for living it with us. Next time, you're a Roman gladiator. Thousands of fans, a wooden sword, and a diet of barley. Subscribe, and pick your next past life.
+# ---- SOURCES ----
+# [S1] Wikipedia "Plague doctor": hired under municipal contracts, often younger/less established doctors, higher pay, restricted to plague patients,
+#      record-keeping and wills, cane, quarantine of doctors. https://en.wikipedia.org/wiki/Plague_doctor
+# [S2] Wikipedia "Plague doctor costume" + National Geographic: Charles de Lorme c.1619, waxed coat, herb-filled beak, miasma theory,
+#      doubts about how common it was. https://en.wikipedia.org/wiki/Plague_doctor_costume
+#      https://www.nationalgeographic.com/history/article/plague-doctors-beaked-masks-coronavirus
+# [S3] Wikipedia "Italian plague of 1629-1631": spread with armies (War of Mantuan Succession), Venice ~46,000 dead of ~140,000.
+#      https://en.wikipedia.org/wiki/Italian_plague_of_1629%E2%80%931631
+# [S4] Venice Lazzaretto Vecchio (1423) and 40-day isolation -> "quarantena". https://sapiens.org/archaeology/venice-quarantine-history
+# [S5] Wikipedia "Santa Maria della Salute": votive church for deliverance from the 1630 plague. https://en.wikipedia.org/wiki/Santa_Maria_della_Salute
+# [S6] Wikipedia "Alexandre Yersin" (1894) and "Bubonic plague" (flea-borne). https://en.wikipedia.org/wiki/Alexandre_Yersin
+# Fact-check: the hero is a composite; peak "hundreds a day" per S3 (Nov 1630 peak); keep the costume caveat (p24) in the video.

@@ -22,7 +22,10 @@ def thumb(src,out,small,big,arrow_to,dx=-20):
     fs=ImageFont.truetype(F+"Kalam-Bold.ttf",78); fb=ImageFont.truetype(F+"Kalam-Bold.ttf",150)
     fb=ImageFont.truetype(F+"Kalam-Bold.ttf",140); cx=1030
     d.text((cx,290),small,font=fs,fill='black',anchor='mm')
-    for i,l in enumerate(big.split()): d.text((cx,415+i*135),l,font=fb,fill='black',anchor='mm')
+    lines=big.split(); n=len(lines); size,step,y0={1:(170,0,450),2:(140,135,415),3:(112,108,395)}[min(n,3)]
+    fb=ImageFont.truetype(F+"Kalam-Bold.ttf",size)
+    while max(d.textlength(l,font=fb) for l in lines)>470: size-=6; fb=ImageFont.truetype(F+"Kalam-Bold.ttf",size)
+    for i,l in enumerate(lines): d.text((cx,y0+i*step),l,font=fb,fill=(178,34,34) if i==n-1 else 'black',anchor='mm')
     arrow(d,(cx-40,205),arrow_to,bend=-70)
     c.save(out,quality=92)
 def frame(src,out,caption=None):
@@ -32,8 +35,9 @@ def frame(src,out,caption=None):
         d=ImageDraw.Draw(c); f=ImageFont.truetype(F+"Kalam-Bold.ttf",64)
         d.text((W//2,120),caption,font=f,fill='black',anchor='mm')
     c.save(out,quality=92)
-thumb('t1b_sweep.jpg','THUMB_chimney_sweep.jpg','6 years old','Stuck Inside',(640,260))
-thumb('t2b_executioner.jpg','THUMB_executioner.jpg','Everyone','Hates You',(560,250),dx=-160)
-frame('s1b_born.jpg','FRAME1_born.jpg','London, 1841')
-frame('s2b_sold.jpg','FRAME2_sold.jpg','Sold to a master sweep')
-frame('s3b_climb.jpg','FRAME3_climb.jpg')
+if __name__=="__main__":
+  thumb('t1b_sweep.jpg','THUMB_chimney_sweep.jpg','6 years old','Stuck Inside',(640,260))
+  thumb('t2b_executioner.jpg','THUMB_executioner.jpg','Everyone','Hates You',(560,250),dx=-160)
+  frame('s1b_born.jpg','FRAME1_born.jpg','London, 1841')
+  frame('s2b_sold.jpg','FRAME2_sold.jpg','Sold to a master sweep')
+  frame('s3b_climb.jpg','FRAME3_climb.jpg')
